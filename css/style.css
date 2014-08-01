@@ -1,0 +1,35 @@
+li {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+li a {
+    font-weight: 600;
+}
+
+.billboard {
+    height: 500px;
+    background: url('http://placehold.it/1600x900') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.billboard h1 {
+    font-size: 3em;
+    font-weight: 400;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    text-shadow: 0 1px 1px black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.billboard h3 {
+    font-size: 2em;
+    color: white;
+    text-shadow: 0 1px 1px black;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Titillium Web', sans-serif;
+}
