@@ -1,0 +1,7 @@
+{
+  "rush_events": [
+    {"type": "Info Session", "date": "Aug 14", "time": "6:30-7:30pm", "location": "ECJ 2.102"},
+    {"type": "Bowling Night", "date": "Aug 15", "time": "5-7pm", "location": "Union Underground"},
+    {"type": "Volleyball & BBQ", "date": "Aug 16", "time": "11-2:30pm", "location": "Creekside Park"}
+  ]
+}
