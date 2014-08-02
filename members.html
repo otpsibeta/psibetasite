@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Theta Tau - Psi Beta - Members</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/pure-min.css">
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css">
+        <![endif]-->
+        <!--[if gt IE 8]><!-->
+            <link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.5.0/grids-responsive-min.css">
+        <!--<![endif]-->
+        <link href="//fonts.googleapis.com/css?family=Titillium+Web:400,700" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div class="header">
+            <div class="pure-menu pure-menu-open pure-menu-horizontal">
+                <a href="#" class="pure-menu-heading">Theta Tau - Psi Beta</a>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="rush.html">Fall Rush 2014</a></li>
+                    <li class="pure-menu-selected"><a href="#">Members</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="pure-g">
+            <div class="pure-u-5-5" style="text-align: center;">
+                <h1>Active Members</h1>
+            </div>
+        </div>
+        
+        <div id="actives-list">
+        </div>
+        
+        <script id="actives-list-template" type="text/x-handlebars-template">
+{{#everyNth actives 6}}
+    {{#if isModZeroNotFirst}}
+        </div>
+    {{/if}}
+    {{#if isModZero}}
+        <div class="pure-g">
+    {{/if}}
+        <div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-6">
+            <img class='pure-img' src="{{img}}">
+            <h4>{{name}}</h4>
+            <p>{{pledge_name}}</p>
+            <p>{{pin}}</p>
+            <p>{{pledge_class}}</p>
+            <p>{{major}}</p>
+        </div>
+    {{#if isLast}}
+    {{/if}}
+{{/everyNth}}
+        </script>
+        
+        <script type="text/javascript" src="//cdn.jsdelivr.net/jquery/2.1.1/jquery.min.js"></script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/handlebarsjs/1.3.0/handlebars.min.js"></script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/underscorejs/1.6.0/underscore-min.js"></script>
+        <script type="text/javascript">
+            
+            Handlebars.registerHelper('everyNth', function(context, every, options) {
+              var fn = options.fn, inverse = options.inverse;
+              var ret = "";
+              if(context && context.length > 0) {
+                for(var i=0, j=context.length; i<j; i++) {
+                  var modZero = i % every === 0;
+                  ret = ret + fn(_.extend({}, context[i], {
+                    isModZero: modZero,
+                    isModZeroNotFirst: modZero && i > 0,
+                    isLast: i === context.length - 1
+                  }));
+                }
+              } else {
+                ret = inverse(this);
+              }
+              return ret;
+            });
+ 
+            
+            var source = $("#actives-list-template").html();
+            var template = Handlebars.compile(source);
+            
+            $.getJSON("data/actives.json", function(data) {
+                $("#actives-list").append(template(data));
+            });
+        </script>
+    </body>
+</html>
