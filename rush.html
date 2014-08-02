@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Theta Tau - Psi Beta</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.5.0/pure-min.css">
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css">
+        <![endif]-->
+        <!--[if gt IE 8]><!-->
+            <link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.5.0/grids-responsive-min.css">
+        <!--<![endif]-->
+        <link href="//fonts.googleapis.com/css?family=Titillium+Web:400,700" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div class="header">
+            <div class="pure-menu pure-menu-open pure-menu-horizontal">
+                <a href="#" class="pure-menu-heading">Theta Tau - Psi Beta</a>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li class="pure-menu-selected"><a href="#">Fall Rush 2014</a></li>
+                    <li><a href="#">Members</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="pure-g">
+            <div class="pure-u-5-5" style="text-align: center;">
+                <h1>Fall Rush 2014</h1>
+                <h3>Fall Rush will take place from RUSH_START and RUSH_END.</h3>
+            </div>
+        </div>
+        
+        <div class="pure-g">
+            <div class="pure-u-5-5">
+                <h2>Events</h2>
+                <table class="pure-table">
+                    <thead>
+                        <th>Event</th>
+                        <th>Time</th>
+                        <th>Location</th>
+                    </thead>
+                    <tbody id="rush-table-body">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <script id="rush-event-template" type="text/x-handlebars-template">
+            {{#each rush_event}}
+                <tr>
+                    <td>{{this.type}}</td>
+                    <td>{{this.time}}</td>
+                    <td{{this.location}}</td>
+                </tr>
+            {{/each}}
+        </script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/jquery/2.1.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            $.getJSON("data/rush.json", function(json) {
+                console.log(json);
+            });
+        </script>
+    </body>
+</html>
