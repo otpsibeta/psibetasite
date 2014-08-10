@@ -1,14 +1,42 @@
-li {
-    font-family: 'Titillium Web', sans-serif;
-}
 
-li a {
-    font-weight: 600;
+.menuitems a {
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.menuitems {
+    text-align: left;
+    vertical-align: middle;
+    margin-top: 0px;
+    padding-top: 7px;
+}
+.menuitems li {
+    font-family: 'Roboto Slab', serif;
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 150%;
+    
+}
+.header{
+    background-color: #c11714;
+    height: 80px;
+    width: 100%;
+    margin-top: 0pt;
+    position: fixed;
+}
+.first {
+   margin-left: 17%;
+}
+.OT {
+    font-size: 200%;
+    vertical-align: -12%;
 }
 
 .billboard {
     height: 500px;
-    background: url('http://placehold.it/1600x900') no-repeat center center fixed; 
+    background: url('https://i.imgur.com/NG54CPi.jpg') no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -16,20 +44,23 @@ li a {
 }
 
 .billboard h1 {
-    font-size: 3em;
-    font-weight: 400;
-    font-family: 'Titillium Web', sans-serif;
+    font-size: 8em;
+    font-weight: 700;
+    font-family: 'Roboto Slab', serif;
     color: white;
-    text-shadow: 0 1px 1px black;
     text-align: center;
     vertical-align: middle;
+    margin-top: 0px;
+    padding-top: 10%;
+    margin-bottom: 0px;
 }
-
+  
 .billboard h3 {
     font-size: 2em;
     color: white;
-    text-shadow: 0 1px 1px black;
     text-align: center;
     vertical-align: middle;
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0px;
+    padding-left: 1%;
 }
