@@ -6,6 +6,9 @@ html, button, input, select, textarea,
 body{
     background-color: #fbfbfb;
 }
+.pure-u-5-5{
+    text-align: center;
+}
 .menuitems a {
     font-weight: 400;
     color: white;
@@ -52,6 +55,7 @@ body{
     padding-top: 10px;
     margin-bottom: 0;
 }
+
 .first {
    margin-left: 6.5%;
 }
@@ -68,7 +72,6 @@ body{
     -o-background-size: cover;
     background-size: cover;
 }
-
 .billboard h1 {
     font-size: 8em;
     font-weight: 700;
