@@ -399,6 +399,94 @@
             "pledge_name": "Nesquik",
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical"
+        },
+        {
+            "img": "img/actives/382.png",
+            "name": "Austin Hinners",
+            "pin": "382",
+            "pledge_name": "Touché",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Mechanical"
+        },
+        {
+            "img": "img/actives/383.png",
+            "name": "Sammie Yellott",
+            "pin": "383",
+            "pledge_name": "Nein",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Chemical"
+        },
+        {
+            "img": "img/actives/384.png",
+            "name": "Annie Mara",
+            "pin": "384",
+            "pledge_name": "Naturally",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Mechanical"
+        },
+        {
+            "img": "img/actives/385.png",
+            "name": "Katelyn Kelsey",
+            "pin": "385",
+            "pledge_name": "Celery",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Biomedical"
+        },
+        {
+            "img": "img/actives/386.png",
+            "name": "Christian Young",
+            "pin": "386",
+            "pledge_name": "Murphy",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Electrical"
+        },
+        {
+            "img": "img/actives/387.png",
+            "name": "Ammar Hazim",
+            "pin": "387",
+            "pledge_name": "Neptune",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Electrical"
+        },
+        {
+            "img": "img/actives/388.png",
+            "name": "Austin Winebrenner",
+            "pin": "388",
+            "pledge_name": "L'chaim",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Mechanical"
+        },
+        {
+            "img": "img/actives/389.png",
+            "name": "Julia Polieava",
+            "pin": "389",
+            "pledge_name": "Sensei",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Petroleum"
+        },
+        {
+            "img": "img/actives/390.png",
+            "name": "Lindsay Wandall",
+            "pin": "390",
+            "pledge_name": "False",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Civil"
+        },
+        {
+            "img": "img/actives/391.png",
+            "name": "Megan Shyr",
+            "pin": "391",
+            "pledge_name": "Lemniscate",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Biomedical"
+        },
+        {
+            "img": "img/actives/392.png",
+            "name": "Sophie Lloyd",
+            "pin": "392",
+            "pledge_name": "idklol",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Geosystems"
         }
     ]
 }
