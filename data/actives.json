@@ -1,7 +1,7 @@
 {
     "actives": [
         {
-            "img": "img/actives/269.png",
+            "img": "269.jpg",
             "name": "Justin Chandler",
             "pin": "269",
             "pledge_name": "ZZ!",
@@ -9,7 +9,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/291.png",
+            "img": "291.jpg",
             "name": "Kristopher Williams",
             "pin": "291",
             "pledge_name": "#4",
@@ -17,7 +17,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/303.png",
+            "img": "303.jpg",
             "name": "Lauren Coffman",
             "pin": "303",
             "pledge_name": "Checkers",
@@ -25,7 +25,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/318.png",
+            "img": "318.jpg",
             "name": "Bridget Owens",
             "pin": "318",
             "pledge_name": "Halfstack",
@@ -33,7 +33,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/319.png",
+            "img": "319.jpg",
             "name": "Cristina Madruga",
             "pin": "319",
             "pledge_name": "Screwdriver",
@@ -41,7 +41,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/321.png",
+            "img": "321.jpg",
             "name": "Taylor Ellis",
             "pin": "321",
             "pledge_name": "Haberdasher",
@@ -49,7 +49,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/322.png",
+            "img": "322.jpg",
             "name": "Joe McGahhey",
             "pin": "322",
             "pledge_name": "Spelling Bee",
@@ -57,7 +57,7 @@
             "major": "Aerospace"
         },
         {
-            "img": "img/actives/323.png",
+            "img": "323.jpg",
             "name": "Katie Madler",
             "pin": "323",
             "pledge_name": "Hammer",
@@ -65,7 +65,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/324.png",
+            "img": "324.jpg",
             "name": "Josh Scoville",
             "pin": "324",
             "pledge_name": "Five Alarm",
@@ -73,7 +73,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/327.png",
+            "img": "327.jpg",
             "name": "Darla Hollander",
             "pin": "327",
             "pledge_name": "Buckwheat",
@@ -81,7 +81,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/329.png",
+            "img": "329.jpg",
             "name": "Marianna Gonzales",
             "pin": "329",
             "pledge_name": "Swiper",
@@ -89,7 +89,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/331.png",
+            "img": "331.jpg",
             "name": "Nick Mustachio",
             "pin": "331",
             "pledge_name": "Diabeetus",
@@ -97,7 +97,7 @@
             "major": "Aerospace"
         },
         {
-            "img": "img/actives/333.png",
+            "img": "333.jpg",
             "name": "Ana Perarnau",
             "pin": "333",
             "pledge_name": "Jeeves",
@@ -105,7 +105,7 @@
             "major": "Civil"
         },
         {
-            "img": "img/actives/336.png",
+            "img": "336.jpg",
             "name": "Alexandra Brinegar",
             "pin": "336",
             "pledge_name": "Aretoo",
@@ -113,7 +113,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/337.png",
+            "img": "337.jpg",
             "name": "Jordan Swisher",
             "pin": "337",
             "pledge_name": "Pinto",
@@ -121,7 +121,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/341.png",
+            "img": "341.jpg",
             "name": "Amy Hooper",
             "pin": "341",
             "pledge_name": "Perry",
@@ -129,7 +129,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/342.png",
+            "img": "342.jpg",
             "name": "Audrey Einhorn",
             "pin": "342",
             "pledge_name": "Instructions",
@@ -137,7 +137,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/343.png",
+            "img": "343.jpg",
             "name": "Aaron Jordan",
             "pin": "343",
             "pledge_name": "Hoffscotch",
@@ -145,7 +145,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/344.png",
+            "img": "344.jpg",
             "name": "Drew Stonecipher",
             "pin": "344",
             "pledge_name": "I did it once.",
@@ -153,7 +153,7 @@
             "major": "Aerospace"
         },
         {
-            "img": "img/actives/345.png",
+            "img": "345.jpg",
             "name": "Michelle Huddleston",
             "pin": "345",
             "pledge_name": "Ace",
@@ -161,7 +161,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/346.png",
+            "img": "346.jpg",
             "name": "Amanda Keebler",
             "pin": "346",
             "pledge_name": "Ehrmernder",
@@ -169,7 +169,7 @@
             "major": "Computer Science"
         },
         {
-            "img": "img/actives/347.png",
+            "img": "347.jpg",
             "name": "Nathan Riojas",
             "pin": "347",
             "pledge_name": "Kali-ma",
@@ -177,7 +177,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/349.png",
+            "img": "349.jpg",
             "name": "Summer Gunnels",
             "pin": "349",
             "pledge_name": "Buckoff",
@@ -185,7 +185,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/350.png",
+            "img": "350.jpg",
             "name": "Sean Cascketta",
             "pin": "350",
             "pledge_name": "Gator",
@@ -193,7 +193,7 @@
             "major": "Computer Science"
         },
         {
-            "img": "img/actives/353.png",
+            "img": "353.jpg",
             "name": "Bryan Boucher",
             "pin": "353",
             "pledge_name": "Toofbrush",
@@ -201,7 +201,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/354.png",
+            "img": "354.jpg",
             "name": "Jake Lewis",
             "pin": "354",
             "pledge_name": "Colonel Cop-Out",
@@ -209,7 +209,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/355.png",
+            "img": "355.jpg",
             "name": "Miguel Vazquez",
             "pin": "355",
             "pledge_name": "Spiral",
@@ -217,7 +217,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/356.png",
+            "img": "356.jpg",
             "name": "Kevin Allen",
             "pin": "356",
             "pledge_name": "Red Shirt",
@@ -225,7 +225,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/357.png",
+            "img": "357.jpg",
             "name": "Dacy Thomas",
             "pin": "357",
             "pledge_name": "Skids",
@@ -233,7 +233,7 @@
             "major": "Civil"
         },
         {
-            "img": "img/actives/358.png",
+            "img": "358.jpg",
             "name": "Zacharay Pickett",
             "pin": "358",
             "pledge_name": "Guster",
@@ -241,7 +241,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/360.png",
+            "img": "360.jpg",
             "name": "Mat Martins",
             "pin": "360",
             "pledge_name": "Earmuffs",
@@ -249,7 +249,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/361.png",
+            "img": "361.jpg",
             "name": "Chelsea Clark",
             "pin": "361",
             "pledge_name": "Frankenpledge",
@@ -257,7 +257,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/364.png",
+            "img": "364.jpg",
             "name": "Annette Garcia",
             "pin": "364",
             "pledge_name": "Yeah, Science!",
@@ -265,7 +265,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/365.png",
+            "img": "365.jpg",
             "name": "Carla Lacson",
             "pin": "365",
             "pledge_name": "Fortress",
@@ -273,7 +273,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/366.png",
+            "img": "366.jpg",
             "name": "Devin O'Kelly",
             "pin": "366",
             "pledge_name": "Psssss",
@@ -281,7 +281,7 @@
             "major": "Biomedical"
         },
         {
-            "img": "img/actives/367.png",
+            "img": "367.jpg",
             "name": "Akil Chittalru",
             "pin": "367",
             "pledge_name": "Goggles",
@@ -289,7 +289,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/368.png",
+            "img": "368.jpg",
             "name": "Ben Bylenok",
             "pin": "368",
             "pledge_name": "Dover",
@@ -297,7 +297,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/369.png",
+            "img": "369.jpg",
             "name": "Mac Nghiem",
             "pin": "369",
             "pledge_name": "Corral",
@@ -305,7 +305,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/370.png",
+            "img": "370.jpg",
             "name": "Holly Ashford",
             "pin": "370",
             "pledge_name": "Choc U",
@@ -313,7 +313,7 @@
             "major": "Architectural"
         },
         {
-            "img": "img/actives/371.png",
+            "img": "371.jpg",
             "name": "Emeka Ugwu",
             "pin": "371",
             "pledge_name": "#",
@@ -321,7 +321,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/372.png",
+            "img": "372.jpg",
             "name": "Diana Ruth",
             "pin": "372",
             "pledge_name": "Seatbelt",
@@ -329,7 +329,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/373.png",
+            "img": "373.jpg",
             "name": "Sabrina Luce",
             "pin": "373",
             "pledge_name": "Champagne",
@@ -337,7 +337,7 @@
             "major": "Aerospace"
         },
         {
-            "img": "img/actives/374.png",
+            "img": "374.jpg",
             "name": "Melissa Latterell",
             "pin": "374",
             "pledge_name": "Longitude",
@@ -345,7 +345,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/375.png",
+            "img": "375.jpg",
             "name": "Priyanka Vaidya",
             "pin": "375",
             "pledge_name": "Gir",
@@ -353,7 +353,7 @@
             "major": "Biomedical"
         },
         {
-            "img": "img/actives/376.png",
+            "img": "376.jpg",
             "name": "Matt Meleen",
             "pin": "376",
             "pledge_name": "Radcliffe",
@@ -361,7 +361,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/377.png",
+            "img": "377.jpg",
             "name": "Madison Ford",
             "pin": "377",
             "pledge_name": "Ulyssesessess",
@@ -369,7 +369,7 @@
             "major": "Architectural"
         },
         {
-            "img": "img/actives/378.png",
+            "img": "378.jpg",
             "name": "Morgan Watson-Morris",
             "pin": "378",
             "pledge_name": "Ricer",
@@ -377,7 +377,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/379.png",
+            "img": "379.jpg",
             "name": "Jason Adams",
             "pin": "379",
             "pledge_name": "Cheech",
@@ -385,7 +385,7 @@
             "major": "Aerospace"
         },
         {
-            "img": "img/actives/380.png",
+            "img": "380.jpg",
             "name": "Victor Clark",
             "pin": "380",
             "pledge_name": "Hoffschnapps",
@@ -393,7 +393,7 @@
             "major": "Civil"
         },
         {
-            "img": "img/actives/381.png",
+            "img": "381.jpg",
             "name": "Khalid Hamza",
             "pin": "381",
             "pledge_name": "Nesquik",
@@ -401,7 +401,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/382.png",
+            "img": "382.jpg",
             "name": "Austin Hinners",
             "pin": "382",
             "pledge_name": "Touché",
@@ -409,7 +409,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/383.png",
+            "img": "383.jpg",
             "name": "Sammie Yellott",
             "pin": "383",
             "pledge_name": "Nein",
@@ -417,7 +417,7 @@
             "major": "Chemical"
         },
         {
-            "img": "img/actives/384.png",
+            "img": "384.jpg",
             "name": "Annie Mara",
             "pin": "384",
             "pledge_name": "Naturally",
@@ -425,7 +425,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/385.png",
+            "img": "385.jpg",
             "name": "Katelyn Kelsey",
             "pin": "385",
             "pledge_name": "Celery",
@@ -433,7 +433,7 @@
             "major": "Biomedical"
         },
         {
-            "img": "img/actives/386.png",
+            "img": "386.jpg",
             "name": "Christian Young",
             "pin": "386",
             "pledge_name": "Murphy",
@@ -441,7 +441,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/387.png",
+            "img": "387.jpg",
             "name": "Ammar Hazim",
             "pin": "387",
             "pledge_name": "Neptune",
@@ -449,7 +449,7 @@
             "major": "Electrical"
         },
         {
-            "img": "img/actives/388.png",
+            "img": "388.jpg",
             "name": "Austin Winebrenner",
             "pin": "388",
             "pledge_name": "L'chaim",
@@ -457,7 +457,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "img/actives/389.png",
+            "img": "389.jpg",
             "name": "Julia Polieava",
             "pin": "389",
             "pledge_name": "Sensei",
@@ -465,7 +465,7 @@
             "major": "Petroleum"
         },
         {
-            "img": "img/actives/390.png",
+            "img": "390.jpg",
             "name": "Lindsay Wandall",
             "pin": "390",
             "pledge_name": "False",
@@ -473,7 +473,7 @@
             "major": "Civil"
         },
         {
-            "img": "img/actives/391.png",
+            "img": "391.jpg",
             "name": "Megan Shyr",
             "pin": "391",
             "pledge_name": "Lemniscate",
@@ -481,7 +481,7 @@
             "major": "Biomedical"
         },
         {
-            "img": "img/actives/392.png",
+            "img": "392.jpg",
             "name": "Sophie Lloyd",
             "pin": "392",
             "pledge_name": "idklol",
