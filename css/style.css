@@ -1,4 +1,11 @@
-
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+    /* Set your content font stack here: */
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: #fbfbfb;
+}
 .menuitems a {
     font-weight: 400;
     color: white;
@@ -19,6 +26,9 @@
     font-size: 150%;
     
 }
+.item:hover{
+    color: #fbfbfb;
+}
 .header{
     background-color: #c11714;
     height: 80px;
@@ -26,8 +36,24 @@
     margin-top: 0pt;
     position: fixed;
 }
+.footer{
+    background-color: #c11714;
+    height: 60px;
+}
+.footer h3{
+    color: white;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 150%;
+    margin-top: 0pt;
+    font-style: italic;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0;
+}
 .first {
-   margin-left: 17%;
+   margin-left: 6.5%;
 }
 .OT {
     font-size: 200%;
@@ -35,7 +61,7 @@
 }
 
 .billboard {
-    height: 500px;
+    height: 650px;
     background: url('https://i.imgur.com/NG54CPi.jpg') no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -51,16 +77,58 @@
     text-align: center;
     vertical-align: middle;
     margin-top: 0px;
-    padding-top: 10%;
+    padding-top: 12%;
     margin-bottom: 0px;
 }
   
 .billboard h3 {
-    font-size: 2em;
+    font-size: 3em;
     color: white;
     text-align: center;
     vertical-align: middle;
     font-family: 'Open Sans', sans-serif;
     margin-top: 0px;
+    font-weight: 700;
     padding-left: 1%;
+}
+.chapter {
+    color: white;
+    padding-left: 0px;
+    text-transform: uppercase;
+}
+.bodytext{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 150%;
+    padding-left: 5px;
+}
+.pure-button{
+    background: #c11714;
+    font-family: 'Roboto Slab', serif;
+}
+.pure-form{
+    font-family: 'Open Sans', sans-serif;
+}
+.jointext h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+@media (max-width: 1035px){
+    .smallhide{
+        display: none;
+    }
+    .billboard h1{
+        font-size: 6em;
+        padding-top: 30%;
+    }
+    .billboard h3{
+        font-size: 1.5em;
+    }
+    .chapter{
+        font-size:20%;
+    }
+}
+@media (min-width: 1035px){
+    .smallshow{
+        display: none;
+    }
 }
