@@ -2,62 +2,99 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Theta Tau - Psi Beta</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="//yui.yahooapis.com/pure/0.5.0/pure-min.css">
-        <!--[if lte IE 8]>
-            <link rel="stylesheet" href="//yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css">
+        <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/paper/bootstrap.min.css" rel="stylesheet">
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
-        <!--[if gt IE 8]><!-->
-            <link rel="stylesheet" href="//yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
-        <!--<![endif]-->
         <link href='//fonts.googleapis.com/css?family=Open+Sans:700italic,400,700|Roboto+Slab:400,700&subset=latin,greek' rel='stylesheet' type='text/css'>
         <link href='css/style.css' rel='stylesheet' type='text/css'>
     </head>
     <body>
-        <div class="header">
-                <ul class="menuitems">
-                    <li><a href="index.html" class="OT">ΘΤ</a></li>
-                    <li class="chapter smallhide">Psi Beta</li>
-                    <li><a href="index.html" class="first smallhide item">Home</a></li>
-                    <li><a href="rush.html" class="smallhide item">Rush</a></li>
-                    <li><a href="about.html" class="smallhide item">About</a></li>
-                    <li><a href="http://studentorgs.engr.utexas.edu/thetatau/members/" class="smallhide item">Members</a></li>
-                    
-                    <li><a href="#" class="collapsed smallshow item">Menu</a></li>
-                </ul>
-        </div>
+        <!-- <div class="header">
+            <ul class="menuitems">
+                <li><a href="index.html" class="OT">ΘΤ</a></li>
+                <li class="chapter smallhide">Psi Beta</li>
+                <li><a href="index.html" class="first smallhide item">Home</a></li>
+                <li><a href="rush.html" class="smallhide item">Rush</a></li>
+                <li><a href="about.html" class="smallhide item">About</a></li>
+                <li><a href="http://studentorgs.engr.utexas.edu/thetatau/members/" class="smallhide item">Members</a></li>
+                
+                <li><a href="#" class="collapsed smallshow item">Menu</a></li>
+            </ul>
+        </div> -->
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                        <!-- this will render as the hamburger menu on mobile devices -->
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">ΘΤ</a>
+                </div>
+
+                <!-- the collapse and navbar-collapse classes organize the navbar links for toggling the menu on mobile devices -->
+                <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="rush.html">Rush</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="http://studentorgs.engr.utexas.edu/thetatau/members/">Members</a></li>
+                    </ul>
+                </div><!-- .navbar-collapse -->
+            </div><!-- .container-fluid -->
+        </nav>
+
         <div class='billboard'>
             <h1>Theta Tau</h1>
             <h3> The Nation’s Oldest and Foremost<BR> 
 Fraternity for Engineers.</h3>
         </div>
-        <div class='pure-g'>
-            <div class='pure-u-1 pure-u-md-1-2'>
-                <img class='pure-img landing-img' alt='Brotherhood-y picture' src='img/landing_1.jpg'>
+
+        <div>
+            <div class='pure-g'>
+                <div class='pure-u-1 pure-u-md-1-2'>
+                    <img class='pure-img landing-img' alt='Brotherhood-y picture' src='img/landing_1.jpg'>
+                </div>
+                <div class='pure-u-1 pure-u-md-1-2'>
+                    <p class='bodytext'>Theta Tau is a nation-wide professional engineering fraternity. At Psi Beta chapter, we strive to uphold an unbroken tradition of fraternal fellowship and brotherhood.</p>
+                </div>
             </div>
-            <div class='pure-u-1 pure-u-md-1-2'>
-                <p class='bodytext'>Theta Tau is a nation-wide professional engineering fraternity. At Psi Beta chapter, we strive to uphold an unbroken tradition of fraternal fellowship and brotherhood.</p>
+            <div class='pure-g'>
+                <div class='pure-u-1 pure-u-md-1-2'>
+                    <p class='bodytext'>Established at The University of Texas at Austin in 1991, the Psi Beta chapter represents a diverse, energetic group of about 70 students, both male and female, representing all disciplines, united by a common interest in engineering and the sciences.</p>
+                </div>
+                <div class='pure-u-1 pure-u-md-1-2'>
+                    <img class='pure-img landing-img' alt='Brotherhood-y picture' src='img/landing_2.jpg'>
+                </div>
+            </div>
+            <div class='pure-g'>
+                <div class='pure-u-5-5'>
+                    <h1 class='jointext'>Interested in joining?</h1>
+                    <h2>We want people who want to make our fraternity better.</h2>
+                    <h1>Learn more about <a href="rush.html">Fall 2014 Rush</a>.</h1>
+                </div>
+            </div>
+            <div class='footer'>
+                <h3>"Whatsoever thy hand findeth to do, do it with thy might!" Ecclesiastes 9:10</h3>
             </div>
         </div>
-        <div class='pure-g'>
-            <div class='pure-u-1 pure-u-md-1-2'>
-                <p class='bodytext'>Established at The University of Texas at Austin in 1991, the Psi Beta chapter represents a diverse, energetic group of about 70 students, both male and female, representing all disciplines, united by a common interest in engineering and the sciences.</p>
-            </div>
-            <div class='pure-u-1 pure-u-md-1-2'>
-                <img class='pure-img landing-img' alt='Brotherhood-y picture' src='img/landing_2.jpg'>
-            </div>
-        </div>
-        <div class='pure-g'>
-            <div class='pure-u-5-5'>
-                <h1 class='jointext'>Interested in joining?</h1>
-                <h2>We want people who want to make our fraternity better.</h2>
-                <h1>Learn more about <a href="rush.html">Fall 2014 Rush</a>.</h1>
-            </div>
-        </div>
-        <div class='footer'>
-            <h3>"Whatsoever thy hand findeth to do, do it with thy might!" Ecclesiastes 9:10</h3>
-        </div>
+
+
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     </body>
 </html>
