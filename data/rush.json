@@ -1,7 +1,64 @@
 {
-  "rush_events": [
-    {"type": "Info Session", "date": "Aug 14", "time": "6:30-7:30pm", "location": "ECJ 2.102"},
-    {"type": "Bowling Night", "date": "Aug 15", "time": "5-7pm", "location": "Union Underground"},
-    {"type": "Volleyball & BBQ", "date": "Aug 16", "time": "11-2:30pm", "location": "Creekside Park"}
-  ]
+    "rush_events": [
+        {
+            "type": "Info Session (with free pizza)",
+            "date": "8/27/2014",
+            "time": "6:45-8pm",
+            "location": "Lawn in front of CPE"
+        },
+        {
+            "type": "Burgers at Crown and Anchor",
+            "date": "8/27/2014",
+            "time": "10am-2pm",
+            "location": "Crown and Anchor Pub (see map below)"
+        },
+        {
+            "type": "Info Session (with free pizza)",
+            "date": "8/28/2014",
+            "time": "6:45-8pm",
+            "location": "Lawn in front of CPE"
+        },
+        {
+            "type": "Pizza at Double Dave's",
+            "date": "8/28/2014",
+            "time": "7:30pm-close",
+            "location": "Double Dave's (see map below)"
+        },
+        {
+            "type": "Info Session (with free pizza)",
+            "date": "8/29/2014",
+            "time": "6:45-8pm",
+            "location": "Lawn in front of CPE"
+        },
+        {
+            "type": "Labor Day Fun",
+            "date": "9/1/2014",
+            "time": "11am-4pm",
+            "location": "Eastwood Park (meet at lawn in front of CPE @ 10:45am)"
+        },
+        {
+            "type": "Info Session (with free pizza)",
+            "date": "9/2/2014",
+            "time": "6:45-8pm",
+            "location": "Lawn in front of CPE"
+        },
+        {
+            "type": "Burgers at Crown and Anchor",
+            "date": "9/3/2014",
+            "time": "10am-2pm",
+            "location": "Crown and Anchor Pub (see map below)"
+        },
+        {
+            "type": "Info Session (with free pizza)",
+            "date": "9/4/2014",
+            "time": "6:45-8pm",
+            "location": "Lawn in front of CPE"
+        },
+        {
+            "type": "Pizza at Double Dave's",
+            "date": "9/4/2014",
+            "time": "7:30pm-close",
+            "location": "Double Dave's (see map below)"
+        }
+    ]
 }
