@@ -9,14 +9,14 @@
             "gmaps": "https://goo.gl/maps/Tn7H8"
         },
         {
-            "type": "Info Session (with free pizza)",
+            "type": "Info Session*",
             "date": "8/27/2014",
             "time": "6:45-8pm",
             "location": "CPE 2.220",
             "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
-            "type": "Info Session (with free pizza)",
+            "type": "Info Session*",
             "date": "8/28/2014",
             "time": "6:45-8pm",
             "location": "CPE 2.220",
@@ -30,21 +30,21 @@
             "gmaps": "https://goo.gl/maps/E2vkK"
         },
         {
-            "type": "Info Session (with free pizza)",
+            "type": "Info Session*",
             "date": "8/29/2014",
             "time": "6:45-8pm",
             "location": "CPE 2.220",
             "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
-            "type": "Labor Day Fun",
+            "type": "Labor Day Cookout and Sports",
             "date": "9/1/2014",
             "time": "11am-4pm",
             "location": "Eastwood Park (meet at lawn in front of CPE @ 10:45am)",
             "gmaps": "https://goo.gl/maps/IFgCh"
         },
         {
-            "type": "Info Session (with free pizza)",
+            "type": "Info Session*",
             "date": "9/2/2014",
             "time": "6:45-8pm",
             "location": "CPE 2.220",
@@ -58,7 +58,7 @@
             "gmaps": "https://goo.gl/maps/Tn7H8"
         },
         {
-            "type": "Info Session (with free pizza)",
+            "type": "Info Session*",
             "date": "9/4/2014",
             "time": "6:45-8pm",
             "location": "CPE 2.220",
