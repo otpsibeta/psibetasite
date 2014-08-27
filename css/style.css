@@ -8,42 +8,13 @@ body{
     padding-top: 50px;
     background-color: #fbfbfb;
 }
-.pure-u-5-5{
-    text-align: center;
-}
-.menuitems a {
-    font-weight: 400;
-    color: white;
-    text-decoration: none;
-    text-transform: uppercase;
-}
-.menuitems {
-    text-align: left;
-    vertical-align: middle;
-    margin-top: 0px;
-    padding-top: 7px;
-}
-.menuitems li {
-    font-family: 'Roboto Slab', serif;
-    display: inline;
-    margin-left: 20px;
-    margin-right: 20px;
-    font-size: 150%;
-    
-}
-.item:hover{
-    color: #fbfbfb;
-}
-.header{
-    background-color: #c11714;
-    height: 80px;
-    width: 100%;
-    margin-top: 0pt;
-}
+
+
 .footer{
     background-color: #c11714;
     height: 60px;
 }
+
 .footer h3{
     color: white;
     font-family: 'Roboto Slab';
@@ -55,14 +26,6 @@ body{
     text-align: center;
     padding-top: 10px;
     margin-bottom: 0;
-}
-
-.first {
-   margin-left: 6.5%;
-}
-.OT {
-    font-size: 200%;
-    vertical-align: -12%;
 }
 
 .billboard {
@@ -116,9 +79,11 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
 }
-.landing-img{
-    margin: 1.5em;
-    width: 85%;
+
+.landing-img {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    width: 90%;
     -webkit-box-shadow: 0px 0px 10px 0px #839496;
     -moz-box-shadow: 0px 0px 10px 0px #839496;
     box-shadow: 0px 0px 10px 0px #839496;
@@ -154,6 +119,11 @@ body{
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #FFFFFF;
+}
+
+body p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 175%;
 }
 
 @media (max-width: 1035px){
