@@ -62,7 +62,7 @@
                                 <th>Event</th>
                                 <th>Date</th>
                                 <th>Time</th>
-                                <th>Location</th>
+                                <th>Location (click to see on Google Maps)</th>
                             </thead>
                             <tbody id="rush-table-body">
                             </tbody>
@@ -91,7 +91,7 @@
             <td>{{this.type}}</td>
             <td>{{ this.date }}</td>
             <td>{{this.time}}</td>
-            <td>{{this.location}}</td>
+            <td><a href="{{this.gmaps}}" target="_blank">{{this.location}}</a></td>
         </tr>
         {{/each}}
         </script>

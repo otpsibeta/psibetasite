@@ -4,61 +4,71 @@
             "type": "Burgers at Crown and Anchor",
             "date": "8/27/2014",
             "time": "10am-2pm",
-            "location": "Crown and Anchor Pub (see map below)"
+            "location": "Crown and Anchor Pub",
+            "gmaps": "https://goo.gl/maps/Tn7H8"
         },
         {
             "type": "Info Session (with free pizza)",
             "date": "8/27/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE"
+            "location": "Lawn in front of CPE",
+            "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
             "type": "Info Session (with free pizza)",
             "date": "8/28/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE"
+            "location": "Lawn in front of CPE",
+            "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
             "type": "Pizza at Double Dave's",
             "date": "8/28/2014",
             "time": "7:30pm-close",
-            "location": "Double Dave's (see map below)"
+            "location": "Double Dave's",
+            "gmaps": "https://goo.gl/maps/E2vkK"
         },
         {
             "type": "Info Session (with free pizza)",
             "date": "8/29/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE"
+            "location": "Lawn in front of CPE",
+            "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
             "type": "Labor Day Fun",
             "date": "9/1/2014",
             "time": "11am-4pm",
-            "location": "Eastwood Park (meet at lawn in front of CPE @ 10:45am)"
+            "location": "Eastwood Park (meet at lawn in front of CPE @ 10:45am)",
+            "gmaps": "https://goo.gl/maps/IFgCh"
         },
         {
             "type": "Info Session (with free pizza)",
             "date": "9/2/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE"
+            "location": "Lawn in front of CPE",
+            "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
             "type": "Burgers at Crown and Anchor",
             "date": "9/3/2014",
             "time": "10am-2pm",
-            "location": "Crown and Anchor Pub (see map below)"
+            "location": "Crown and Anchor Pub",
+            "gmaps": "https://goo.gl/maps/Tn7H8"
         },
         {
             "type": "Info Session (with free pizza)",
             "date": "9/4/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE"
+            "location": "Lawn in front of CPE",
+            "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
             "type": "Pizza at Double Dave's",
             "date": "9/4/2014",
             "time": "7:30pm-close",
-            "location": "Double Dave's (see map below)"
+            "location": "Double Dave's",
+            "gmaps": "https://goo.gl/maps/E2vkK"
         }
     ]
 }
