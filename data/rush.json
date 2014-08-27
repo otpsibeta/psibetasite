@@ -1,3 +1,4 @@
+
 {
     "rush_events": [
         {
@@ -11,14 +12,14 @@
             "type": "Info Session (with free pizza)",
             "date": "8/27/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE",
+            "location": "CPE 2.220",
             "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
             "type": "Info Session (with free pizza)",
             "date": "8/28/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE",
+            "location": "CPE 2.220",
             "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
@@ -32,7 +33,7 @@
             "type": "Info Session (with free pizza)",
             "date": "8/29/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE",
+            "location": "CPE 2.220",
             "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
@@ -46,7 +47,7 @@
             "type": "Info Session (with free pizza)",
             "date": "9/2/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE",
+            "location": "CPE 2.220",
             "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
@@ -60,7 +61,7 @@
             "type": "Info Session (with free pizza)",
             "date": "9/4/2014",
             "time": "6:45-8pm",
-            "location": "Lawn in front of CPE",
+            "location": "CPE 2.220",
             "gmaps": "https://goo.gl/maps/ExCCh"
         },
         {
