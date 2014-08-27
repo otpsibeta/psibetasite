@@ -1,39 +1,56 @@
 <!doctype html>
 <html>
-    <head>
+<head>
         <meta charset="utf-8">
-        <title>Theta Tau - Psi Beta - Members</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Theta Tau - Psi Beta - About Us</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="//yui.yahooapis.com/pure/0.5.0/pure-min.css">
-        <!--[if lte IE 8]>
-            <link rel="stylesheet" href="//yui.yahooapis.com/pure/0.5.0/grids-responsive-old-ie-min.css">
+        <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/paper/bootstrap.min.css" rel="stylesheet">
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
-        
         <link href='//fonts.googleapis.com/css?family=Open+Sans:700italic,400,700|Roboto+Slab:400,700&subset=latin,greek' rel='stylesheet' type='text/css'>
         <link href='css/style.css' rel='stylesheet' type='text/css'>
     </head>
+
     <body>
-        <div class="header">
-                <ul class="menuitems">
-                    <li><a href="index.html" class="OT">ΘΤ</a></li>
-                    <li class="chapter smallhide">Psi Beta</li>
-                    <li><a href="index.html" class="first smallhide item">Home</a></li>
-                    <li><a href="rush.html" class="smallhide item">Rush</a></li>
-                    <li><a href="about.html" class="smallhide item">About</a></li>
-                    <li><a href="http://studentorgs.engr.utexas.edu/thetatau/members/" class="smallhide item">Members</a></li>
-                    
-                    <li><a href="#" class="collapsed smallshow item">Menu</a></li>
-                </ul>
-        </div>
-        
-        <div class="pure-g">
-            <div class="pure-u-5-5">
-                <h1>Active Members</h1>
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                        <!-- this will render as the hamburger menu on mobile devices -->
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">ΘΤ - Psi Beta</a>
+                </div>
+
+                <!-- the collapse and navbar-collapse classes organize the navbar links for toggling the menu on mobile devices -->
+                <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="rush.html">Rush</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="members.html">Members</a></li>
+                    </ul>
+                </div><!-- .navbar-collapse -->
+            </div><!-- .container-fluid -->
+        </nav>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1 class="text-center">Active Members</h1>
+                </div>
             </div>
-        </div>
-        
-        <div id="actives-list">
+            <div id="actives-list"></div>
         </div>
         
         <script id="actives-list-template" type="text/x-handlebars-template">
@@ -42,15 +59,21 @@
         </div>
     {{/if}}
     {{#if isModZero}}
-        <div class="pure-g">
+        <div class="row">
     {{/if}}
-        <div class="pure-u-1-2 pure-u-md-1-3 pure-u-lg-1-6">
-            <img class='pure-img' src="http://studentorgs.engr.utexas.edu/thetatau/includes/actives%20photos/{{img}}">
-            <h4>{{name}}</h4>
-            <p>"{{pledge_name}}"</p>
-            <p>#{{pin}}</p>
-            <p>{{pledge_class}}</p>
-            <p>{{major}}</p>
+        <div class="col-xs-6 col-sm-4 col-md-2">
+            <div class="thumbnail">
+                <img class='img-responsive img-thumbnail' src="http://studentorgs.engr.utexas.edu/thetatau/includes/actives%20photos/{{img}}">
+                <div class="caption">
+                    <ul class="list-unstyled">
+                        <li><strong>{{name}}</strong></li>
+                        <li>"{{pledge_name}}"</li>
+                        <li>#{{pin}}</li>
+                        <li>{{pledge_class}}</li>
+                        <li>{{major}}</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     {{#if isLast}}
     {{/if}}
