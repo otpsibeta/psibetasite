@@ -1,16 +1,16 @@
 {
     "rush_events": [
         {
-            "type": "Info Session (with free pizza)",
-            "date": "8/27/2014",
-            "time": "6:45-8pm",
-            "location": "Lawn in front of CPE"
-        },
-        {
             "type": "Burgers at Crown and Anchor",
             "date": "8/27/2014",
             "time": "10am-2pm",
             "location": "Crown and Anchor Pub (see map below)"
+        },
+        {
+            "type": "Info Session (with free pizza)",
+            "date": "8/27/2014",
+            "time": "6:45-8pm",
+            "location": "Lawn in front of CPE"
         },
         {
             "type": "Info Session (with free pizza)",
