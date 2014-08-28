@@ -1,22 +1,6 @@
 {
     "actives": [
         {
-            "img": "269.jpg",
-            "name": "Justin Chandler",
-            "pin": "269",
-            "pledge_name": "ZZ!",
-            "pledge_class": "Xi Beta F'08",
-            "major": "Chemical"
-        },
-        {
-            "img": "291.jpg",
-            "name": "Kristopher Williams",
-            "pin": "291",
-            "pledge_name": "#4",
-            "pledge_class": "Pi Beta F'09",
-            "major": "Electrical"
-        },
-        {
             "img": "303.jpg",
             "name": "Lauren Coffman",
             "pin": "303",
@@ -31,14 +15,6 @@
             "pledge_name": "Halfstack",
             "pledge_class": "Upsilon Beta F'11",
             "major": "Mechanical"
-        },
-        {
-            "img": "319.jpg",
-            "name": "Cristina Madruga",
-            "pin": "319",
-            "pledge_name": "Screwdriver",
-            "pledge_class": "Upsilon Beta F'11",
-            "major": "Chemical"
         },
         {
             "img": "321.jpg",
