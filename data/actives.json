@@ -49,12 +49,13 @@
             "major": "Mechanical"
         },
         {
-            "img": "327.jpg",
+            "img": "http://i.imgur.com/KazKZ43.jpg",
             "name": "Darla Hollander",
             "pin": "327",
             "pledge_name": "Buckwheat",
             "pledge_class": "Upsilon Beta F'11",
-            "major": "Electrical"
+            "major": "Electrical",
+            "ext_img": true
         },
         {
             "img": "329.jpg",
