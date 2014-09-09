@@ -30,7 +30,7 @@ body{
 
 .billboard {
     height: 650px;
-    background: url('https://i.imgur.com/NG54CPi.jpg') no-repeat center center; 
+    background: url('../img/splash.jpg') no-repeat center center; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -41,22 +41,26 @@ body{
     font-weight: 700;
     font-family: 'Roboto Slab', serif;
     color: white;
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
     margin-top: 0px;
     padding-top: 12%;
     margin-bottom: 0px;
+    margin-left: 5%;
+    text-shadow: black 0.01em 0.01em 0.15em;
 }
   
 .billboard h3 {
     font-size: 3em;
     color: white;
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
     font-family: 'Open Sans', sans-serif;
     margin-top: 0px;
     font-weight: 700;
     padding-left: 1%;
+    margin-left: 5%;
+    text-shadow: black 0.01em 0.01em 0.15em;
 }
 .chapter {
     color: white;
