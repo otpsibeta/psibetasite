@@ -3,7 +3,7 @@
 <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Our Members</title>
+        <title>Our Officers</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/paper/bootstrap.min.css" rel="stylesheet">
@@ -58,14 +58,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <h1 class="text-center">Active Members</h1>
+                    <h1 class="text-center">Our Officers</h1>
                 </div>
             </div>
-            <div id="actives-list"></div>
+            <div id="officers-list"></div>
         </div>
         
-        <script id="actives-list-template" type="text/x-handlebars-template">
-{{#everyNth actives 6}}
+        <script id="officers-list-template" type="text/x-handlebars-template">
+{{#everyNth officers 6}}
     {{#if isModZeroNotFirst}}
         </div>
     {{/if}}
@@ -81,11 +81,13 @@
                 {{/if}}
                 <div class="caption">
                     <ul class="list-unstyled">
+                        <li><h5>{{position}}</h5></li>
                         <li><strong>{{name}}</strong></li>
                         <li>"{{pledge_name}}"</li>
                         <li>#{{pin}}</li>
                         <li>{{pledge_class}}</li>
                         <li>{{major}}</li>
+                        <li><a class="btn btn-sm btn-primary" href="mailto:{{email}}" role="button">Email</a></li>
                     </ul>
                 </div>
             </div>
@@ -119,11 +121,11 @@
             });
  
             
-            var source = $("#actives-list-template").html();
+            var source = $("#officers-list-template").html();
             var template = Handlebars.compile(source);
             
-            $.getJSON("data/actives.json", function(data) {
-                $("#actives-list").append(template(data));
+            $.getJSON("data/officers.json", function(data) {
+                $("#officers-list").append(template(data));
             });
         </script>
         <div class='footer'>
