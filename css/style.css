@@ -130,6 +130,10 @@ body p {
     font-size: 175%;
 }
 
+#first-copy {
+    margin-top: 5%;
+}
+
 @media (max-width: 1035px){
     .smallhide{
         display: none;
