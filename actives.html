@@ -49,7 +49,13 @@
                         <li><a href="index.html">Home</a></li>
                         <li><a href="rush.html">Rush</a></li>
                         <li><a href="about.html">About</a></li>
-                        <li><a href="members.html">Members</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Members <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="actives.html">Actives</a></li>
+                                <li><a href="alumni.html">Alumni</a></li>
+                            </ul>
+                        </li>
                         <li><a href="officers.html">Officers</a></li>
                         <li><a href="https://www.google.com/calendar/embed?src=gsmsef9q97jpat9v84u1tcl2fo%40group.calendar.google.com&ctz=America/Chicago" target="_blank">Calendar</a></li>
                     </ul>
@@ -64,7 +70,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <h1 class="text-center">Active Members</h1>
+                    <div class="well pull-right">
+                        <a href="https://docs.google.com/forms/d/1SSUhVomHohBS4TyHyjbvtkzLxzCS4hnhE0OQWD8U5pA/viewform" target="_blank">See a mistake? Let us know.</a>
+                    </div>
+                    <h1 class="text-center">Actives</h1>
                 </div>
             </div>
             <div id="actives-list"></div>
@@ -81,17 +90,23 @@
         <div class="col-xs-6 col-sm-4 col-md-2">
             <div class="thumbnail">
                 {{#if ext_img}}
-                <img class='img-responsive img-thumbnail' src="{{img}}">
+                    <img class='img-responsive img-thumbnail' src="{{img}}">
                 {{else}}
-                <img class='img-responsive img-thumbnail' src="http://studentorgs.engr.utexas.edu/thetatau/includes/actives%20photos/{{img}}">
+                    {{#if img}}
+                        <img class='img-responsive img-thumbnail' src="http://studentorgs.engr.utexas.edu/thetatau/includes/actives%20photos/{{img}}">
+                    {{else}}
+                        <img class='img-responsive img-thumbnail' src="img/missing.png">
+                    {{/if}}
                 {{/if}}
                 <div class="caption">
                     <ul class="list-unstyled">
+                        <li><span class="label label-primary">#{{pin}}</span></li>
                         <li><strong>{{name}}</strong></li>
                         <li>"{{pledge_name}}"</li>
-                        <li>#{{pin}}</li>
                         <li>{{pledge_class}}</li>
-                        <li>{{major}}</li>
+                        {{#if major}}
+                            <li>"{{major}}"</li>
+                        {{/if}}
                     </ul>
                 </div>
             </div>
@@ -104,6 +119,8 @@
         <script type="text/javascript" src="//cdn.jsdelivr.net/jquery/2.1.1/jquery.min.js"></script>
         <script type="text/javascript" src="//cdn.jsdelivr.net/handlebarsjs/1.3.0/handlebars.min.js"></script>
         <script type="text/javascript" src="//cdn.jsdelivr.net/underscorejs/1.6.0/underscore-min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
         <script type="text/javascript">
             
             Handlebars.registerHelper('everyNth', function(context, every, options) {

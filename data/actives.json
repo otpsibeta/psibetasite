@@ -49,7 +49,7 @@
             "major": "Mechanical"
         },
         {
-            "img": "http://i.imgur.com/KazKZ43.jpg",
+            "img": "img/members/327.jpg",
             "name": "Darla Hollander",
             "pin": "327",
             "pledge_name": "Buckwheat",
@@ -464,6 +464,114 @@
             "pledge_name": "idklol",
             "pledge_class": "Omega Beta F'13",
             "major": "Geosystems"
+        },
+        {
+            "name": "Janine Mendoza",
+            "pin": "393",
+            "pledge_name": "Hamtaro",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Esteban Gonzalez",
+            "pin": "394",
+            "pledge_name": "Grog",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Brooke Baker",
+            "pin": "395",
+            "pledge_name": "Knight",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Marina Dultra",
+            "pin": "396",
+            "pledge_name": "Decibel",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Yash Parekh",
+            "pin": "397",
+            "pledge_name": "Tree Fiddy",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Carolyn Ramirez",
+            "pin": "398",
+            "pledge_name": "Brady",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Blair Arney",
+            "pin": "399",
+            "pledge_name": "Stan",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Art Leangsuksun",
+            "pin": "400",
+            "pledge_name": "Get back t'werk",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Nahum Alem",
+            "pin": "401",
+            "pledge_name": "Based God",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Shaun van der Walt",
+            "pin": "402",
+            "pledge_name": "Pipes",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Ravi Lumba",
+            "pin": "403",
+            "pledge_name": "Pierre",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Joe Lingren",
+            "pin": "404",
+            "pledge_name": "Tots",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Julie Miller",
+            "pin": "405",
+            "pledge_name": "Jet",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Ethan Miller",
+            "pin": "406",
+            "pledge_name": "HandRoell",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Matt Owens",
+            "pin": "407",
+            "pledge_name": "Prestige Worldwide",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Zach Thomas",
+            "pin": "408",
+            "pledge_name": "Kabosu",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Henry Song",
+            "pin": "409",
+            "pledge_name": "Sriracha",
+            "pledge_class": "Delta Gamma S'14"
+        },
+        {
+            "name": "Alec Palacio",
+            "pin": "410",
+            "pledge_name": "Miley",
+            "pledge_class": "Delta Gamma S'14"
         }
     ]
 }

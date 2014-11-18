@@ -32,24 +32,29 @@
             <div class="container-fluid">
 
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-2">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
                         <!-- this will render as the hamburger menu on mobile devices -->
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    
-                    <a class="navbar-brand" href="index.html">&#920;&#932; - Psi Beta</a>
+                    <a class="navbar-brand" href="index.html">ΘΤ - Psi Beta</a>
                 </div>
 
                 <!-- the collapse and navbar-collapse classes organize the navbar links for toggling the menu on mobile devices -->
-                <div class="collapse navbar-collapse" id="navbar-collapse-2">
+                <div class="collapse navbar-collapse" id="navbar-collapse-1">
                     <ul class="nav navbar-nav">
                         <li><a href="index.html">Home</a></li>
                         <li><a href="rush.html">Rush</a></li>
                         <li><a href="about.html">About</a></li>
-                        <li><a href="members.html">Members</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Members <span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="actives.html">Actives</a></li>
+                                <li><a href="alumni.html">Alumni</a></li>
+                            </ul>
+                        </li>
                         <li><a href="officers.html">Officers</a></li>
                         <li><a href="https://www.google.com/calendar/embed?src=gsmsef9q97jpat9v84u1tcl2fo%40group.calendar.google.com&ctz=America/Chicago" target="_blank">Calendar</a></li>
                     </ul>
@@ -127,5 +132,8 @@
         <div class='footer'>
             <h3>"Whatsoever thy hand findeth to do, do it with thy might!" Ecclesiastes 9:10</h3>
         </div>
+
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     </body>
 </html>
