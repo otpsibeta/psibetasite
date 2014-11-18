@@ -1,0 +1,385 @@
+# 1 : Berry, Brenda 
+# 2 : Cantu, Delbert 
+# 3 : Dieringer, Brian 
+# 4 : Harris, Randy 
+# 5 : Kaltenbacher, Robert - Primetime 
+# 6 : Lai, Richard 
+# 7 : Muller, Erika 
+# 8 : Quinney, Michael 
+# 9 : Tait, Steve 
+# 10 : Thompson, Mark 
+# 11 : Zuhlke, David - Doc 
+# 12 : Bulaclac, Jordan 
+# 13 : Dommissee, Robin 
+# 14 : Hester, Todd 
+# 15 : Quartaro, Chris - Q 
+# 16 : Rouser, Chris 
+# 18 : Winslow, Michelle 
+# 19 : Crowe, Brian 
+# 20 : Gonzales, Michael - Gonzo 
+# 21 : Hoskins, Brian - Elvis 
+# 22 : Segers, Jeremy - Worm 
+# 23 : Stacy, Chris 
+# 24 : Salinas, Jessica 
+# 25 : Wilson, James 
+# 27 : Eleniss, Steve - Ranger Rick 
+# 28 : Gordon, Jeff - Gilligan 
+# 29 : Gordon, Shane - Flash - Alpha 
+# 30 : Huett, Mandy - Bubbles - Alpha 
+# 31 : Kelley, Paul (Bubba) - Bam-Bam 
+# 32 : Kellner, Albert - Godfather - Alpha 
+# 34 : Stomberg, Jennifer - Goldy 
+# 35 : Gallaher, Scot - Potsie 
+# 36 : Hallock, Dr. Gary - Col. Advisor - Honorary 
+# 37 : Rinehart, Susan - Bopsy - Beta 
+# 38 : Squires, Jack - Shaggy 
+# 39 : (Tomsic) Quartaro, Cheryl - Moonbeam 
+# 40 : Timkin, Brian - Dieter 
+# 41 : Brown, Scot - Pinto I 
+# 42 : Corazao, Miquel - Balki - Gamma 
+# 43 : Bauschka, Chris - Sarge - Gamma 
+# 44 : Brady, Art - Data - Gamma 
+# 45 : Cortez, Michelle - Peppermint Patty - Gamma 
+# 46 : Dickson, Sarah - Josey - Gamma 
+# 47 : Garzes, Mario - Flounder - Gamma 
+# 48 : Golab, Steve - Boner - Gamma 
+# 49 : Kelley, Reggie - Linus - Gamma 
+# 50 : Kemper, Steve - Eggy - Gamma 
+# 51 : Nelson, Billy - Boo-Boo - Gamma 
+# 52 : Prior, Tom - Lurch - Gamma 
+# 53 : Smith, Mark - Beaker - Gamma 
+# 54 : Stam, Phil - Hobbes - Gamma 
+# 55 : Wolz, Ben - Yogi - Gamma 
+# 56 : Woods, David - Moe - Gamma 
+# 57 : Woolverton, Laura - Ginger - Gamma 
+# 58 : Lim, Steve - Pinto III - Gamma 
+# 59 : Clark, Scot - Woody - Gamma 
+# 60 : Knapp, Steph - Stimpy - Delta 
+# 61 : Warren, Brad - Curly - Gamma 
+# 62 : Beckwith, Jennifer - Ren - Delta 
+# 63 : Carter, Matt - Hurl - Delta 
+# 64 : Howell, Shawn - Gadget - Gamma 
+# 65 : Kerr, Justin - Gumby - Delta 
+# 66 : Reisman, Jill - Mary Lou - Gamma 
+# 67 : Sedlar, Paul 
+# 68 : Harmison, Heather - Landshark - Transfer 
+# 68 : Singletary, Pilar 
+# 69 : Abdalla, Marwah - Weasie - Epsilon 
+# 70 : Allen, Scott - Stitch - Epsilon 
+# 71 : Cole, Brian - Otter - Epsilon 
+# 72 : Cremer, Keith - The Beav - Epsilon 
+# 73 : James, Jim - Noodle - Epsilon 
+# 74 : Lefebvre, Nathan - Pinto V - Epsilon 
+# 75 : Reagan, Angela - Fubar - Epsilon 
+# 76 : Weiland, Mike - Bongo - Delta 
+# 77 : Zolas, George - Booger - Epsilon 
+# 78 : Dugan, Matt - Goober - Zeta 
+# 79 : (Norman) Kaltenbacher, Haley - Lassie - Zeta 
+# 80 : Biron, Glen - Skippy - Zeta 
+# 81 : Glangchai, Golf - Slice - Zeta 
+# 82 : Eisenhauer, George - Squeezer - Zeta 
+# 83 : Peeler, Doug - The Weasel - Zeta 
+# 84 : Trulock, Scot - Stork - Eta 
+# 85 : Baker, Becky - Kramer - Eta 
+# 86 : Head, Brian - Bud - Eta 
+# 87 : Jacobs, Kristine - Kujo - Eta 
+# 88 : Beckmann, Bill - Genie - Eta 
+# 89 : Foertsch, Michael - Turtle - Eta 
+# 90 : Mehta, Seema - Shiner - Eta 
+# 91 : Mahoney, Trey - Pinto VII - Eta 
+# 92 : Costolnick, Nancy - Shenáná - Eta 
+# 93 : Hooge, Josh - Screech - Eta 
+# 94 : Hang, Jeremy - Bullfrog - Theta 
+# 95 : Stapp, Jennifer - Spewey - Theta 
+# 96 : Hunt, Rob - Dewey - Theta 
+# 97 : Garay, Marton - Catnip - Theta 
+# 98 : Bell, Leslie - Taco - Theta 
+# 100 : Rivas, Homer - Donut - Theta 
+# 101 : Jones, Rob - Pinky - Theta 
+# 102 : Ramirez, Greg - Kermit - Iota 
+# 103 : Arenaz, Jonathan - Pinto IX - Iota 
+# 104 : Sanders, Chad - Cornholio - Iota 
+# 105 : Yemington, Don - Monkey Boy - Iota 
+# 106 : Bui, John - Loafy - Iota 
+# 107 : Etheredge, Charlie - Tuna - Iota 
+# 108 : Martin, Katie - Toto - Iota 
+# 109 : Gault, Joe - Q-Tip - Iota 
+# 110 : Groth-Putnam, Glynda - Honorary 
+# 111 : Finney, Eric - Stoney - Kappa 
+# 112 : Dodsworth, Charles (Chuck) - Up - Kappa 
+# 113 : Pharis, Eric - Bud Light - Kappa 
+# 114 : Wilkinson, Monique - Fifi - Kappa 
+# 115 : Whitmire, Tristan - Cookie - Kappa 
+# 116 : Hall, David - Goliath - Lambda 
+# 117 : Cilino, Paul - Laverne - Lambda 
+# 118 : Barrett, Robert - Duff - Mu 
+# 119 : Carcasi, Mike - Moose - Mu 
+# 120 : Robertson, Christi - Snowball - Mu 
+# 121 : Mahan, Traci - Pickle - Nu 
+# 122 : Pfullmann, Robert (Bob) - Wingnut - Nu 
+# 123 : Capodice, Dwain - Wilma - Nu 
+# 124 : Salelanonda, Gunn - Mini-Loaf - Nu 
+# 125 : Eckroth, Jennifer - Fufu - Nu 
+# 126 : Sloan, Eric - Yacko - Nu 
+# 127 : Vernon, Aaron - Bootsy - Nu 
+# 128 : Yarbrough, Susan - Gecko - Nu 
+# 129 : Brown, Russ - Angus - Nu 
+# 130 : Sensat, Joel - Manny - Nu 
+# 131 : Fliss, Becky - Astro - Nu 
+# 132 : Anderson, Elizabeth (Beth) - Moonpie - Nu 
+# 133 : Sapp, Jason - Chops - Nu 
+# 134 : Rice, Jason - Radar - Xi 
+# 135 : (Sanchez) Glangchai, Cristal - Buttons - Xi 
+# 136 : Giles, Casey - Sunshine - Xi 
+# 137 : Helterhoff, Harmony - Melody - Omicron 
+# 138 : Cawthon, Chris - Stuart - Omicron 
+# 139 : Weinberg, Joel - Butterbean - Omicron 
+# 140 : Erhardt, Jason - Ooga - Omicron 
+# 141 : Erhardt, Alex - Mooga - Omicron 
+# 142 : (Longino) Kelley, Stacey - Precious - Omicron 
+# 143 : Villa, Noe - Dizzy - Omicron 
+# 144 : Johnson, Karen - Schroder - Omicron 
+# 145 : Taylor, Matt - Bobo - Omicron 
+# 146 : Zepeda, Andie - Evander - Pi 
+# 147 : McElroy, Mariah - Cheese Wiz - Pi 
+# 148 : Kammerdeiner, Mike - Mr. Hanky - Pi 
+# 149 : Davis, BJ - Dozer - Pi 
+# 150 : Young, Scott - Beefcake - Pi 
+# 151 : Meng, Elizabeth - Sparky - Pi 
+# 152 : Shuga, Joe - Oat Willie - Pi 
+# 153 : Miller, George - Hutch - Rho 
+# 154 : Blackford, Eric - Cornfed - Rho 
+# 155 : Knudtson, Brody - Mr. Bigglesworth - Rho 
+# 156 : Hardy, Kevin - Goose - Rho 
+# 157 : Smith, Jennifer - Pippi - Rho 
+# 158 : Mitchell, Megan - Santa's Little Helper - Rho 
+# 159 : Cross, Kyle - Red Dye #5 - Rho 
+# 160 : Kolter, Leslie - Spork - Sigma 
+# 161 : Galloway, Matt - Gargamel - Sigma 
+# 162 : Mann, Richard - Succotash - Sigma 
+# 163 : Pelham, John - Plumb Bob - Sigma 
+# 164 : Rothenberg, Josh - Papa Goulash - Sigma 
+# 166 : Parra, Ivan - Tiny - Tau 
+# 167 : Bender, Nick - Kaiser - Tau 
+# 169 : Paramo, Melvin - Wedge - Tau 
+# 170 : Pujwani, Face - Fez - Tau 
+# 171 : Nance, Chris - Jumbo Jack - Tau 
+# 172 : Lin, Chih-Wei - Long Duck - Tau 
+# 173 : Saldaña, Eddie - O Queso - Tau 
+# 174 : Ferguson, Bonnie - Spike - Upsilon 
+# 175 : Jie, Jing - Pochacco - Upsilon 
+# 176 : Chiang, Timon - Pumba - Upsilon 
+# 177 : Wallin, Shane - George - Phi 
+# 178 : Houle, Teri - Chunks - Phi 
+# 179 : Salceda, Cindy - Georgie Lou - Phi 
+# 180 : Wile, Christi - Stoli - Phi 
+# 181 : Mitchell, Jennie - Road Rage - Phi 
+# 182 : Smith, Kevin - Cletus - Phi 
+# 183 : Hulse, Aaron - Threesome - Phi 
+# 184 : Marinik, Adam - Pip - Phi 
+# 185 : Lumbley, Kat - Doggfather - Phi 
+# 186 : Zetterholm, Jessika - Jailbait - Phi 
+# 187 : Speakman, Rayetta - Crash - Phi 
+# 188 : McGarity, Veronica - She-ra - Phi 
+# 189 : Smith, Atasha - Lady - Chi 
+# 190 : Giuffre, Vincent - Stumpy - Chi 
+# 191 : Clinton Henry - Eastwood - Psi 
+# 192 : Robert Kelley - Cheezy Poof - Psi 
+# 193 : Joan Hansen - Medium Rare - Psi 
+# 194 : Jess Totten - the Dude - Psi 
+# 195 : Ben Stahl - John - Psi 
+# 196 : Ryan Hindman - Dragonballz - Psi 
+# 197 : Brad Davis - DJ Brad - Psi 
+# 198 : Carla Castillo - Dunno - Psi 
+# 199 : Amber Vendel - Sax-a-mo-phone - Psi 
+# 200 : Sean Forrester - Waterballz - Psi 
+# 201 : Jessica Ritter - Valcore - Psi 
+# 202 : Allen Harshaney - Charger - Psi 
+# 203 : Brandon Gremminger - Brodie (part deux) - Psi 
+# 204 : Sarah Simmons - Cerberus - Omega 
+# 205 : Jason Mazoch - Apu - Omega 
+# 206 : Justin Davis - Pickle Smoke - Gamma Beta 
+# 207 : Patricia Constandine - Skylos - Gamma Beta 
+# 208 : Carty Weller - Duke Nukem - Gamma Beta 
+# 209 : Derek Vandorston - Snapper - Gamma Beta 
+# 210 : Paul Leugemors - Chester - Gamma Beta 
+# 211 : Christophe Wood - Beefy - Delta Beta 
+# 212 : Daniel Shook - Juggling Monkey - Delta Beta 
+# 213 : Suzanne Mejia - Fang - Delta Beta 
+# 214 : Zac West - Sideshow Bob - Epsilon Beta 
+# 216 : Colin Lowenberg - Major Tom - Epsilon Beta 
+# 217 : Russell Stoewe - Stuffing - Epsilon Beta 
+# 218 : Rick Kuang - Toad - Epsilon Beta 
+# 219 : Amanda Young - Tequila - Zeta Beta 
+# 220 : Andrea French - Switch Hitter - Zeta Beta 
+# 221 : Matt Korhonen - Christophe - Zeta Beta 
+# 222 : Daniel Meyer - Dutchmaster - Eta Beta 
+# 223 : Amanda Braun - Options - Eta Beta 
+# 224 : Brett Byrnes - Foreman - Eta Beta 
+# 225 : Joyce Wright - Bits - Eta Beta 
+# 226 : Zach Blakeman - Morris - Eta Beta 
+# 227 : Danni Rattanasamy - Whatchamacallit - Eta Beta 
+# 228 : Chris Daniels - - Eta Beta 
+# 229 : Lynsie Lambrecht - Deputy Dogg - Eta Beta 
+# 230 : Chad Perry - R.J. - Eta Beta 
+# 231 : Lauren Trompler - Smorgasbord - Eta Beta 
+# 232 : Katherine Tanner - Snoopaloop - Theta Beta 
+# 233 : Jenni Sertich - Pix - Theta Beta 
+# 234 : Tolga Cengiz - Captain Mo - Theta Beta 
+# 235 : Zach Johnson - Hoorah - Theta Beta 
+# 236 : Colby Anger - Grrrrr - Theta Beta 
+# 237 : Hani Ebeid - HJ - Theta Beta 
+# 238 : Nicole Ayoub - Sabrina - Iota Beta 
+# 239 : Luis Palacios - Sherpa - Iota Beta 
+# 240 : James Lee Fabian - T-Bone - Iota Beta 
+# 241 : Matthew Tingsanchali - GQ - Iota Beta 
+# 242 : Erick Rodriguez - Toooooowed - Iota Beta 
+# 243 : Brandon Christa - Sugar Daddy - Iota Beta 
+# 244 : Benjamin Martinez - Missionary - Iota Beta 
+# 245 : Lacy Bishline - McGruff - Kappa Beta 
+# 246 : Michele Mohon - Asbestos - Kappa Beta 
+# 247 : Cassie Zhuang - Cheesecake - Kappa Beta 
+# 248 : Josh Arenson - Pinto XV - Kappa Beta 
+# 249 : Gio Wan - Jiggly Puffy Taco - Kappa Beta 
+# 250 : Jason Dziuk - FT - Kappa Beta 
+# 251 : Phil Jin Kang - Ashley - Lambda Beta 
+# 252 : Lindsey Roberts - SOHCAHTOA - Mu Beta 
+# 253 : Jason Clark - Pinto XVII - Mu Beta 
+# 254 : Ryan Farrell - Appletini, Low on the Tini - Mu Beta 
+# 255 : Jack Little - We Don't Know - Mu Beta 
+# 256 : Christopher Lawrence - Odie - Mu Beta 
+# 257 : Brian Plisco - Garfield - Mu Beta 
+# 258 : Sahil Hingorani - Meatwad - Mu Beta 
+# 259 : Alan Wang - PUCI II - Mu Beta 
+# 260 : Rebecca Cohen - Gromit - Mu Beta 
+# 261 : Pratik Burman - FT 2.718 - Mu Beta 
+# 263 : Oam Yamajinda - Richie - Mu Beta 
+# 264 : Hans Anguillet - Olo - Nu Beta 
+# 265 : Josh Eggers - Pinto XIX - Nu Beta 
+# 266 : Jeremy McDowell - McLovin - Nu Beta 
+# 267 : Kevin Cross - Kyle...the other white meat! - Xi Beta 
+# 268 : Tyler Lawson - Hey, Zeus! - Xi Beta 
+# 269 : Justin Chandler - Dutch Oven - Xi Beta 
+# 270 : Jack Cramer - Hooptie - Xi Beta 
+# 271 : Todd Bilderback - Fresh Prince - Xi Beta 
+# 272 : Chelsie Weathington - Blue - Xi Beta 
+# 273 : Allison Lehman - Hong Kong Phooey - Xi Beta 
+# 274 : Christopher Hunt - Sidekick - Xi Beta 
+# 275 : David Perritano - Froman - Xi Beta 
+# 276 : Darius Bunandar - Shuttlecock - Xi Beta 
+# 277 : Christopher McLennon - Jar Jar - Xi Beta 
+# 278 : Cynthia Healy - Kamehameha - Xi Beta 
+# 279 : Claudia Patterson - Boo Radley - Xi Beta 
+# 280 : Mitchell Baldwin - Chernobyl - Xi Beta 
+# 281 left blank in loving memory of Alisha "Marley" Chaufla, Omicron Beta 
+# 282 : Ari Gernaat - You drove through it on the way here - Omicron Beta 
+# 283 : Adam Patterson - Iron Chef Morimoto - Omicron Beta 
+# 284 : Stephanie Clark - Mike's Hard Lemonade - Omicron Beta 
+# 285 : Charlene Vela - Thirteen - Omicron Beta 
+# 286 : Yena Lee - Souffle - Omicron Beta 
+# 287 : Scott Kreindl - Scuba Steve - Omicron Beta 
+# 288 : Virgil Shelby - The Inferno - Pi Beta 
+# 289 : Kelsey Stonecipher - Rosetta - Pi Beta 
+# 290 : Chris Hoffman - KITT - Pi Beta 
+# 291 : Kristopher Williams - #4 - Pi Beta 
+# 292 : Nicholas Stellas - 57 Varieties - Pi Beta 
+# 293 : Ahmad Alfakher - Yes - Pi Beta 
+# 294 : Michael Janusa - Forrest - Pi Beta 
+# 295 : Susanne Plaisted - Travelocity - Pi Beta 
+# 296 : Trent Boyd - Barney - Pi Beta 
+# 297 : Linley Duke - General Lee - Pi Beta 
+# 298 : Shannah Leal - Chapparal - Pi Beta 
+# 299 : Jay Al-Rukabi - Turnstone - Pi Beta 
+# 300 : Howard Tsai - Farce - Pi Beta 
+# 301 : Eric Greuner - Puddle - Pi Beta 
+# 302 : Zaid Sofia - Ted - Rho Beta 
+# 303 : Lauren Coffman - Checkers - Rho Beta 
+# 304 : Jeffrey Parker - J Bay Bay - Sigma Beta 
+# 305 : Natalie Holsomback - Pongo - Sigma Beta 
+# 306 : Michael Rodriguez - Milkshake - Sigma Beta 
+# 307 : Gage Morris - Platypus - Sigma Beta 
+# 308 : Zak Hubenak - Pachoulli - Sigma Beta 
+# 309 : Hang "John" Zhang - Solo - Sigma Beta 
+# 310 : Brendan Riggen - All Your Base Are Belong To Us - Sigma Beta 
+# 311 : Aditya Akkineni - Sherlock - Tau Beta 
+# 312 : Lara Foster - Carnaval - Tau Beta 
+# 313 : Billy Boonkrongkiat - Cuatro Crazy - Tau Beta 
+# 314 : Geraldine Hwang - Windsor - Tau Beta 
+# 315 : Steven Trudeau - Knewhoff - Tau Beta 
+# 316 : Lucy Xie - Montoya - Tau Beta 
+# 317 : Kevin Yuan - Red Dye #6 - Tau Beta 
+# 318 : Bridget Owens - Halfstack - Upsilon Beta 
+# 319 : Cristina Madruga - Screwdriver - Upsilon Beta 
+# 320 : Aaron Roell - Parcheesi - Upsilon Beta 
+# 321 : Taylor Ellis - Haberdasher - Upsilon Beta 
+# 322 : Joe McGahhey - Spelling Bee - Upsilon Beta 
+# 323 : Katie Madler - Hammer - Upsilon Beta 
+# 324 : Joshua Scoville - Five Alarm - Upsilon Beta 
+# 325 : Yeon Joo "Alex" Hwang - Zerg Rush - Upsilon Beta 
+# 326 : Saul Salas - Skynet - Upsilon Beta 
+# 327 : Darla Hollander - Buckwheat - Upsilon Beta 
+# 328 : Wynne Davis - Humpty Dumpty - Upsilon Beta 
+# 329 : Marianna Gonzales - Swiper - Upsilon Beta 
+# 330 : Andrea Mengual - Errol - Upsilon Beta 
+# 331 : Nick Mustachio - Diabeetus - Upsilon Beta 
+# 332 : Caroline Schram - Duchess - Phi Beta 
+# 333 : Ana Perarnau - Jeeves - Phi Beta 
+# 334 : Khalid AlFarsi - Swiss Miss - Phi Beta 
+# 335 : Suzanna Bennett - "Pahk tha Cahh" - Phi Beta 
+# 336 : Alexandra Brinegar - Aretoo - Phi Beta 
+# 337 : Jordan Swisher - Pinto XXI - Phi Beta 
+# 338 : Maria Marinez - Redline - Phi Beta 
+# 339 : Miguel Curo - Chiquita - Phi Beta 
+# 340 : Ian George - Mibro - Phi Beta 
+# 341 : Amy Hooper - Perry - Chi Beta 
+# 342 : Audrey Einhorn - Instructions - Chi Beta 
+# 343 : Aaron Jordan - Hoffscotch - Chi Beta 
+# 344 : Drew Stonecipher - I did it once - Chi Beta 
+# 345 : Michelle Huddleston - Ace - Chi Beta 
+# 346 : Amanda Keebler - Ehrmernder - Chi Beta 
+# 347 : Nathan Riojas - Kali-ma - Chi Beta 
+# 348 : Sophia Hoog - Fey - Chi Beta 
+# 349 : Summer Gunnels - Buckoff - Chi Beta 
+# 350 : Sean Cascketta - Gator - Chi Beta 
+# 351 : Kyle Moser - Rosebud - Chi Beta 
+# 352 : Erin Formby - Trouble - Chi Beta 
+# 353 : Bryan Boucher - Toofbrush - Chi Beta 
+# 354 : Jake Lewis - Colonel Cop-Out - Chi Beta 
+# 355 : Miguel Vazquez - Spiral - Chi Beta 
+# 356 : Kevin Allen - Red Shirt - Chi Beta 
+# 357 : Dacy Thomas - Skids - Chi Beta 
+# 358 : Zachary Pickett - Guster - Chi Beta 
+# 359 : Nathan Dawson - Livewire - Chi Beta 
+# 360 : Mat Martins - Earmuffs - Chi Beta 
+# 361 : Chelsea Clark - Frankenpledge - Chi Beta 
+# 362 : Garrett Smith - Chong - Chi Beta 
+# 363 : Charles Grantom - Lil' Bob - Chi Beta 
+# 364 : Annette Garcia - Yeah, Science! - Chi Beta 
+# 365 : Carla Lacson - Fortress - Psi Beta 
+# 366 : Devin O'Kelly - Psssss - Psi Beta 
+# 367 : Akil Chittaluru - Goggles - Psi Beta 
+# 368 : Ben Bylenok - Dover - Psi Beta 
+# 369 : Mac Nghiem - Corral - Psi Beta 
+# 370 : Holly Ashford - Choc U - Psi Beta 
+# 371 : Emeka Ugwu - # - Psi Beta 
+# 372 : Diana Ruth - Seatbelt - Psi Beta 
+# 373 : Sabrina Luce - Champagne - Psi Beta 
+# 374 : Melissa Latterell - Longitude - Psi Beta 
+# 375 : Priyanka Vaidya - Gir - Psi Beta 
+# 376 : Matt Meleen - Radcliffe - Psi Beta 
+# 377 : Madison Ford - Ulyssesessess - Psi Beta 
+# 378 : Morgan Watson-Morris - Ricer - Psi Beta 
+# 379 : Jason Adams - Cheech - Psi Beta 
+# 380 : Victor Clark - Hoffschnapps - Psi Beta 
+# 381 : Khalid Hamza - Nesquik - Psi Beta 
+# 382 : Austin Hinners - Touché - Omega Beta 
+# 383 : Sammie Yellott - Nein - Omega Beta 
+# 384 : Annie Mara - Naturally - Omega Beta 
+# 385 : Katelyn Kelsey - Celery - Omega Beta 
+# 386 : Christian Young - Murphy - Omega Beta 
+# 387 : Ammar Hazim - Neptune - Omega Beta 
+# 388 : Austin Winebrenner - L'chaim - Omega Beta 
+# 389 : Julia Poliaeva - Sensei - Omega Beta 
+# 390 : Lindsay Wandall - False  - Omega Beta 
+# 391 : Megan Shyr - Lemniscate - Omega Beta 
+# 392 : Sophie Lloyd - idklol - Omega Beta
