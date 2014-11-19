@@ -1797,6 +1797,30 @@
             "pledge_class": "UpsilonBeta",
             "name": "Cristina Madruga",
             "pin": "319"
+        },
+        {
+            "img": "355.jpg",
+            "name": "Miguel Vazquez",
+            "pin": "355",
+            "pledge_name": "Spiral",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Electrical"
+        },
+        {
+            "img": "373.jpg",
+            "name": "Sabrina Luce",
+            "pin": "373",
+            "pledge_name": "Champagne",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Aerospace"
+        },
+        {
+            "img": "379.jpg",
+            "name": "Jason Adams",
+            "pin": "379",
+            "pledge_name": "Cheech",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Aerospace"
         }
     ]
 }
