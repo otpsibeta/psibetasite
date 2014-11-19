@@ -532,7 +532,9 @@
             "pin": "405",
             "pledge_name": "Jet",
             "pledge_class": "Delta Gamma S'14",
-            "major": "Chemical"
+            "major": "Chemical",
+            "img": "405.jpg",
+            "ext_img": true
         },
         {
             "name": "Ethan Miller",
