@@ -125,6 +125,28 @@ body{
     background-color: #FFFFFF;
 }
 
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+    background-color: #c11714;
+    color: white;
+}
+
+.dropdown-menu {
+    background-color: #c11714;
+}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    background-color: #E87575;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: white;
+    font-size: 1.2em;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+    color: rgb(250, 211, 3);
+}    
+
 body p {
     font-family: 'Open Sans', sans-serif;
     font-size: 175%;
