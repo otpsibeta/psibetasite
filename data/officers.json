@@ -8,7 +8,8 @@
             "pledge_class": "Phi Beta S'12",
             "major": "Mechanical",
             "email": "jordanswisher@utexas.edu",
-            "position": "Regent"
+            "position": "Regent",
+            "officer_letters": "UU! X!"
         },
         {
             "img": "341.jpg",
@@ -18,7 +19,8 @@
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical",
             "email": "aehooper@utexas.edu",
-            "position": "Vice Regent"
+            "position": "Vice Regent",
+            "officer_letters": "RR! Y!"
         },
         {
             "img": "353.jpg",
@@ -28,7 +30,8 @@
             "pledge_class": "Chi Beta F'12",
             "major": "Electrical",
             "email": "bryan.boucher@utexas.edu",
-            "position": "Treasurer"
+            "position": "Treasurer",
+            "officer_letters": "V!"
         },
         {
             "img": "366.jpg",
@@ -38,7 +41,8 @@
             "pledge_class": "Psi Beta S'13",
             "major": "Biomedical",
             "email": "devinokelly@utexas.edu",
-            "position": "Pledge Marshall"
+            "position": "Pledge Marshall",
+            "officer_letters": "W!"
         },
         {
             "img": "385.jpg",
@@ -48,7 +52,8 @@
             "pledge_class": "Omega Beta F'13",
             "major": "Biomedical",
             "email": "Kmariekelsey@gmail.com",
-            "position": "Correspondence Secretary"
+            "position": "Correspondence Secretary",
+            "officer_letters": "RR!"
         },
         {
             "img": "389.jpg",
@@ -58,7 +63,8 @@
             "pledge_class": "Omega Beta F'13",
             "major": "Petroleum",
             "email": "jpoliaeva@utexas.edu",
-            "position": "Scribe"
+            "position": "Scribe",
+            "officer_letters": "V!"
         },
         {
             "img": "381.jpg",
@@ -68,7 +74,8 @@
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
             "email": "khalid_hamza@utexas.edu",
-            "position": "Rush Chair"
+            "position": "Rush Chair",
+            "officer_letters": "U!"
         },
         {
             "img": "375.jpg",
@@ -78,7 +85,8 @@
             "pledge_class": "Psi Beta S'13",
             "major": "Biomedical",
             "position": "Rush Co-Chair",
-            "email": "PriyankaVaidya@utexas.edu"
+            "email": "PriyankaVaidya@utexas.edu",
+            "officer_letters": "UU! T!"
         },
         {
             "img": "350.jpg",
@@ -88,7 +96,8 @@
             "pledge_class": "Chi Beta F'12",
             "major": "Computer Science",
             "email": "scascketta@gmail.com",
-            "position": "Webmaster"
+            "position": "Webmaster",
+            "officer_letters": "0xDEADBEEF"
         }
     ]
 }

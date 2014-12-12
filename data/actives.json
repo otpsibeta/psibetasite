@@ -20,7 +20,8 @@
             "pin": "318",
             "pledge_name": "Halfstack",
             "pledge_class": "Upsilon Beta F'11",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "XX!"
         },
         {
             "img": "321.jpg",
@@ -28,7 +29,8 @@
             "pin": "321",
             "pledge_name": "Haberdasher",
             "pledge_class": "Upsilon Beta F'11",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "VV! WW!"
         },
         {
             "img": "322.jpg",
@@ -36,7 +38,8 @@
             "pin": "322",
             "pledge_name": "Spelling Bee",
             "pledge_class": "Upsilon Beta F'11",
-            "major": "Aerospace"
+            "major": "Aerospace",
+            "officer_letters": "YY! UU!"
         },
         {
             "img": "323.jpg",
@@ -52,7 +55,8 @@
             "pin": "324",
             "pledge_name": "Five Alarm",
             "pledge_class": "Upsilon Beta F'11",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "XX! YY! VV! ZZ!"
         },
         {
             "img": "327.jpg",
@@ -84,7 +88,8 @@
             "pin": "333",
             "pledge_name": "Jeeves",
             "pledge_class": "Phi Beta S'12",
-            "major": "Civil"
+            "major": "Civil",
+            "officer_letters": "VV! WW!"
         },
         {
             "img": "336.jpg",
@@ -100,7 +105,8 @@
             "pin": "337",
             "pledge_name": "Pinto",
             "pledge_class": "Phi Beta S'12",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "UU! X!"
         },
         {
             "img": "341.jpg",
@@ -108,7 +114,8 @@
             "pin": "341",
             "pledge_name": "Perry",
             "pledge_class": "Chi Beta F'12",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "RR! Y!"
         },
         {
             "img": "342.jpg",
@@ -164,7 +171,8 @@
             "pin": "349",
             "pledge_name": "Buckoff",
             "pledge_class": "Chi Beta F'12",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "VV!"
         },
         {
             "img": "350.jpg",
@@ -172,7 +180,8 @@
             "pin": "350",
             "pledge_name": "Gator",
             "pledge_class": "Chi Beta F'12",
-            "major": "Computer Science"
+            "major": "Computer Science",
+            "officer_letters": "0xDEADBEEF"
         },
         {
             "img": "353.jpg",
@@ -180,7 +189,8 @@
             "pin": "353",
             "pledge_name": "Toofbrush",
             "pledge_class": "Chi Beta F'12",
-            "major": "Electrical"
+            "major": "Electrical",
+            "officer_letters": "V!"
         },
         {
             "img": "354.jpg",
@@ -252,7 +262,8 @@
             "pin": "366",
             "pledge_name": "Psssss",
             "pledge_class": "Psi Beta S'13",
-            "major": "Biomedical"
+            "major": "Biomedical",
+            "officer_letters": "W!"
         },
         {
             "img": "367.jpg",
@@ -292,7 +303,8 @@
             "pin": "371",
             "pledge_name": "#",
             "pledge_class": "Psi Beta S'13",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "TT!"
         },
         {
             "img": "372.jpg",
@@ -316,7 +328,8 @@
             "pin": "375",
             "pledge_name": "Gir",
             "pledge_class": "Psi Beta S'13",
-            "major": "Biomedical"
+            "major": "Biomedical",
+            "officer_letters": "UU! T!"
         },
         {
             "img": "376.jpg",
@@ -356,7 +369,8 @@
             "pin": "381",
             "pledge_name": "Nesquik",
             "pledge_class": "Psi Beta S'13",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "U!"
         },
         {
             "img": "382.jpg",
@@ -388,7 +402,8 @@
             "pin": "385",
             "pledge_name": "Celery",
             "pledge_class": "Omega Beta F'13",
-            "major": "Biomedical"
+            "major": "Biomedical",
+            "officer_letters": "RR!"
         },
         {
             "img": "386.jpg",
@@ -420,7 +435,8 @@
             "pin": "389",
             "pledge_name": "Sensei",
             "pledge_class": "Omega Beta F'13",
-            "major": "Petroleum"
+            "major": "Petroleum",
+            "officer_letters": "V!"
         },
         {
             "img": "390.jpg",
