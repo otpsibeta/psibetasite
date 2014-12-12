@@ -86,14 +86,10 @@
     {{/if}}
         <div class="col-xs-6 col-sm-4 col-md-2">
             <div class="thumbnail">
-                {{#if ext_img}}
+                {{#if img}}
                     <img class='img-responsive img-thumbnail' src="img/members/{{img}}">
                 {{else}}
-                    {{#if img}}
-                        <img class='img-responsive img-thumbnail' src="http://studentorgs.engr.utexas.edu/thetatau/includes/actives%20photos/{{img}}">
-                    {{else}}
-                        <img class='img-responsive img-thumbnail' src="img/missing.png">
-                    {{/if}}
+                    <img class='img-responsive img-thumbnail' src="img/missing.png">
                 {{/if}}
                 <div class="caption">
                     <ul class="list-unstyled">

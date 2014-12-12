@@ -60,8 +60,7 @@
             "pin": "327",
             "pledge_name": "Buckwheat",
             "pledge_class": "Upsilon Beta F'11",
-            "major": "Electrical",
-            "ext_img": true
+            "major": "Electrical"
         },
         {
             "img": "329.jpg",
@@ -109,8 +108,7 @@
             "pin": "341",
             "pledge_name": "Perry",
             "pledge_class": "Chi Beta F'12",
-            "major": "Mechanical",
-            "ext_img": true
+            "major": "Mechanical"
         },
         {
             "img": "342.jpg",
@@ -126,8 +124,7 @@
             "pin": "343",
             "pledge_name": "Hoffscotch",
             "pledge_class": "Chi Beta F'12",
-            "major": "Electrical",
-            "ext_img": true
+            "major": "Electrical"
         },
         {
             "img": "344.jpg",
@@ -223,8 +220,7 @@
             "pin": "360",
             "pledge_name": "Earmuffs",
             "pledge_class": "Chi Beta F'12",
-            "major": "Chemical",
-            "ext_img": true
+            "major": "Chemical"
         },
         {
             "img": "361.jpg",
@@ -376,8 +372,7 @@
             "pin": "383",
             "pledge_name": "Nein",
             "pledge_class": "Omega Beta F'13",
-            "major": "Chemical",
-            "ext_img": true
+            "major": "Chemical"
         },
         {
             "img": "384.jpg",
@@ -393,8 +388,7 @@
             "pin": "385",
             "pledge_name": "Celery",
             "pledge_class": "Omega Beta F'13",
-            "major": "Biomedical",
-            "ext_img": true
+            "major": "Biomedical"
         },
         {
             "img": "386.jpg",
@@ -442,8 +436,7 @@
             "pin": "391",
             "pledge_name": "Lemniscate",
             "pledge_class": "Omega Beta F'13",
-            "major": "Biomedical",
-            "ext_img": true
+            "major": "Biomedical"
         },
         {
             "img": "392.jpg",
@@ -459,8 +452,7 @@
             "pledge_name": "Hamtaro",
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
-            "img": "393.jpg",
-            "ext_img": true
+            "img": "393.jpg"
         },
         {
             "name": "Esteban Gonzalez",
@@ -468,8 +460,7 @@
             "pledge_name": "Grog",
             "pledge_class": "Delta Gamma S'14",
             "major": "Civil",
-            "img": "394.jpg",
-            "ext_img": true
+            "img": "394.jpg"
         },
         {
             "name": "Brooke Baker",
@@ -484,8 +475,7 @@
             "pledge_name": "Decibel",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
-            "img": "396.jpg",
-            "ext_img": true
+            "img": "396.jpg"
         },
         {
             "name": "Yash Parekh",
@@ -493,8 +483,7 @@
             "pledge_name": "Treefiddy",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
-            "img": "397.jpg",
-            "ext_img": true
+            "img": "397.jpg"
         },
         {
             "name": "Carolyn Ramirez",
@@ -502,8 +491,7 @@
             "pledge_name": "Brady",
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
-            "img": "398.jpg",
-            "ext_img": true
+            "img": "398.jpg"
         },
         {
             "name": "Blair Arney",
@@ -532,8 +520,7 @@
             "pledge_name": "Pipes",
             "pledge_class": "Delta Gamma S'14",
             "major": "Mechanical",
-            "img": "402.jpg",
-            "ext_img": true
+            "img": "402.jpg"
         },
         {
             "name": "Ravi Lumba",
@@ -555,8 +542,7 @@
             "pledge_name": "Jet",
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
-            "img": "405.jpg",
-            "ext_img": true
+            "img": "405.jpg"
         },
         {
             "name": "Ethan Miller",
@@ -564,8 +550,7 @@
             "pledge_name": "HandRoell",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
-            "img": "406.jpg",
-            "ext_img": true
+            "img": "406.jpg"
         },
         {
             "name": "Matt Owens",
