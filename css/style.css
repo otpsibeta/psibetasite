@@ -1,31 +1,11 @@
-html, button, input, select, textarea,
-.pure-g [class *= "pure-u"] {
-    /* Set your content font stack here: */
+html, button, input, select, textarea {
     font-family: 'Open Sans', sans-serif;
 }
-body{
+
+body {
     /* for the fixed navbar */
     padding-top: 50px;
     background-color: #fbfbfb;
-}
-
-
-.footer{
-    background-color: #c11714;
-    height: 60px;
-}
-
-.footer h3{
-    color: white;
-    font-family: 'Roboto Slab';
-    font-weight: 400;
-    font-size: 150%;
-    margin-top: 0pt;
-    font-style: italic;
-    vertical-align: middle;
-    text-align: center;
-    padding-top: 10px;
-    margin-bottom: 0;
 }
 
 .billboard {
@@ -36,6 +16,7 @@ body{
     -o-background-size: cover;
     background-size: cover;
 }
+
 .billboard h1 {
     font-size: 8em;
     font-weight: 700;
@@ -49,7 +30,7 @@ body{
     margin-left: 5%;
     text-shadow: black 0.01em 0.01em 0.15em;
 }
-  
+
 .billboard h3 {
     font-size: 3em;
     color: white;
@@ -62,24 +43,14 @@ body{
     margin-left: 5%;
     text-shadow: black 0.01em 0.01em 0.15em;
 }
-.chapter {
-    color: white;
-    padding-left: 0px;
-    text-transform: uppercase;
-}
-.bodytext{
+
+.bodytext {
     font-family: 'Open Sans', sans-serif;
     font-size: 150%;
     padding-left: 5px;
 }
-.pure-button{
-    background: #c11714;
-    font-family: 'Roboto Slab', serif;
-}
-.pure-form{
-    font-family: 'Open Sans', sans-serif;
-}
-.jointext h2{
+
+.jointext h2 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
 }
@@ -101,28 +72,28 @@ body{
     background-color: #c11714;
 }
 
-.navbar-default .navbar-nav>li>a {
-    color: #FFFFFF;
+.navbar-right {
+    font-size: 75%;
+}
+
+.navbar-header a.navbar-brand {
+    color: white;
     font-family: 'Roboto Slab', serif;
     font-size: 175%;
 }
 
-.navbar-default .navbar-nav>li>a:hover {
+.navbar-header a.navbar-brand:hover {
     color: rgb(250, 211, 3);
 }
 
-.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
-    color: #FFFFFF;
+#navbar-collapse-1 ul li a {
+    color: white;
     font-family: 'Roboto Slab', serif;
     font-size: 175%;
 }
 
-.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand:hover {
+#navbar-collapse-1 ul li a:hover {
     color: rgb(250, 211, 3);
-}
-
-.navbar-default .navbar-toggle .icon-bar {
-    background-color: #FFFFFF;
 }
 
 #dropdown-toggle {
@@ -130,16 +101,20 @@ body{
     color: white;
 }
 
-ul .dropdown-menu {
+#dropdown-toggle:hover {
+    color: rgb(250, 211, 3);
+}
+
+.dropdown-menu {
     background-color: #c11714;
 }
 
-ul .dropdown-menu li a { 
+.dropdown-menu li {
     color: white;
-    font-size: 120%;
+    font-size: 70%;
 }
 
-ul .dropdown-menu li a:hover {
+#navbar-collapse-1 ul .dropdown-menu li a:hover {
     background-color: #d23835;
     color: rgb(250, 211, 3);
 }
@@ -151,6 +126,24 @@ body p {
 
 #first-copy {
     margin-top: 5%;
+}
+
+.footer {
+    background-color: #c11714;
+    height: 60px;
+}
+
+.footer h3 {
+    color: white;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+    font-size: 150%;
+    margin-top: 0pt;
+    font-style: italic;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0;
 }
 
 @media (max-width: 1035px){
@@ -168,6 +161,7 @@ body p {
         font-size:20%;
     }
 }
+
 @media (min-width: 1035px){
     .smallshow{
         display: none;
