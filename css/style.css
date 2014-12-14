@@ -125,6 +125,25 @@ body{
     background-color: #FFFFFF;
 }
 
+#dropdown-toggle {
+    background-color: #c11714;
+    color: white;
+}
+
+ul .dropdown-menu {
+    background-color: #c11714;
+}
+
+ul .dropdown-menu li a { 
+    color: white;
+    font-size: 120%;
+}
+
+ul .dropdown-menu li a:hover {
+    background-color: #d23835;
+    color: rgb(250, 211, 3);
+}
+
 body p {
     font-family: 'Open Sans', sans-serif;
     font-size: 175%;
