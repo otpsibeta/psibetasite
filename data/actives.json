@@ -495,8 +495,8 @@
             "pledge_name": "Decibel",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
-            "img": "396.jpg"
-            "officer_letters: U!"
+            "img": "396.jpg",
+            "officer_letters": "U!"
         },
         {
             "name": "Yash Parekh",
@@ -504,7 +504,7 @@
             "pledge_name": "Treefiddy",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
-            "img": "397.jpg"
+            "img": "397.jpg",
             "officer_letters": "0xDEADBEEF"
         },
         {
@@ -527,7 +527,7 @@
             "pin": "400",
             "pledge_name": "Get back t'werk",
             "pledge_class": "Delta Gamma S'14",
-            "major": "Chemical"
+            "major": "Chemical",
             "officer_letters": "V!"
         },
         {

@@ -7,8 +7,8 @@
             "pledge_name": "Jeeves",
             "pledge_class": "Phi Beta S'12",
             "major": "Civil",
-            "email": "amperarnaug@gmail.com"
-            "position": "Regent"
+            "email": "amperarnaug@gmail.com",
+            "position": "Regent",
             "officer_letters": "VV! WW! X!"
         },
         {
@@ -18,8 +18,8 @@
             "pledge_name": "Buckoff",
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical",
-            "email": "sngunnels@utexas.edu"
-            "position": "Vice Regent"
+            "email": "sngunnels@utexas.edu",
+            "position": "Vice Regent",
             "officer_letters": "VV! Y!"
         },
         {
@@ -82,7 +82,7 @@
             "pin": "382",
             "pledge_name": "Touché",
             "pledge_class": "Omega Beta F'13",
-            "major": "Mechanical"
+            "major": "Mechanical",
             "position": "Rush Co-Chair",
             "email": "aahinners@utexas.edu",
             "officer_letters": "T!"
