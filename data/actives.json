@@ -90,7 +90,7 @@
             "pledge_name": "Jeeves",
             "pledge_class": "Phi Beta S'12",
             "major": "Civil",
-            "officer_letters": "VV! WW!"
+            "officer_letters": "VV! WW! X!"
         },
         {
             "img": "336.jpg",
@@ -107,7 +107,7 @@
             "pledge_name": "Pinto",
             "pledge_class": "Phi Beta S'12",
             "major": "Mechanical",
-            "officer_letters": "UU! X!"
+            "officer_letters": "UU! XX!"
         },
         {
             "img": "341.jpg",
@@ -116,7 +116,7 @@
             "pledge_name": "Perry",
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical",
-            "officer_letters": "RR! Y!"
+            "officer_letters": "RR! YY!"
         },
         {
             "img": "342.jpg",
@@ -173,7 +173,7 @@
             "pledge_name": "Buckoff",
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical",
-            "officer_letters": "VV!"
+            "officer_letters": "VV! Y!"
         },
         {
             "img": "350.jpg",
@@ -182,7 +182,7 @@
             "pledge_name": "Gator",
             "pledge_class": "Chi Beta F'12",
             "major": "Computer Science",
-            "officer_letters": "0xDEADBEEF"
+            "officer_letters": "0xDEADDEAD"
         },
         {
             "img": "353.jpg",
@@ -191,7 +191,7 @@
             "pledge_name": "Toofbrush",
             "pledge_class": "Chi Beta F'12",
             "major": "Electrical",
-            "officer_letters": "Z!"
+            "officer_letters": "ZZ!"
         },
         {
             "img": "354.jpg",
@@ -231,7 +231,8 @@
             "pin": "360",
             "pledge_name": "Earmuffs",
             "pledge_class": "Chi Beta F'12",
-            "major": "Chemical"
+            "major": "Chemical",
+            "officer_letters": "Z!"
         },
         {
             "img": "361.jpg",
@@ -264,7 +265,7 @@
             "pledge_name": "Psssss",
             "pledge_class": "Psi Beta S'13",
             "major": "Biomedical",
-            "officer_letters": "W!"
+            "officer_letters": "WW!"
         },
         {
             "img": "367.jpg",
@@ -330,7 +331,7 @@
             "pledge_name": "Gir",
             "pledge_class": "Psi Beta S'13",
             "major": "Biomedical",
-            "officer_letters": "UU! T!"
+            "officer_letters": "UU! TT!"
         },
         {
             "img": "376.jpg",
@@ -371,7 +372,7 @@
             "pledge_name": "Nesquik",
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
-            "officer_letters": "U!"
+            "officer_letters": "UU!"
         },
         {
             "img": "382.jpg",
@@ -379,7 +380,8 @@
             "pin": "382",
             "pledge_name": "Touché",
             "pledge_class": "Omega Beta F'13",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "T!"
         },
         {
             "img": "383.jpg",
@@ -387,7 +389,8 @@
             "pin": "383",
             "pledge_name": "Nein",
             "pledge_class": "Omega Beta F'13",
-            "major": "Chemical"
+            "major": "Chemical",
+            "officer_letters": "W!"
         },
         {
             "img": "384.jpg",
@@ -437,7 +440,7 @@
             "pledge_name": "Sensei",
             "pledge_class": "Omega Beta F'13",
             "major": "Petroleum",
-            "officer_letters": "V!"
+            "officer_letters": "VV!"
         },
         {
             "img": "390.jpg",
@@ -493,6 +496,7 @@
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
             "img": "396.jpg"
+            "officer_letters: U!"
         },
         {
             "name": "Yash Parekh",
@@ -501,6 +505,7 @@
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
             "img": "397.jpg"
+            "officer_letters": "0xDEADBEEF"
         },
         {
             "name": "Carolyn Ramirez",
@@ -523,6 +528,7 @@
             "pledge_name": "Get back t'werk",
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical"
+            "officer_letters": "V!"
         },
         {
             "name": "Nahum Alem",
