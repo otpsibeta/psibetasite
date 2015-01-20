@@ -1802,12 +1802,78 @@
             "major": "Chemical"
         },
         {
+            "img": "321.jpg",
+            "name": "Taylor Ellis",
+            "pin": "321",
+            "pledge_name": "Haberdasher",
+            "pledge_class": "Upsilon Beta F'11",
+            "major": "Mechanical",
+            "officer_letters": "VV! WW!"
+        },
+        {
+            "img": "322.jpg",
+            "name": "Joe McGahhey",
+            "pin": "322",
+            "pledge_name": "Spelling Bee",
+            "pledge_class": "Upsilon Beta F'11",
+            "major": "Aerospace",
+            "officer_letters": "YY! UU!"
+        },
+        {
+            "img": "331.jpg",
+            "name": "Nick Mustachio",
+            "pin": "331",
+            "pledge_name": "Diabeetus",
+            "pledge_class": "Upsilon Beta F'11",
+            "major": "Aerospace"
+        },
+        {
+            "img": "342.jpg",
+            "name": "Audrey Einhorn",
+            "pin": "342",
+            "pledge_name": "Instructions",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Chemical"
+        },
+        {
+            "img": "344.jpg",
+            "name": "Drew Stonecipher",
+            "pin": "344",
+            "pledge_name": "I did it once.",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Aerospace"
+        },
+        {
+            "img": "346.jpg",
+            "name": "Amanda Keebler",
+            "pin": "346",
+            "pledge_name": "Ehrmernder",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Computer Science"
+        },
+        {
             "img": "355.jpg",
             "name": "Miguel Vazquez",
             "pin": "355",
             "pledge_name": "Spiral",
             "pledge_class": "Chi Beta F'12",
             "major": "Electrical"
+        },
+        {
+            "img": "358.jpg",
+            "name": "Zacharay Pickett",
+            "pin": "358",
+            "pledge_name": "Guster",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Chemical"
+        },
+        {
+            "img": "364.jpg",
+            "name": "Annette Garcia",
+            "pin": "364",
+            "pledge_name": "Yeah, Science!",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Chemical"
         },
         {
             "img": "373.jpg",

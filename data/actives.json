@@ -25,24 +25,6 @@
             "officer_letters": "XX!"
         },
         {
-            "img": "321.jpg",
-            "name": "Taylor Ellis",
-            "pin": "321",
-            "pledge_name": "Haberdasher",
-            "pledge_class": "Upsilon Beta F'11",
-            "major": "Mechanical",
-            "officer_letters": "VV! WW!"
-        },
-        {
-            "img": "322.jpg",
-            "name": "Joe McGahhey",
-            "pin": "322",
-            "pledge_name": "Spelling Bee",
-            "pledge_class": "Upsilon Beta F'11",
-            "major": "Aerospace",
-            "officer_letters": "YY! UU!"
-        },
-        {
             "img": "323.jpg",
             "name": "Katie Madler",
             "pin": "323",
@@ -74,14 +56,6 @@
             "pledge_name": "Swiper",
             "pledge_class": "Upsilon Beta F'11",
             "major": "Mechanical"
-        },
-        {
-            "img": "331.jpg",
-            "name": "Nick Mustachio",
-            "pin": "331",
-            "pledge_name": "Diabeetus",
-            "pledge_class": "Upsilon Beta F'11",
-            "major": "Aerospace"
         },
         {
             "img": "333.jpg",
@@ -119,14 +93,6 @@
             "officer_letters": "RR! YY!"
         },
         {
-            "img": "342.jpg",
-            "name": "Audrey Einhorn",
-            "pin": "342",
-            "pledge_name": "Instructions",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Chemical"
-        },
-        {
             "img": "343.jpg",
             "name": "Aaron Jordan",
             "pin": "343",
@@ -135,28 +101,12 @@
             "major": "Electrical"
         },
         {
-            "img": "344.jpg",
-            "name": "Drew Stonecipher",
-            "pin": "344",
-            "pledge_name": "I did it once.",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Aerospace"
-        },
-        {
             "img": "345.jpg",
             "name": "Michelle Huddleston",
             "pin": "345",
             "pledge_name": "Ace",
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical"
-        },
-        {
-            "img": "346.jpg",
-            "name": "Amanda Keebler",
-            "pin": "346",
-            "pledge_name": "Ehrmernder",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Computer Science"
         },
         {
             "img": "347.jpg",
@@ -218,14 +168,6 @@
             "major": "Civil"
         },
         {
-            "img": "358.jpg",
-            "name": "Zacharay Pickett",
-            "pin": "358",
-            "pledge_name": "Guster",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Chemical"
-        },
-        {
             "img": "360.jpg",
             "name": "Mat Martins",
             "pin": "360",
@@ -239,14 +181,6 @@
             "name": "Chelsea Clark",
             "pin": "361",
             "pledge_name": "Frankenpledge",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Chemical"
-        },
-        {
-            "img": "364.jpg",
-            "name": "Annette Garcia",
-            "pin": "364",
-            "pledge_name": "Yeah, Science!",
             "pledge_class": "Chi Beta F'12",
             "major": "Chemical"
         },
@@ -523,6 +457,7 @@
             "major": "Petroleum"
         },
         {
+            "img": "400.jpg",
             "name": "Art Leangsuksun",
             "pin": "400",
             "pledge_name": "Get back t'werk",
