@@ -3,73 +3,52 @@
     "rush_events": [
         {
             "type": "Burgers at Crown and Anchor",
-            "date": "8/27/2014",
+            "date": "1/21/2015",
             "time": "10am-2pm",
             "location": "Crown and Anchor Pub",
             "gmaps": "https://goo.gl/maps/Tn7H8"
         },
         {
             "type": "Info Session*",
-            "date": "8/27/2014",
-            "time": "6:45-8pm",
-            "location": "CPE 2.220",
-            "gmaps": "https://goo.gl/maps/K3LRW"
-        },
-        {
-            "type": "Info Session*",
-            "date": "8/28/2014",
-            "time": "6:45-8pm",
-            "location": "CPE 2.220",
+            "date": "1/22/2015",
+            "time": "5:45-8pm",
+            "location": "CPE 2.218",
             "gmaps": "https://goo.gl/maps/K3LRW"
         },
         {
             "type": "Pizza at Double Dave's",
-            "date": "8/28/2014",
+            "date": "1/22/2015",
             "time": "7:30pm-close",
             "location": "Double Dave's",
             "gmaps": "https://goo.gl/maps/E2vkK"
         },
         {
             "type": "Info Session*",
-            "date": "8/29/2014",
-            "time": "6:45-8pm",
-            "location": "CPE 2.220",
+            "date": "1/26/2015",
+            "time": "TBD",
+            "location": "TBD",
             "gmaps": "https://goo.gl/maps/K3LRW"
         },
         {
-            "type": "Labor Day Cookout and Sports",
-            "date": "9/1/2014",
-            "time": "11am-4pm",
-            "location": "Eastwood Park (meet at lawn in front of CPE @ 10:45am)",
-            "gmaps": "https://goo.gl/maps/IFgCh"
-        },
-        {
             "type": "Info Session*",
-            "date": "9/2/2014",
-            "time": "6:45-8pm",
-            "location": "CPE 2.220",
+            "date": "1/27/2015",
+            "time": "TBD",
+            "location": "TBD",
             "gmaps": "https://goo.gl/maps/K3LRW"
         },
         {
             "type": "Burgers at Crown and Anchor",
-            "date": "9/3/2014",
+            "date": "1/28/2015",
             "time": "10am-2pm",
             "location": "Crown and Anchor Pub",
             "gmaps": "https://goo.gl/maps/Tn7H8"
         },
         {
             "type": "Info Session*",
-            "date": "9/4/2014",
-            "time": "6:45-8pm",
-            "location": "CPE 2.220",
+            "date": "1/28/2015",
+            "time": "TBD",
+            "location": "TBD",
             "gmaps": "https://goo.gl/maps/K3LRW"
-        },
-        {
-            "type": "Pizza at Double Dave's",
-            "date": "9/4/2014",
-            "time": "7:30pm-close",
-            "location": "Double Dave's",
-            "gmaps": "https://goo.gl/maps/E2vkK"
         }
     ]
 }
