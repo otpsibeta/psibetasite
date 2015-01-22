@@ -11,7 +11,7 @@
         {
             "type": "Info Session*",
             "date": "1/22/2015",
-            "time": "5:45-8pm",
+            "time": "5:45pm-8pm",
             "location": "CPE 2.218",
             "gmaps": "https://goo.gl/maps/K3LRW"
         },
@@ -25,16 +25,16 @@
         {
             "type": "Info Session*",
             "date": "1/26/2015",
-            "time": "TBD",
-            "location": "TBD",
+            "time": "5:30pm-8pm",
+            "location": "CPE 2.214",
             "gmaps": "https://goo.gl/maps/K3LRW"
         },
         {
             "type": "Info Session*",
             "date": "1/27/2015",
-            "time": "TBD",
-            "location": "TBD",
-            "gmaps": "https://goo.gl/maps/K3LRW"
+            "time": "5:30pm-8pm",
+            "location": "NOA 1.126",
+            "gmaps": "http://goo.gl/uEvYXg"
         },
         {
             "type": "Burgers at Crown and Anchor",
@@ -46,9 +46,30 @@
         {
             "type": "Info Session*",
             "date": "1/28/2015",
-            "time": "TBD",
-            "location": "TBD",
+            "time": "5:30pm-8pm",
+            "location": "CPE 2.214",
             "gmaps": "https://goo.gl/maps/K3LRW"
+        },
+        {
+            "type": "Info Session*",
+            "date": "1/29/2015",
+            "time": "5:30pm-8pm",
+            "location": "CPE 2.214",
+            "gmaps": "https://goo.gl/maps/K3LRW"
+        },
+        {
+            "type": "Pizza at Double Dave's",
+            "date": "1/29/2015",
+            "time": "7:30pm-close",
+            "location": "Double Dave's",
+            "gmaps": "https://goo.gl/maps/E2vkK"
+        },
+        {
+            "type": "Game Night at the Union",
+            "date": "2/2/2015",
+            "time": "7pm",
+            "location": "The Union Underground",
+            "gmaps": "http://goo.gl/7WKyJK"
         }
     ]
 }
