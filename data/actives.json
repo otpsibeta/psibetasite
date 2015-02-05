@@ -9,6 +9,7 @@
             "major": "Chemical"
         },
         {
+            "img": "306.jpg", 
             "pledge_name": "Milkshake",
             "pledge_class": "Sigma Beta",
             "name": "Michael Rodriguez",
@@ -141,7 +142,7 @@
             "pledge_name": "Toofbrush",
             "pledge_class": "Chi Beta F'12",
             "major": "Electrical",
-            "officer_letters": "ZZ!"
+            "officer_letters": "TT! ZZ!"
         },
         {
             "img": "354.jpg",
@@ -518,13 +519,15 @@
             "major": "Electrical"
         },
         {
+            "img": "408.jpg",
             "name": "Zach Thomas",
             "pin": "408",
             "pledge_name": "Kabosu",
             "pledge_class": "Delta Gamma S'14",
             "major": "Mechanical"
         },
-        {
+        {   
+            "img": "409.jpg",
             "name": "Henry Song",
             "pin": "409",
             "pledge_name": "Sriracha",
