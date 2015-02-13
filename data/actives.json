@@ -469,6 +469,7 @@
             "officer_letters": "V!"
         },
         {
+            "img": "401.jpg",
             "name": "Nahum Alem",
             "pin": "401",
             "pledge_name": "Based God",
@@ -484,6 +485,7 @@
             "img": "402.jpg"
         },
         {
+            "img": "403.jpg",
             "name": "Ravi Lumba",
             "pin": "403",
             "pledge_name": "Pierre",
