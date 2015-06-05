@@ -689,6 +689,132 @@
             "pledge_name": "Iachob",
             "pledge_class": "Epsilon Gamma F'14",
             "major": "Aerospace"
+        },
+        {
+            "name": "Jacob Watts",
+            "pin": "429",
+            "pledge_name": "Yeezy Taught Me",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Civil"   
+        },
+        {
+            "name": "Gina Lu",
+            "pin": "430",
+            "pledge_name": "Go-gurt",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Electrical"   
+        },
+        {
+            "name": "Cameron Russel",
+            "pin": "431",
+            "pledge_name": "Dr. James Rustle",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Aerospace"   
+        },        
+        {
+            "name": "Bjorn Johnson",
+            "pin": "432",
+            "pledge_name": "Clogs",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Chemical"   
+        },
+        {
+            "name": "Rebecca Munoz",
+            "pin": "433",
+            "pledge_name": "5000 Pokédollars",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical"   
+        },
+        {
+            "name": "Tilly Selden",
+            "pin": "434",
+            "pledge_name": "Pearl",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Chemical"   
+        },
+        {
+            "name": "Mitchell Germann",
+            "pin": "435",
+            "pledge_name": "Expo Bus",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical"   
+        },
+        {
+            "name": "Mercedes Wood",
+            "pin": "436",
+            "pledge_name": "Kevin",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Chemical"   
+        },
+        {
+            "name": "Karena Yu",
+            "pin": "437",
+            "pledge_name": "^_^",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Biomedical"   
+        },
+        {
+            "name": "Afshan Irani",
+            "pin": "438",
+            "pledge_name": "RCM",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Biomedical"   
+        },
+        {
+            "name": "Mike Peng",
+            "pin": "439",
+            "pledge_name": "The Gathering",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Chemical"   
+        },
+        {
+            "name": "Emily Tran",
+            "pin": "440",
+            "pledge_name": "The Neighborhood",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Electrical"   
+        },
+        {
+            "name": "Lindsay Lehman",
+            "pin": "441",
+            "pledge_name": "Ice",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Biomedical"   
+        },
+        {
+            "name": "Sam Sherman",
+            "pin": "442",
+            "pledge_name": "Custard",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical"   
+        },
+        {
+            "name": "Mark Behrendt",
+            "pin": "443",
+            "pledge_name": "Wrong Numba",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Electrical"   
+        },
+        {
+            "name": "Ahsan Hussain",
+            "pin": "444",
+            "pledge_name": "Shiny Teeth",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical"   
+        },
+        {
+            "name": "Blake Hamilton",
+            "pin": "445",
+            "pledge_name": "Hingle McCringleberry",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical"   
+        },
+        {
+            "name": "Armand Behroozi",
+            "pin": "446",
+            "pledge_name": "Phteven",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Biomedical"   
         }
     ]
 }
