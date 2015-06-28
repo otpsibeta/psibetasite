@@ -1,17 +1,6 @@
 {
     "officers": [
         {
-            "img": "333.jpg",
-            "name": "Ana Perarnau",
-            "pin": "333",
-            "pledge_name": "Jeeves",
-            "pledge_class": "Phi Beta S'12",
-            "major": "Civil",
-            "email": "amperarnaug@gmail.com",
-            "position": "Regent",
-            "officer_letters": "VV! WW! X!"
-        },
-        {
             "img": "349.jpg",
             "name": "Summer Gunnels",
             "pin": "349",
@@ -19,8 +8,19 @@
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical",
             "email": "sngunnels@utexas.edu",
+            "position": "Regent",
+            "officer_letters": "VV! YY! X!"
+        },
+        {
+            "img": "381.jpg",
+            "name": "Khalid Hamza",
+            "pin": "381",
+            "pledge_name": "Nesquik",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Mechanical",
+            "email": "khalid_hamza@utexas.edu",
             "position": "Vice Regent",
-            "officer_letters": "VV! Y!"
+            "officer_letters": "UU! Y!"
         },
         {
             "img": "360.jpg",
@@ -34,13 +34,13 @@
             "officer_letters": "Z!"
         },
         {
-            "img": "383.jpg",
-            "name": "Sammie Yellott",
-            "pin": "383",
-            "pledge_name": "Nein",
-            "pledge_class": "Omega Beta F'13",
-            "major": "Chemical",
-            "email": "sammieky@utexas.edu",
+            "img": "376.jpg",
+            "name": "Matt Meleen",
+            "pin": "376",
+            "pledge_name": "Radcliffe",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Mechanical",
+            "email": "mmeleen@utexas.edu",
             "position": "Pledge Marshall",
             "officer_letters": "W!"
         },
@@ -64,18 +64,7 @@
             "major": "Chemical",
             "email": "9art95@gmail.com",
             "position": "Scribe",
-            "officer_letters": "V!"
-        },
-        {
-            "name": "Marina Dultra",
-            "pin": "396",
-            "pledge_name": "Decibel",
-            "pledge_class": "Delta Gamma S'14",
-            "major": "Electrical",
-            "img": "396.jpg",
-            "email": "marina.dultra@hotmail.com",
-            "position": "Rush Chair",
-            "officer_letters": "U!"
+            "officer_letters": "VV!"
         },
         {
             "img": "382.jpg",
@@ -84,8 +73,19 @@
             "pledge_name": "Touché",
             "pledge_class": "Omega Beta F'13",
             "major": "Mechanical",
-            "position": "Rush Co-Chair",
+            "position": "Rush Chair",
             "email": "aahinners@utexas.edu",
+            "officer_letters": "U! TT!"        
+        },
+        {
+            "name": "Carolyn Ramirez",
+            "pin": "398",
+            "pledge_name": "Brady",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Chemical",
+            "img": "398.jpg",
+            "position": "Rush Co-Chair",
+            "email": "carolynramirez26@gmail.com",
             "officer_letters": "T!"
         },
         {
