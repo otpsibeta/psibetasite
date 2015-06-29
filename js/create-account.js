@@ -1,6 +1,10 @@
-$("#login").on("click", function(){
+$("#create").on("click", function(){
 	var email = $("#email").val();
 	var pass = $("#password").val();
+	if(pass !== $("#confirm").val()){
+		alert("Password and Confirm Password are not the same");
+		location.reload();
+	}
 	var ref = new Firebase("https://torrid-heat-3899.firebaseIO.com");
 	ref.createUser({
 	  email    : email,
