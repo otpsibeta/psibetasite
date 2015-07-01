@@ -1,10 +1,10 @@
 $("#create").on("click", function(){
+	console.log("clicked");
 	var email = $("#email").val();
 	var pass = $("#password").val();
 	var name = $("#name").val();
 	if(pass !== $("#confirm").val()){
 		alert("Password and Confirm Password are not the same");
-		location.reload();
 	}
 	var ref = new Firebase("https://torrid-heat-3899.firebaseIO.com");
 	ref.createUser({
@@ -30,9 +30,11 @@ $("#create").on("click", function(){
 				return currentData;
 		    }, function(){
 		    	console.log("created data");
+
 		    });
 		  	alert("Successfully created user account!");
-		  	//location.reload();
+		  	location.assign("account-created.html");
 	  }
 	});
+
 });
