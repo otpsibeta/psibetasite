@@ -58,7 +58,7 @@
             "pledge_name": "Perry",
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical",
-            "officer_letters": "RR! YY!"
+            "officer_letters": "RR! YY! 0xDAD"
         },
         {
             "img": "347.jpg",
@@ -119,7 +119,8 @@
             "pin": "365",
             "pledge_name": "Fortress",
             "pledge_class": "Psi Beta S'13",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "0xDEADFEED"
         },
         {
             "img": "367.jpg",
@@ -374,7 +375,7 @@
         },
         {
             "img": "400.jpg",
-            "name": "Art Leangsuksun",
+            "name": "Art Leangsuksun :shrimp:",
             "pin": "400",
             "pledge_name": "Get back t'werk",
             "pledge_class": "Delta Gamma S'14",
