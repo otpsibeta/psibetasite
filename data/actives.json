@@ -18,14 +18,6 @@
             "officer_letters": "XX!"
         },
         {
-            "img": "323.jpg",
-            "name": "Katie Madler",
-            "pin": "323",
-            "pledge_name": "Hammer",
-            "pledge_class": "Upsilon Beta F'11",
-            "major": "Chemical"
-        },
-        {
             "img": "324.jpg",
             "name": "Josh Scoville",
             "pin": "324",
@@ -41,15 +33,6 @@
             "pledge_name": "Swiper",
             "pledge_class": "Upsilon Beta F'11",
             "major": "Mechanical"
-        },
-        {
-            "img": "337.jpg",
-            "name": "Jordan Swisher",
-            "pin": "337",
-            "pledge_name": "Pinto",
-            "pledge_class": "Phi Beta S'12",
-            "major": "Mechanical",
-            "officer_letters": "UU! XX!"
         },
         {
             "img": "341.jpg",
@@ -155,29 +138,12 @@
             "major": "Architectural"
         },
         {
-            "img": "371.jpg",
-            "name": "Emeka Ugwu",
-            "pin": "371",
-            "pledge_name": "#",
-            "pledge_class": "Psi Beta S'13",
-            "major": "Mechanical",
-            "officer_letters": "TT!"
-        },
-        {
             "img": "372.jpg",
             "name": "Diana Ruth",
             "pin": "372",
             "pledge_name": "Seatbelt",
             "pledge_class": "Psi Beta S'13",
             "major": "Electrical and Computer Science"
-        },
-        {
-            "img": "374.jpg",
-            "name": "Melissa Latterell",
-            "pin": "374",
-            "pledge_name": "Longitude",
-            "pledge_class": "Psi Beta S'13",
-            "major": "Chemical"
         },
         {
             "img": "375.jpg",
@@ -196,14 +162,6 @@
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
             "officer_letters": "W!"
-        },
-        {
-            "img": "377.jpg",
-            "name": "Madison Ford",
-            "pin": "377",
-            "pledge_name": "Ulyssesessess",
-            "pledge_class": "Psi Beta S'13",
-            "major": "Architectural"
         },
         {
             "img": "378.jpg",
@@ -313,14 +271,6 @@
             "pledge_name": "idklol",
             "pledge_class": "Omega Beta F'13",
             "major": "Geosystems"
-        },
-        {
-            "name": "Janine Mendoza",
-            "pin": "393",
-            "pledge_name": "Hamtaro",
-            "pledge_class": "Delta Gamma S'14",
-            "major": "Chemical",
-            "img": "393.jpg"
         },
         {
             "name": "Esteban Gonzalez",

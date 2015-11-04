@@ -1829,6 +1829,14 @@
             "officer_letters": "YY! UU!"
         },
         {
+            "img": "323.jpg",
+            "name": "Katie Madler",
+            "pin": "323",
+            "pledge_name": "Hammer",
+            "pledge_class": "Upsilon Beta F'11",
+            "major": "Chemical"
+        },
+        {
             "img": "327.jpg",
             "name": "Darla Hollander",
             "pin": "327",
@@ -1866,6 +1874,15 @@
             "pledge_name": "Aretoo",
             "pledge_class": "Phi Beta S'12",
             "major": "Electrical"
+        },
+        {
+            "img": "337.jpg",
+            "name": "Jordan Swisher",
+            "pin": "337",
+            "pledge_name": "Pinto",
+            "pledge_class": "Phi Beta S'12",
+            "major": "Mechanical",
+            "officer_letters": "UU! XX!"
         },
         {
             "img": "342.jpg",
@@ -1965,12 +1982,37 @@
             "officer_letters": "WW!"
         },
         {
+            "img": "371.jpg",
+            "name": "Emeka Ugwu",
+            "pin": "371",
+            "pledge_name": "#",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Mechanical",
+            "officer_letters": "TT!"
+        },
+        {
             "img": "373.jpg",
             "name": "Sabrina Luce",
             "pin": "373",
             "pledge_name": "Champagne",
             "pledge_class": "Psi Beta S'13",
             "major": "Aerospace"
+        },
+        {
+            "img": "374.jpg",
+            "name": "Melissa Latterell",
+            "pin": "374",
+            "pledge_name": "Longitude",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Chemical"
+        },
+        {
+            "img": "377.jpg",
+            "name": "Madison Ford",
+            "pin": "377",
+            "pledge_name": "Ulyssesessess",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Architectural"
         },
         {
             "img": "379.jpg",
@@ -1987,6 +2029,14 @@
             "pledge_name": "False",
             "pledge_class": "Omega Beta F'13",
             "major": "Civil"
-        }
+        },
+        {
+            "name": "Janine Mendoza",
+            "pin": "393",
+            "pledge_name": "Hamtaro",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Chemical",
+            "img": "393.jpg"
+        },
     ]
 }
