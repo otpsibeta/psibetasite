@@ -1846,12 +1846,40 @@
             "major": "Chemical"
         },
         {
+            "img": "325.jpg",
+            "name": "Yeon Joo Alex Hwang",
+            "pin": "325",
+            "pledge_name": "Zerg Rush",
+            "pledge_class": "Upsilon Beta F'11",
+        },
+        {
+            "img": "326.jpg",
+            "name": "Saul Salas",
+            "pin": "326",
+            "pledge_name": "Skynet",
+            "pledge_class": "Upsilon Beta F'11",
+        },
+        {
             "img": "327.jpg",
             "name": "Darla Hollander",
             "pin": "327",
             "pledge_name": "Buckwheat",
             "pledge_class": "Upsilon Beta F'11",
             "major": "Electrical"
+        },
+        {
+            "img": "328.jpg",
+            "name": "Wynne Davis",
+            "pin": "328",
+            "pledge_name": "Humpty Dumpty",
+            "pledge_class": "Upsilon Beta F'11",
+        },
+        {
+            "img": "330.jpg",
+            "name": "Andrea Mengual",
+            "pin": "330",
+            "pledge_name": "Errol",
+            "pledge_class": "Upsilon Beta F'11",
         },
         {
             "img": "331.jpg",
@@ -1862,6 +1890,13 @@
             "major": "Aerospace"
         },
         {
+            "img": "332.jpg",
+            "name": "Caroline Schram",
+            "pin": "332",
+            "pledge_name": "Duchess",
+            "pledge_class": "Phi Beta",
+        },
+        {
             "img": "333.jpg",
             "name": "Ana Perarnau",
             "pin": "333",
@@ -1869,6 +1904,13 @@
             "pledge_class": "Phi Beta S'12",
             "major": "Civil",
             "officer_letters": "VV! WW! XX!"
+        },
+        {
+            "img": "334.jpg",
+            "name": "Khalid AlFarsi",
+            "pin": "334",
+            "pledge_name": "Swiss Miss",
+            "pledge_class": "Phi Beta",
         },
         {
             "name": "Suzy Bennett",
@@ -1892,6 +1934,27 @@
             "pledge_class": "Phi Beta S'12",
             "major": "Mechanical",
             "officer_letters": "UU! XX!"
+        },
+        {
+            "img": "338.jpg",
+            "name": "Maria Marinez",
+            "pin": "338",
+            "pledge_name": "Redline",
+            "pledge_class": "Phi Beta",
+        },
+        {
+            "img": "339.jpg",
+            "name": "Miguel Curo",
+            "pin": "339",
+            "pledge_name": "Chiquita",
+            "pledge_class": "Phi Beta",
+        },
+        {
+            "img": "340.jpg",
+            "name": "Ian George",
+            "pin": "340",
+            "pledge_name": "Mibro",
+            "pledge_class": "Phi Beta",
         },
         {
             "img": "342.jpg",
@@ -1918,6 +1981,14 @@
             "major": "Aerospace"
         },
         {
+            "img": "345.jpg",
+            "name": "Michelle Huddleston",
+            "pin": "345",
+            "pledge_name": "Ace",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Mechanical"
+        },
+        {
             "img": "346.jpg",
             "name": "Amanda Keebler",
             "pin": "346",
@@ -1926,12 +1997,33 @@
             "major": "Computer Science"
         },
         {
-            "img": "345.jpg",
-            "name": "Michelle Huddleston",
-            "pin": "345",
-            "pledge_name": "Ace",
+            "img": "348.jpg",
+            "name": "Sophia Hoog",
+            "pin": "348",
+            "pledge_name": "Fey",
+            "pledge_class": "Chi Beta",
+        },
+        {
+            "img": "349.jpg",
+            "name": "Summer Gunnels",
+            "pin": "349",
+            "pledge_name": "Buckoff",
             "pledge_class": "Chi Beta F'12",
-            "major": "Mechanical"
+            "major": "Mechanical",
+        },
+        {
+            "img": "351.jpg",
+            "name": "Kyle Moser",
+            "pin": "351",
+            "pledge_name": "Rosebud",
+            "pledge_class": "Chi Beta",
+        },
+        {
+            "img": "352.jpg",
+            "name": "Erin Formby",
+            "pin": "349",
+            "pledge_name": "Trouble",
+            "pledge_class": "Chi Beta",
         },
         {
             "img": "355.jpg",
@@ -1966,12 +2058,33 @@
             "major": "Chemical"
         },
         {
+            "img": "359.jpg",
+            "name": "Nathan Dawson",
+            "pin": "359",
+            "pledge_name": "Livewire",
+            "pledge_class": "Chi Beta",
+        },
+        {
             "img": "361.jpg",
             "name": "Chelsea Clark",
             "pin": "361",
             "pledge_name": "Frankenpledge",
             "pledge_class": "Chi Beta F'12",
             "major": "Chemical"
+        },
+        {
+            "img": "362.jpg",
+            "name": "Garrett Smith",
+            "pin": "362",
+            "pledge_name": "Chong",
+            "pledge_class": "Chi Beta",
+        },
+        {
+            "img": "363.jpg",
+            "name": "Charles Grantom",
+            "pin": "363",
+            "pledge_name": "Lil' Bob",
+            "pledge_class": "Chi Beta",
         },
         {
             "img": "364.jpg",
@@ -2024,12 +2137,28 @@
             "major": "Architectural"
         },
         {
+            "img": "378.jpg",
+            "name": "Morgan Watson-Morris",
+            "pin": "378",
+            "pledge_name": "Ricer",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Mechanical"
+        },
+        {
             "img": "379.jpg",
             "name": "Jason Adams",
             "pin": "379",
             "pledge_name": "Cheech",
             "pledge_class": "Psi Beta S'13",
             "major": "Aerospace"
+        },
+        {
+            "img": "388.jpg",
+            "name": "Austin Winebrenner",
+            "pin": "388",
+            "pledge_name": "L'chaim",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Mechanical"
         },
         {
             "img": "390.jpg",
@@ -2046,6 +2175,23 @@
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
             "img": "393.jpg"
+        },
+        {
+            "img": "395.jpg",
+            "name": "Brooke Baker",
+            "pin": "395",
+            "pledge_name": "Knight",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Civil"
+        },
+        {
+            "name": "Marina Dultra",
+            "pin": "396",
+            "pledge_name": "Decibel",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Electrical",
+            "img": "396.jpg",
+            "officer_letters": "UU!"
         }
     ]
 }
