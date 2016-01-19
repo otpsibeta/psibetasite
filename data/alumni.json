@@ -1866,6 +1866,12 @@
             "major": "Electrical"
         },
         {
+            "name": "Wynne Davis",
+            "pin": "328",
+            "pledge_name": "Humpty Dumpty",
+            "pledge_class": "Upsilon Beta",
+        },
+        {
             "img": "331.jpg",
             "name": "Nick Mustachio",
             "pin": "331",
