@@ -2138,6 +2138,14 @@
             "major": "Aerospace"
         },
         {
+            "img": "388.jpg",
+            "name": "Austin Winebrenner",
+            "pin": "388",
+            "pledge_name": "L'chaim",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Mechanical"
+        },
+        {
             "img": "390.jpg",
             "name": "Lindsay Wandall",
             "pin": "390",
@@ -2152,6 +2160,23 @@
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
             "img": "393.jpg"
+        },
+        {
+            "img": "395.jpg",
+            "name": "Brooke Baker",
+            "pin": "395",
+            "pledge_name": "Knight",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Civil"
+        },
+        {
+            "name": "Marina Dultra",
+            "pin": "396",
+            "pledge_name": "Decibel",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Electrical",
+            "img": "396.jpg",
+            "officer_letters": "UU!"
         }
     ]
 }
