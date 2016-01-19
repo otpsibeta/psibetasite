@@ -1901,6 +1901,12 @@
             "officer_letters": "VV! WW! XX!"
         },
         {
+            "name": "Khalid AlFarsi",
+            "pin": "334",
+            "pledge_name": "Swiss Miss",
+            "pledge_class": "Phi Beta"
+        },
+        {
             "name": "Suzy Bennett",
             "pin": "335",
             "pledge_name": "Pahk the Car",
@@ -1922,6 +1928,24 @@
             "pledge_class": "Phi Beta S'12",
             "major": "Mechanical",
             "officer_letters": "UU! XX!"
+        },
+        {
+            "name": "Maria Marinez",
+            "pin": "338",
+            "pledge_name": "Redline",
+            "pledge_class": "Phi Beta"
+        },
+        {
+            "name": "Miguel Curo",
+            "pin": "339",
+            "pledge_name": "Chiquita",
+            "pledge_class": "Phi Beta"
+        },
+        {
+            "name": "Ian George",
+            "pin": "340",
+            "pledge_name": "Mibro",
+            "pledge_class": "Phi Beta"
         },
         {
             "img": "342.jpg",
@@ -1948,6 +1972,14 @@
             "major": "Aerospace"
         },
         {
+            "img": "345.jpg",
+            "name": "Michelle Huddleston",
+            "pin": "345",
+            "pledge_name": "Ace",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Mechanical"
+        },
+        {
             "img": "346.jpg",
             "name": "Amanda Keebler",
             "pin": "346",
@@ -1956,12 +1988,10 @@
             "major": "Computer Science"
         },
         {
-            "img": "345.jpg",
-            "name": "Michelle Huddleston",
-            "pin": "345",
-            "pledge_name": "Ace",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Mechanical"
+            "name": "Sophia Hoog",
+            "pin": "348",
+            "pledge_name": "Fet",
+            "pledge_class": "Chi Beta"
         },
         {
             "img": "355.jpg",
