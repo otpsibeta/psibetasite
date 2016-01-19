@@ -2002,6 +2002,18 @@
             "major": "Mechanical"
         },
         {
+            "name": "Kyle Moser",
+            "pin": "351",
+            "pledge_name": "Rosebud",
+            "pledge_class": "Chi Beta"
+        },
+        {
+            "name": "Erin Formby",
+            "pin": "352",
+            "pledge_name": "Trouble",
+            "pledge_class": "Chi Beta"
+        },
+        {
             "img": "355.jpg",
             "name": "Miguel Vazquez",
             "pin": "355",
@@ -2034,12 +2046,30 @@
             "major": "Chemical"
         },
         {
+            "name": "Nathan Dawson",
+            "pin": "359",
+            "pledge_name": "Livewire",
+            "pledge_class": "Chi Beta"
+        },
+        {
             "img": "361.jpg",
             "name": "Chelsea Clark",
             "pin": "361",
             "pledge_name": "Frankenpledge",
             "pledge_class": "Chi Beta F'12",
             "major": "Chemical"
+        },
+        {
+            "name": "Garrett Smith",
+            "pin": "362",
+            "pledge_name": "Chong",
+            "pledge_class": "Chi Beta"
+        },
+        {
+            "name": "Charles Grantom",
+            "pin": "363",
+            "pledge_name": "Lil' Bob",
+            "pledge_class": "Chi Beta"
         },
         {
             "img": "364.jpg",
