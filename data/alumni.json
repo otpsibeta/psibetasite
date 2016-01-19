@@ -1807,7 +1807,7 @@
         },
         {
             "pledge_name": "Screwdriver",
-            "pledge_class": "Upsilon Beta",
+            "pledge_class": "UpsilonBeta",
             "name": "Cristina Madruga",
             "pin": "319"
         },
@@ -2190,7 +2190,8 @@
             "pledge_name": "Decibel",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
-            "img": "396.jpg"
+            "img": "396.jpg",
+            "officer_letters": "UU!"
         }
     ]
 }
