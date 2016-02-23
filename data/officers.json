@@ -7,6 +7,7 @@
             "pledge_name": "Get back t'werk",
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
+            "email": "psibeta.regent@gmail.com",
             "position": "Regent",
             "officer_letters": "VV! X!"
         },
@@ -17,6 +18,7 @@
             "pledge_name": "Brady",
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
+            "email": "carolynramirez26@gmail.com",
             "position": "Vice Regent",
             "officer_letters": "TT! Y!"
         },
@@ -27,6 +29,7 @@
             "pledge_name": "Kabosu",
             "pledge_class": "Delta Gamma S'14",
             "major": "Mechanical",
+            "email": "zach_thomas@utexas.edu",
             "position": "Treasurer",
             "officer_letters": "Z!"
         },
@@ -37,7 +40,7 @@
             "pledge_name": "Radcliffe",
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
-            "email": "mmeleen@utexas.edu",
+            "email": "matthew.meleen@utexas.edu",
             "position": "JI Marshal",
             "officer_letters": "WW!"
         },
@@ -48,6 +51,7 @@
             "pledge_name": "±1",
             "pledge_class": "Omega Beta F'13",
             "major": "Aerospace",
+            "email": "amy.quartaro@utexas.edu",
             "position": "Corresponding Secretary",
             "officer_letters": "R!"
         },
@@ -58,6 +62,7 @@
             "pledge_name": "Perry",
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical",
+            "email": "aehooper@utexas.edu",
             "position": "Scribe",
             "officer_letters": "RR! YY! 0xDAD V!"
         },
@@ -68,6 +73,7 @@
             "pledge_name": "Celery",
             "pledge_class": "Omega Beta F'13",
             "major": "Biomedical",
+            "email": "kmariekelsey@gmail.com",
             "position": "Brotherhood Chair",
             "officer_letters": "RR! U!"        
         },
@@ -88,6 +94,7 @@
             "pledge_name": "Prestige Worldwide",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
+            "email": "mgowens@utexas.edu",
             "position": "Webmaster",
             "officer_letters": "0xDEADBEEF"
         }
