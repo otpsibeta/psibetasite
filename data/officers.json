@@ -23,6 +23,17 @@
             "officer_letters": "TT! Y!"
         },
         {
+            "img": "341.jpg",
+            "name": "Amy Hooper",
+            "pin": "341",
+            "pledge_name": "Perry",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Mechanical",
+            "email": "aehooper@utexas.edu",
+            "position": "Scribe",
+            "officer_letters": "RR! YY! 0xDAD V!"
+        },
+        {
             "img": "408.jpg",
             "name": "Zach Thomas",
             "pin": "408",
@@ -54,17 +65,6 @@
             "email": "amy.quartaro@utexas.edu",
             "position": "Corresponding Secretary",
             "officer_letters": "R!"
-        },
-        {
-            "img": "341.jpg",
-            "name": "Amy Hooper",
-            "pin": "341",
-            "pledge_name": "Perry",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Mechanical",
-            "email": "aehooper@utexas.edu",
-            "position": "Scribe",
-            "officer_letters": "RR! YY! 0xDAD V!"
         },
         {
             "img": "385.jpg",
