@@ -652,5 +652,13 @@
             "pledge_class": "Zeta Gamma S'15",
             "major": "Biomedical"   
         }
+        {
+            "img": "447.JPG",
+            "name": "Eric Gagliano",
+            "pin": "447",
+            "pledge_name": "Bunga Bunga",
+            "pledge_class": "Eta Gamma F'16",
+            "major": "Aerospace"   
+        }
     ]
 }
