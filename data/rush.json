@@ -3,87 +3,80 @@
     "rush_events": [
         {
             "type": "Burgers at Crown and Anchor",
-            "date": "8/26/2015",
+            "date": "8/24",
             "time": "11am-2pm",
             "location": "Crown and Anchor Pub",
-            "gmaps": "https://goo.gl/maps/Tn7H8"
+            "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
         },
         {
             "type": "Info Session*",
-            "date": "8/27/2015",
-            "time": "5:00pm-6:00pm",
-            "location": "ETC 2.108",
-            "gmaps": "https://goo.gl/maps/UfvnJ"
+            "date": "8/25",
+            "time": "5-6pm",
+            "location": "CPE 2.210",
+            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
         },
         {
             "type": "Pizza at Varsity Pizza",
-            "date": "8/27/2015",
-            "time": "7:00pm-close",
-            "location": "Varsity Pizza",
-            "gmaps": "https://goo.gl/maps/E2vkK"
+            "date": "8/25",
+            "time": "7pm-close",
+            "location": "Varsity Pizza and Pints",
+            "gmaps": "https://goo.gl/maps/3v1UUi8gPLH2"
+        },
+        {
+            "type": "Park Potluck",
+            "date": "8/27",
+            "time": "11am-2pm",
+            "location": "Eastwoods Park",
+            "gmaps": "https://goo.gl/maps/Yf4yVXg2jwH2"
+        },
+        {
+            "type": "Clean Pease Park & Tacos",
+            "date": "8/28",
+            "time": "10am-1pm",
+            "location": "Pease Park",
+            "gmaps": "https://goo.gl/maps/vucJaMD6kWv"
         },
         {
             "type": "Info Session*",
-            "date": "8/28/2015",
-            "time": "5:00pm-6:00pm",
+            "date": "8/29",
+            "time": "5-6pm",
             "location": "CPE 2.212",
-            "gmaps": "https://goo.gl/maps/K3LRW"
-        },
-        {
-            "type": "Fun Day in the Sun!",
-            "date": "8/29/2015",
-            "time": "11am",
-            "location": "Eastwood Neighborhood Park",
-            "gmaps": "https://goo.gl/maps/LUOhs"
+            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
         },
         {
             "type": "Info Session*",
-            "date": "8/31/2015",
-            "time": "5:00pm-6:00pm",
-            "location": "CPE 2.212",
-            "gmaps": "https://goo.gl/maps/K3LRW"
+            "date": "8/30",
+            "time": "5-6pm",
+            "location": "RLM 5.104",
+            "gmaps": "https://goo.gl/maps/RGnh7gDofGv"
         },
         {
-            "type": "Info Session*",
-            "date": "9/1/2015",
-            "time": "5:00pm-6:30pm",
-            "location": "WRW 102",
-            "gmaps": "https://goo.gl/maps/UfvnJ"
+            "type": "Dessert Meet & Greet",
+            "date": "8/30",
+            "time": "6-8pm",
+            "location": "Red Mango",
+            "gmaps": "https://goo.gl/maps/SaXVyXCc6RP2"
         },
         {
             "type": "Burgers at Crown and Anchor",
-            "date": "9/2/2015",
+            "date": "8/31",
             "time": "11am-2pm",
             "location": "Crown and Anchor Pub",
-            "gmaps": "https://goo.gl/maps/Tn7H8"
+            "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
         },
         {
             "type": "Info Session*",
-            "date": "9/2/2015",
-            "time": "5:00pm-6:00pm",
-            "location": "CPE 2.216",
-            "gmaps": "https://goo.gl/maps/K3LRW"
-        },
-        {
-            "type": "Info Session*",
-            "date": "9/3/2015",
-            "time": "5:00pm-6:00pm",
+            "date": "9/1",
+            "time": "5-6pm",
             "location": "ETC 2.108",
-            "gmaps": "https://goo.gl/maps/qxjnq"
+            "gmaps": "https://goo.gl/maps/R3somAJZCmH2"
         },
         {
             "type": "Rush Interviews*",
-            "date": "9/3/2015",
-            "time": "6:00pm-9:00pm",
-            "location": "CPE 2.218",
-            "gmaps": "https://goo.gl/maps/K3LRW"
-        },
-        {
-            "type": "Pizza at Varsity Pizza",
-            "date": "9/2/2015",
-            "time": "7:00pm-close",
-            "location": "Varsity Pizza",
-            "gmaps": "https://goo.gl/maps/E2vkK"
+            "date": "9/1",
+            "time": "6-9pm",
+            "location": "ETC 2.108",
+            "gmaps": "https://goo.gl/maps/R3somAJZCmH2"
         }
     ]
 }
