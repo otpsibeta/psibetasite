@@ -32,7 +32,7 @@
             "pledge_name": "Perry",
             "pledge_class": "Chi Beta F'12",
             "major": "Mechanical",
-            "officer_letters": "RR! YY! V! 0xDAD"
+            "officer_letters": "RR! YY! VV! 0xDAD"
         },
         {
             "img": "347.jpg",
@@ -143,7 +143,7 @@
             "pledge_name": "Radcliffe",
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
-            "officer_letters": "WW!"
+            "officer_letters": "WW! OxDEADBEEF"
         },
         {
             "img": "380.jpg",
@@ -169,7 +169,7 @@
             "pledge_name": "Touché",
             "pledge_class": "Omega Beta F'13",
             "major": "Mechanical",
-            "officer_letters": "TT! UU!"
+            "officer_letters": "TT! UU! X!"
         },
         {
             "img": "383.jpg",
@@ -195,7 +195,7 @@
             "pledge_name": "Celery",
             "pledge_class": "Omega Beta F'13",
             "major": "Biomedical",
-            "officer_letters": "RR! U!"
+            "officer_letters": "RR! UU!"
         },
         {
             "img": "386.jpg",
@@ -262,7 +262,7 @@
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
             "img": "398.jpg",
-            "officer_letters": "TT! Y!"
+            "officer_letters": "TT! YY!"
         },
         {
             "img": "399.jpg",
@@ -279,7 +279,7 @@
             "pledge_name": "Get back t'werk",
             "pledge_class": "Delta Gamma S'14",
             "major": "Chemical",
-            "officer_letters": "VV! X!"
+            "officer_letters": "VV! XX!"
         },
         {
             "img": "401.jpg",
@@ -386,7 +386,7 @@
             "pledge_name": "±1",
             "pledge_class": "Epsilon Gamma F'14",
             "major": "Aerospace",
-            "officer_letters": "R!"
+            "officer_letters": "RR!"
         },
         {
             "img": "414.jpg",
@@ -466,7 +466,8 @@
             "pin": "423",
             "pledge_name": "Art",
             "pledge_class": "Epsilon Gamma F'14",
-            "major": "Aerospace" 
+            "major": "Aerospace",
+            "officer_letters": "W!" 
         },
         {
             "img": "424.jpg",
@@ -475,7 +476,7 @@
             "pledge_class": "Epsilon Gamma F'14",
             "pledge_name": "Yoohoo",
             "major": "Mechanical",
-            "officer_letters": "T!"
+            "officer_letters": "TT! Y!"
         },
         {
             "img": "425.jpg",
@@ -635,7 +636,8 @@
             "pin": "444",
             "pledge_name": "Shiny Teeth",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Mechanical"   
+            "major": "Mechanical",
+            "officer_letters": "U!"  
         },
         {
             "img": "445.JPG",
@@ -683,7 +685,8 @@
             "pin": "450",
             "pledge_name": "Danke",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Mechanical"   
+            "major": "Mechanical",
+            "officer_letters": "T!"   
         },
         {
             "img": "451.jpg",
@@ -731,7 +734,8 @@
             "pin": "456",
             "pledge_name": "Sweet Dolla Iced Tea",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical"   
+            "major": "Electrical",
+            "officer_letters": "V!"   
         },
         {
             "img": "457.jpg",

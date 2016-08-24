@@ -1,37 +1,37 @@
 {
     "officers": [
         {
-            "img": "400.jpg",
-            "name": "Art Leangsuksun",
-            "pin": "400",
-            "pledge_name": "Get back t'werk",
-            "pledge_class": "Delta Gamma S'14",
-            "major": "Chemical",
+            "img": "382.jpg",
+            "name": "Austin Hinners",
+            "pin": "382",
+            "pledge_name": "Touché",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Mechanical",
             "email": "psibeta.regent@gmail.com",
             "position": "Regent",
-            "officer_letters": "VV! X!"
+            "officer_letters": "TT! UU! X!"
         },
         {
-            "img": "398.jpg",
-            "name": "Carolyn Ramirez",
-            "pin": "398",
-            "pledge_name": "Brady",
-            "pledge_class": "Delta Gamma S'14",
-            "major": "Chemical",
-            "email": "carolynramirez26@gmail.com",
+            "img": "424.jpg",
+            "name": "Hannah Aegerter",
+            "pin": "424",
+            "pledge_name": "Yoohoo",
+            "pledge_class": "Epsilon Gamma F'14",
+            "major": "Mechanical",
+            "email": "hannah.aegerter@gmail.com",
             "position": "Vice Regent",
             "officer_letters": "TT! Y!"
         },
         {
-            "img": "341.jpg",
-            "name": "Amy Hooper",
-            "pin": "341",
-            "pledge_name": "Perry",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Mechanical",
-            "email": "aehooper@utexas.edu",
+            "img": "456.jpg",
+            "name": "Minh Van-Dinh",
+            "pin": "456",
+            "pledge_name": "Sweet Dolla Iced Tea",
+            "pledge_class": "Eta Gamma F'15",
+            "major": "Electrical",
+            "email": "minh.vandinh@utexas.edu",
             "position": "Scribe",
-            "officer_letters": "RR! YY! 0xDAD V!"
+            "officer_letters": "V!"
         },
         {
             "img": "408.jpg",
@@ -45,15 +45,15 @@
             "officer_letters": "Z!"
         },
         {
-            "img": "376.jpg",
-            "name": "Matt Meleen",
-            "pin": "376",
-            "pledge_name": "Radcliffe",
-            "pledge_class": "Psi Beta S'13",
-            "major": "Mechanical",
-            "email": "matthew.meleen@utexas.edu",
-            "position": "JI Marshal",
-            "officer_letters": "WW!"
+            "img": "423.jpg",
+            "name": "Daniil Ruditskiy",
+            "pin": "423",
+            "pledge_name": "Art",
+            "pledge_class": "Epsilon Gamma F'14",
+            "major": "Aerospace",
+            "email": "druditskiy@gmail.com",
+            "position": "Pledge Marshal",
+            "officer_letters": "W!"
         },
         {
             "img": "413.jpg",
@@ -67,36 +67,36 @@
             "officer_letters": "R!"
         },
         {
-            "img": "385.jpg",
-            "name": "Katelyn Kelsey",
-            "pin": "385",
-            "pledge_name": "Celery",
-            "pledge_class": "Omega Beta F'13",
-            "major": "Biomedical",
-            "email": "kmariekelsey@gmail.com",
-            "position": "Brotherhood Chair",
-            "officer_letters": "RR! U!"        
+            "img": "444.jpg",
+            "name": "Ahsan Hussain",
+            "pin": "444",
+            "pledge_name": "Shiny Teeth",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical",
+            "email": "ahussain8@utexas.edu",
+            "position": "Outer Guard",
+            "officer_letters": "U!"        
         },
         {
-            "name": "Hannah Aegerter",
-            "pin": "424",
-            "pledge_name": "Yoohoo",
-            "pledge_class": "Epsilon Gamma F'14",
+            "name": "Amber Chen",
+            "pin": "450",
+            "pledge_name": "Danke",
+            "pledge_class": "Eta Gamma F'15",
             "major": "Mechanical",
-            "img": "424.jpg",
-            "position": "Brotherhood Co-Chair",
+            "img": "450.jpg",
+            "position": "Inner Guard",
             "officer_letters": "T!"
         },
         {
-            "img": "407.JPG",
-            "name": "Matt Owens",
-            "pin": "407",
-            "pledge_name": "Prestige Worldwide",
-            "pledge_class": "Delta Gamma S'14",
-            "major": "Electrical",
-            "email": "mgowens@utexas.edu",
+            "img": "376.JPG",
+            "name": "Matt Meleen",
+            "pin": "376",
+            "pledge_name": "Radcliffe",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Mechanical",
+            "email": "matthew.meleen@gmail.com",
             "position": "Webmaster",
-            "officer_letters": "0xDEADBEEF"
+            "officer_letters": "WW! 0xDEADBEEF"
         }
     ]
 }
