@@ -66,16 +66,16 @@
             "position": "Corresponding Secretary",
             "officer_letters": "R!"
         },
-        {
-            "img": "444.jpg",
+       {
+            "img": "444.JPG",
             "name": "Ahsan Hussain",
             "pin": "444",
             "pledge_name": "Shiny Teeth",
             "pledge_class": "Zeta Gamma S'15",
             "major": "Mechanical",
+            "officer_letters": "U!",
             "email": "ahussain8@utexas.edu",
-            "position": "Outer Guard",
-            "officer_letters": "U!"        
+            "position": "Outer Guard"
         },
         {
             "name": "Amber Chen",
