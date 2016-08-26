@@ -1846,6 +1846,15 @@
             "major": "Chemical"
         },
         {
+            "img": "324.jpg",
+            "name": "Josh Scoville",
+            "pin": "324",
+            "pledge_name": "Five Alarm",
+            "pledge_class": "Upsilon Beta F'11",
+            "major": "Mechanical",
+            "officer_letters": "XX! YY! VV! ZZ!"
+        },
+        {
             "name": "Yeon Joo Alex Hwang",
             "pin": "325",
             "pledge_name": "Zerg Rush",
@@ -1870,6 +1879,14 @@
             "pin": "328",
             "pledge_name": "Humpty Dumpty",
             "pledge_class": "Upsilon Beta"
+        },
+        {
+            "img": "329.jpg",
+            "name": "Marianna Gonzales",
+            "pin": "329",
+            "pledge_name": "Swiper",
+            "pledge_class": "Upsilon Beta F'11",
+            "major": "Mechanical"
         },
         {
             "name": "Andrea Mengual",
@@ -1988,6 +2005,14 @@
             "major": "Computer Science"
         },
         {
+            "img": "347.jpg",
+            "name": "Nathan Riojas",
+            "pin": "347",
+            "pledge_name": "Kali-ma",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Mechanical"
+        },
+        {
             "name": "Sophia Hoog",
             "pin": "348",
             "pledge_name": "Fet",
@@ -2012,6 +2037,14 @@
             "pin": "352",
             "pledge_name": "Trouble",
             "pledge_class": "Chi Beta"
+        },
+        {
+            "img": "354.jpg",
+            "name": "Jake Lewis",
+            "pin": "354",
+            "pledge_name": "Colonel Cop-Out",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Mechanical"
         },
         {
             "img": "355.jpg",
@@ -2052,6 +2085,15 @@
             "pledge_class": "Chi Beta"
         },
         {
+            "img": "360.jpg",
+            "name": "Mat Martins",
+            "pin": "360",
+            "pledge_name": "Earmuffs",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Chemical",
+            "officer_letters": "ZZ!"
+        },
+        {
             "img": "361.jpg",
             "name": "Chelsea Clark",
             "pin": "361",
@@ -2080,6 +2122,15 @@
             "major": "Chemical"
         },
         {
+            "img": "365.jpg",
+            "name": "Carla Lacson",
+            "pin": "365",
+            "pledge_name": "Fortress",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Mechanical",
+            "officer_letters": "0xDEADFEED"
+        },
+        {
             "img": "366.jpg",
             "name": "Devin O'Kelly",
             "pin": "366",
@@ -2087,6 +2138,14 @@
             "pledge_class": "Psi Beta S'13",
             "major": "Biomedical",
             "officer_letters": "WW!"
+        },
+        {
+            "img": "369.jpg",
+            "name": "Mac Nghiem",
+            "pin": "369",
+            "pledge_name": "Corral",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Mechanical"
         },
         {
             "img": "371.jpg",
@@ -2114,6 +2173,15 @@
             "major": "Chemical"
         },
         {
+            "img": "375.jpg",
+            "name": "Priyanka Vaidya",
+            "pin": "375",
+            "pledge_name": "Gir",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Biomedical",
+            "officer_letters": "UU! TT!"
+        },
+        {
             "img": "377.jpg",
             "name": "Madison Ford",
             "pin": "377",
@@ -2138,6 +2206,31 @@
             "major": "Aerospace"
         },
         {
+            "img": "380.jpg",
+            "name": "Victor Clark",
+            "pin": "380",
+            "pledge_name": "Hoffschnapps",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Civil"
+        },
+        {
+            "img": "383.jpg",
+            "name": "Sammie Yellott",
+            "pin": "383",
+            "pledge_name": "Nein",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Chemical",
+            "officer_letters": "WW!"
+        },
+        {
+            "img": "387.jpg",
+            "name": "Ammar Hazim",
+            "pin": "387",
+            "pledge_name": "Neptune",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Electrical"
+        },
+        {
             "img": "388.jpg",
             "name": "Austin Winebrenner",
             "pin": "388",
@@ -2146,12 +2239,29 @@
             "major": "Mechanical"
         },
         {
+            "img": "389.jpg",
+            "name": "Julia Polieava",
+            "pin": "389",
+            "pledge_name": "Sensei",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Petroleum",
+            "officer_letters": "VV!"
+        },
+        {
             "img": "390.jpg",
             "name": "Lindsay Wandall",
             "pin": "390",
             "pledge_name": "False",
             "pledge_class": "Omega Beta F'13",
             "major": "Civil"
+        },
+        {
+            "img": "391.jpg",
+            "name": "Megan Shyr",
+            "pin": "391",
+            "pledge_name": "Lemniscate",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Biomedical"
         },
         {
             "name": "Janine Mendoza",
@@ -2177,6 +2287,30 @@
             "major": "Electrical",
             "img": "396.jpg",
             "officer_letters": "UU!"
+        },
+        {
+            "name": "Ethan Miller",
+            "pin": "406",
+            "pledge_name": "HandRoell",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Electrical",
+            "img": "406.jpg"
+        },
+        {
+            "img": "445.JPG",
+            "name": "Blake Hamilton",
+            "pin": "445",
+            "pledge_name": "Hingle McCringleberry",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical"   
+        },
+        {
+            "img": "449.jpg",
+            "name": "Anthony Abousleiman",
+            "pin": "449",
+            "pledge_name": "3 Hunna",
+            "pledge_class": "Eta Gamma F'15",
+            "major": "Mechanical"   
         }
     ]
 }
