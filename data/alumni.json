@@ -2027,6 +2027,15 @@
             "major": "Mechanical"
         },
         {
+            "img": "350.jpg",
+            "name": "Sean Cascketta",
+            "pin": "350",
+            "pledge_name": "Gator :flag_us: :100:",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Computer Science",
+            "officer_letters": "0xDEADDEAD"
+        },
+        {
             "name": "Kyle Moser",
             "pin": "351",
             "pledge_name": "Rosebud",
@@ -2157,6 +2166,14 @@
             "officer_letters": "TT!"
         },
         {
+            "img": "372.jpg",
+            "name": "Diana Ruth",
+            "pin": "372",
+            "pledge_name": "Seatbelt",
+            "pledge_class": "Psi Beta S'13",
+            "major": "Electrical and Computer Science"
+        },
+        {
             "img": "373.jpg",
             "name": "Sabrina Luce",
             "pin": "373",
@@ -2223,6 +2240,14 @@
             "officer_letters": "WW!"
         },
         {
+            "img": "384.jpg",
+            "name": "Annie Mara",
+            "pin": "384",
+            "pledge_name": "Naturally",
+            "pledge_class": "Omega Beta F'13",
+            "major": "Mechanical"
+        },        
+        {
             "img": "387.jpg",
             "name": "Ammar Hazim",
             "pin": "387",
@@ -2272,6 +2297,14 @@
             "img": "393.jpg"
         },
         {
+            "name": "Esteban Gonzalez",
+            "pin": "394",
+            "pledge_name": "Grog",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Civil",
+            "img": "394.jpg"
+        },
+        {
             "img": "395.jpg",
             "name": "Brooke Baker",
             "pin": "395",
@@ -2289,12 +2322,36 @@
             "officer_letters": "UU!"
         },
         {
+            "name": "Shaun van der Walt",
+            "pin": "402",
+            "pledge_name": "Pipes",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Mechanical",
+            "img": "402.jpg"
+        },
+        {
+            "name": "Joe Lingren",
+            "pin": "404",
+            "pledge_name": "Tots",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Aerospace",
+            "img": "404.jpg"
+        },        
+        {
             "name": "Ethan Miller",
             "pin": "406",
             "pledge_name": "HandRoell",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical",
             "img": "406.jpg"
+        },
+        {   
+            "img": "409.jpg",
+            "name": "Henry Song",
+            "pin": "409",
+            "pledge_name": "Sriracha",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Electrical"
         },
         {
             "img": "445.JPG",
