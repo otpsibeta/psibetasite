@@ -2,81 +2,109 @@
 {
     "rush_events": [
         {
+            "type": "Info Session*",
+            "date": "1/23",
+            "time": "5-6pm",
+            "location": "CPE 2.204",
+            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+        },
+         {
+            "type": "Info Session*",
+            "date": "1/25",
+            "time": "5-6pm",
+            "location": "CPE 2.204",
+            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+        },
+         {
+            "type": "Meet & Greet Ice Cream",
+            "date": "1/25",
+            "time": "6-8pm",
+            "location": "Red Mango",
+            "gmaps": "https://goo.gl/maps/YGGYfM7PUxM2"
+        },
+         {
+            "type": "Info Session*",
+            "date": "1/26",
+            "time": "5-6pm",
+            "location": "CPE 2.208",
+            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+        },
+        {
+            "type": "SoCo Food Trucks",
+            "date": "1/27",
+            "time": "6-8pm",
+            "location": "South Congress",
+            "gmaps": "https://goo.gl/maps/2DnsghoKydC2"
+        },
+        {
+            "type": "Park Cleanup & Nature Walk",
+            "date": "1/29",
+            "time": "11am-2pm",
+            "location": "Pease Park",
+            "gmaps": "https://goo.gl/maps/a2CpDnFpqH42"
+        },
+        {
+            "type": "Expo Prep & Resume Review",
+            "date": "1/31",
+            "time": "6-8pm",
+            "location": "CPE 2.206",
+            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+        },
+        {
             "type": "Burgers at Crown and Anchor",
-            "date": "8/24",
+            "date": "2/1",
             "time": "11am-2pm",
             "location": "Crown and Anchor Pub",
             "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
         },
         {
-            "type": "Info Session*",
-            "date": "8/25",
-            "time": "5-6pm",
-            "location": "CPE 2.210",
+            "type": "Rush Interviews*",
+            "date": "2/2",
+            "time": "6pm-8pm",
+            "location": "CPE 2.206",
             "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
         },
         {
             "type": "Pizza at Varsity Pizza",
-            "date": "8/25",
+            "date": "2/2",
+            "time": "8pm-close",
+            "location": "Varsity Pizza and Pints",
+            "gmaps": "https://goo.gl/maps/3v1UUi8gPLH2"
+        },
+        {
+            "type": "Peter Pan Minigolf*",
+            "date": "2/4",
+            "time": "7-10pm",
+            "location": "Peter Pan Minigolf",
+            "gmaps": "https://goo.gl/maps/UH8CHgCiXXz"
+        },
+        {
+            "type": "Burgers at Crown and Anchor*",
+            "date": "2/8",
+            "time": "11am-2pm",
+            "location": "Crown and Anchor Pub",
+            "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
+        },
+        {
+            "type": "Bowling Night*",
+            "date": "2/8",
+            "time": "7-9pm",
+            "location": "Texas Union",
+            "gmaps": "https://goo.gl/maps/9XrKdsu64n42"
+        },
+        {
+            "type": "Pizza at Varsity Pizza",
+            "date": "2/9",
             "time": "7pm-close",
             "location": "Varsity Pizza and Pints",
             "gmaps": "https://goo.gl/maps/3v1UUi8gPLH2"
         },
         {
-            "type": "Park Potluck",
-            "date": "8/27",
-            "time": "11am-2pm",
-            "location": "Eastwoods Park",
-            "gmaps": "https://goo.gl/maps/Yf4yVXg2jwH2"
-        },
-        {
-            "type": "Clean Pease Park & Tacos",
-            "date": "8/28",
-            "time": "10am-1pm",
-            "location": "Pease Park",
-            "gmaps": "https://goo.gl/maps/vucJaMD6kWv"
-        },
-        {
-            "type": "Info Session*",
-            "date": "8/29",
-            "time": "5-6pm",
-            "location": "CPE 2.212",
-            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
-        },
-        {
-            "type": "Info Session*",
-            "date": "8/30",
-            "time": "5-6pm",
-            "location": "RLM 5.104",
-            "gmaps": "https://goo.gl/maps/RGnh7gDofGv"
-        },
-        {
-            "type": "Dessert Meet & Greet",
-            "date": "8/30",
-            "time": "6-8pm",
-            "location": "Red Mango",
-            "gmaps": "https://goo.gl/maps/SaXVyXCc6RP2"
-        },
-        {
-            "type": "Burgers at Crown and Anchor",
-            "date": "8/31",
-            "time": "11am-2pm",
-            "location": "Crown and Anchor Pub",
-            "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
-        },
-        {
-            "type": "Info Session*",
-            "date": "9/1",
-            "time": "5-6pm",
-            "location": "ETC 2.108",
-            "gmaps": "https://goo.gl/maps/R3somAJZCmH2"
-        },
-        {
-            "type": "Rush Interviews*",
-            "date": "9/1",
+            "type": "Graffiti Park & P. Terry's*",
+            "date": "2/10",
             "time": "6-9pm",
-            "location": "ETC 2.108",
-            "gmaps": "https://goo.gl/maps/R3somAJZCmH2"
+            "location": "Graffiti Park",
+            "gmaps": "https://goo.gl/maps/t7jeYoaW4Co"
         }
     ]
 }
