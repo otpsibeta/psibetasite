@@ -2,32 +2,32 @@
 {
     "rush_events": [
         {
-            "type": "To be Announced for Fall 2017",
-            "date": "To Be Announced for Fall 2017",
-            "time": "To be Announced for Fall 2017",
-            "location": "To be Announced for Fall 2017",
-            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+            "type": "Info Session #1",
+            "date": "Thursday, August 31",
+            "time": "5:00 PM",
+            "location": "RLM 7.116",
+            "gmaps": "https://goo.gl/maps/JNQn2Y1KTuM2"
         },
          {
-            "type": "To be Announced for Fall 2017",
-            "date": "To Be Announced for Fall 2017",
-            "time": "To be Announced for Fall 2017",
-            "location": "To be Announced for Fall 2017",
-            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+            "type": "Info Session #2",
+            "date": "Tuesday, September 5",
+            "time": "5:00 PM",
+            "location": "WAG 214",
+            "gmaps": "https://goo.gl/maps/5C5EeQtcNz72"
         },
          {
-            "type": "To be Announced for Fall 2017",
-            "date": "To Be Announced for Fall 2017",
-            "time": "To be Announced for Fall 2017",
-            "location": "To be Announced for Fall 2017",
-            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+            "type": "Info Session #3",
+            "date": "Wednesday, September 6",
+            "time": "5:00 PM",
+            "location": "WAG 214",
+            "gmaps": "https://goo.gl/maps/5C5EeQtcNz72"
         },
          {
-            "type": "To be Announced",
-            "date": "date here",
-            "time": "time here",
-            "location": "CPE 2.208",
-            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+            "type": "Info Session #4",
+            "date": "Thursday, September 7",
+            "time": "5:00 PM",
+            "location": "RLM 7.116",
+            "gmaps": "https://goo.gl/maps/JNQn2Y1KTuM2"
         },
         {
             "type": "To be Announced",
