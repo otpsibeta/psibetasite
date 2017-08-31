@@ -3,28 +3,28 @@
     "rush_events": [
         {
             "type": "Info Session #1",
-            "date": "Thursday, August 31",
+            "date": "8/31/2017",
             "time": "5:00 PM",
             "location": "RLM 7.116",
             "gmaps": "https://goo.gl/maps/JNQn2Y1KTuM2"
         },
          {
             "type": "Info Session #2",
-            "date": "Tuesday, September 5",
+            "date": "9/5/2017",
             "time": "5:00 PM",
             "location": "WAG 214",
             "gmaps": "https://goo.gl/maps/5C5EeQtcNz72"
         },
          {
             "type": "Info Session #3",
-            "date": "Wednesday, September 6",
+            "date": "9/6/2017",
             "time": "5:00 PM",
             "location": "WAG 214",
             "gmaps": "https://goo.gl/maps/5C5EeQtcNz72"
         },
          {
             "type": "Info Session #4",
-            "date": "Thursday, September 7",
+            "date": "9/7/2017",
             "time": "5:00 PM",
             "location": "RLM 7.116",
             "gmaps": "https://goo.gl/maps/JNQn2Y1KTuM2"
