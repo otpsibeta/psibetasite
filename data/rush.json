@@ -8,12 +8,26 @@
             "location": "RLM 7.116",
             "gmaps": "https://goo.gl/maps/JNQn2Y1KTuM2"
         },
-         {
+        {
             "type": "Info Session #2",
             "date": "9/5/2017",
             "time": "5:00 PM",
             "location": "WAG 214",
             "gmaps": "https://goo.gl/maps/5C5EeQtcNz72"
+        },
+        {
+            "type": "Burgers at Crown & Anchor",
+            "date": "9/6/2017",
+            "time": "11:00 AM",
+            "location": "Crown & Anchor",
+            "gmaps": "https://goo.gl/maps/pHwiKGgbTXU2"
+        },
+        {
+            "type": "Study Hours",
+            "date": "9/5",
+            "time": "7PM - 11:30PM",
+            "location": "TBA",
+            "gmaps": "https://goo.gl/maps/UH8CHgCiXXz"
         },
          {
             "type": "Info Session #3",
@@ -30,88 +44,110 @@
             "gmaps": "https://goo.gl/maps/JNQn2Y1KTuM2"
         },
         {
-            "type": "To be Announced",
-            "date": "Date here",
-            "time": "6-8pm",
-            "location": "West Campus - 26th Street",
-            "gmaps": "https://goo.gl/maps/M7MfcsMDsgT2"
+            "type": "Varsity Pizza and Pints",
+            "date": "9/7/2017",
+            "time": "8PM - Close",
+            "location": "Varsity Pizza",
+            "gmaps": "https://goo.gl/maps/txBZi9HUwU82"
         },
         {
-            "type": "To be Announced",
-            "date": "Date here",
-            "time": "11am-2pm",
+            "type": "Food Truck Social",
+            "date": "9/8/2017",
+            "time": "11AM - 2PM",
+            "location": "Behind the Co-op - 23rd Street",
+            "gmaps": "https://goo.gl/maps/FDeD1S6iBMT2"
+        },
+        {
+            "type": "Kung Fu Tea Social",
+            "date": "9/10/2017",
+            "time": "6PM-7PM",
             "location": "Pease Park",
             "gmaps": "https://goo.gl/maps/a2CpDnFpqH42"
         },
         {
-            "type": "To be Announced",
-            "date": "1/31",
-            "time": "6-8pm",
-            "location": "CPE 2.208",
+            "type": "EXPO Panel",
+            "date": "9/11/2017",
+            "time": "5PM - 6PM",
+            "location": "ETC 2.136",
+            "gmaps": "https://goo.gl/maps/anhmJVH3nxM2"
+        },
+        {
+            "type": "Study Hours",
+            "date": "9/12/2017",
+            "time": "7PM - 11:30 PM",
+            "location": "TBA",
             "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
         },
         {
-            "type": "To be Announced",
-            "date": "2/1",
-            "time": "11am-2pm",
+            "type": "Burgers at Crown & Anchor",
+            "date": "2/8",
+            "time": "11AM - 2PM",
             "location": "Crown and Anchor Pub",
             "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
         },
         {
-            "type": "To be Announced",
-            "date": "2/2",
-            "time": "6pm-8pm",
-            "location": "CPE 2.206",
-            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+            "type": "Potbelly Social & Profit-Share",
+            "date": "9/13/2017",
+            "time": "6PM - 8PM",
+            "location": "Potbelly Sandwich Shop",
+            "gmaps": "https://goo.gl/maps/CX8aJ9ToeWo"
         },
         {
-            "type": "Pizza at Varsity Pizza (Closed Rush Event)",
-            "date": "2/2",
-            "time": "8pm-close",
+            "type": "Rush Interviews",
+            "date": "9/14/2017",
+            "time": "7PM - 8PM",
+            "location": "ETC 2.136",
+            "gmaps": "https://goo.gl/maps/anhmJVH3nxM2"
+        },
+        {
+            "type": "Varsity Pizza and Pints",
+            "date": "9/14/2017",
+            "time": "8PM - Close",
             "location": "Varsity Pizza and Pints",
             "gmaps": "https://goo.gl/maps/3v1UUi8gPLH2"
         },
         {
-            "type": "Peter Pan Minigolf (Closed Rush Event)",
-            "date": "2/4",
-            "time": "7-10pm",
-            "location": "Peter Pan Minigolf",
-            "gmaps": "https://goo.gl/maps/UH8CHgCiXXz"
+            "type": "Rush Social",
+            "date": "9/14/2017",
+            "time": "10PM - 11PM",
+            "location": "3409 Duval Street",
+            "gmaps": "https://goo.gl/maps/mcT2NK42L862"
+        },
+        
+        {
+            "type": "Auditorium Shores Picnic (Closed Rush Event)",
+            "date": "9/15/2017",
+            "time": "6PM - 9PM",
+            "location": "Auditorum Shores",
+            "gmaps": "https://goo.gl/maps/Dz2whrjKnd82"
         },
         {
-            "type": "Superbowl at Varsity Pizza (Closed Rush Event)",
-            "date": "2/5",
-            "time": "5pm-9pm",
-            "location": "Varsity Pizza and Pints",
-            "gmaps": "https://goo.gl/maps/3v1UUi8gPLH2"
-        },
-        {
-            "type": "Burgers at Crown and Anchor (Closed Rush Event)",
-            "date": "2/8",
-            "time": "11am-2pm",
+            "type": "Burgers at Crown & Anchor (Closed Rush Event)",
+            "date": "9/20/2017",
+            "time": "11AM - 2PM",
             "location": "Crown and Anchor Pub",
             "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
         },
         {
-            "type": "Bowling Night (Closed Rush Event)",
-            "date": "2/8",
-            "time": "7-9pm",
-            "location": "Texas Union",
-            "gmaps": "https://goo.gl/maps/9XrKdsu64n42"
+            "type": "Union Bowling Night (Closed Rush Event)",
+            "date": "9/20/2017",
+            "time": "6PM - 8PM",
+            "location": "Union Underground",
+            "gmaps": "https://goo.gl/maps/vhcb227kgxL2"
         },
         {
-            "type": "Pizza at Varsity Pizza (Closed Rush Event)",
-            "date": "2/9",
-            "time": "7pm-close",
+            "type": "Varsity Pizza and Pints (Closed Rush Event)",
+            "date": "9/21/2017",
+            "time": "8PM - Close",
             "location": "Varsity Pizza and Pints",
             "gmaps": "https://goo.gl/maps/3v1UUi8gPLH2"
         },
         {
-            "type": "Graffiti Park & P. Terry's (Closed Rush Event)",
-            "date": "2/10",
-            "time": "6-9pm",
+            "type": "Graffiti Park & P.Terry's (Closed Rush Event)",
+            "date": "9/22/2017",
+            "time": "6PM - 9PM",
             "location": "Graffiti Park",
-            "gmaps": "https://goo.gl/maps/t7jeYoaW4Co"
+            "gmaps": "https://goo.gl/maps/Vv2KFJiWxC82"
         }
     ]
 }
