@@ -670,7 +670,7 @@
             "major": "Mechanical" 
         },
         {
-            "img": "",
+            "img": "485.jpg",
             "name": "Jeffrey Hahm",
             "pin": "485",
             "pledge_name": "Teacup",
@@ -764,6 +764,46 @@
             "pledge_name": "Squidward",
             "pledge_class": "Theta Gamma F'16",
             "major": "Aerospace" 
+        },
+        {
+            "img": "497.jpg",
+            "name": "Robert Bolt",
+            "pin": "497",
+            "pledge_name": "Piña Coladas",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Electrical" 
+        },
+        {
+            "img": "498.jpg",
+            "name": "Tyler Chinn",
+            "pin": "498",
+            "pledge_name": "Straw House",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Electrical" 
+        },
+        {
+            "img": "498.jpg",
+            "name": "Tyler Chinn",
+            "pin": "498",
+            "pledge_name": "Straw House",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Biomedical" 
+        },
+        {
+            "img": "499.jpg",
+            "name": "Daniel Poppe",
+            "pin": "499",
+            "pledge_name": "Oz",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Aerospace" 
+        },
+        {
+            "img": "500.jpg",
+            "name": "Chris Sabillon",
+            "pin": "500",
+            "pledge_name": "MURF",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Civil" 
         }
     ]
 }
