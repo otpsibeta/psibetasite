@@ -670,6 +670,14 @@
             "major": "Mechanical" 
         },
         {
+            "img": "",
+            "name": "Jeffrey Hahm",
+            "pin": "485",
+            "pledge_name": "Teacup",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Civil" 
+        },
+        {
             "img": "486.jpg",
             "name": "Tori Isom",
             "pin": "486",
@@ -764,6 +772,14 @@
             "pledge_name": "Pina Coladas",
             "pledge_class": "Iota Gamma S'17",
             "major": "Electrical" 
+        },
+        {
+            "img": "",
+            "name": "Tyler Chinn",
+            "pin": "498",
+            "pledge_name": "Straw House",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Biomedical" 
         },
         {
             "img": "501.jpg",
