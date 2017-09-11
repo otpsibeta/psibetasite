@@ -782,6 +782,22 @@
             "major": "Biomedical" 
         },
         {
+            "img": "499.jpg",
+            "name": "Daniel Poppe",
+            "pin": "499",
+            "pledge_name": "Oz",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Aerospace" 
+        },
+        {
+            "img": "500.jpg",
+            "name": "Chris Sabillon",
+            "pin": "500",
+            "pledge_name": "MURF",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Civil" 
+        },
+        {
             "img": "501.jpg",
             "name": "Logan Nijland",
             "pin": "501",
