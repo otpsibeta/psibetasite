@@ -804,6 +804,102 @@
             "pledge_name": "Zed",
             "pledge_class": "Iota Gamma S'17",
             "major": "Mechanical" 
+        },
+        {
+            "img": "502.jpg",
+            "name": "Jake Morrissey",
+            "pin": "502",
+            "pledge_name": "77 donuts",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Electrical" 
+        },
+        {
+            "img": "503.jpg",
+            "name": "Jeremy Issacson",
+            "pin": "503",
+            "pledge_name": "Saltbae",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Mechanical" 
+        },
+        {
+            "img": "504.jpg",
+            "name": "Vibhu Appalaraju",
+            "pin": "504",
+            "pledge_name": "Bruiser",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Electrical" 
+        },
+        {
+            "img": "505.jpg",
+            "name": "Jordin Perry",
+            "pin": "505",
+            "pledge_name": "Hooper",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Mechanical" 
+        },
+        {
+            "img": "506.jpg",
+            "name": "Julia Romero",
+            "pin": "506",
+            "pledge_name": "Clementine",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Biomedical" 
+        },
+        {
+            "img": "507.jpg",
+            "name": "Deep Vaghela",
+            "pin": "508",
+            "pledge_name": "Shrugs",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Aerospace" 
+        },
+        {
+            "img": "508.jpg",
+            "name": "Jacob Sutler",
+            "pin": "508",
+            "pledge_name": "220 Grit",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Mechanical" 
+        },
+        {
+            "img": "509.jpg",
+            "name": "Daniel Duke",
+            "pin": "509",
+            "pledge_name": "JV",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Civil" 
+        },
+        {
+            "img": "510.jpg",
+            "name": "John Anderson",
+            "pin": "510",
+            "pledge_name": "The Sneaky Pizza 9000",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Electrical" 
+        },
+        {
+            "img": "511.jpg",
+            "name": "Kevin Han",
+            "pin": "511",
+            "pledge_name": "Francis",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Biomedical" 
+        },
+        {
+            "img": "512.jpg",
+            "name": "Carl Kouta",
+            "pin": "512",
+            "pledge_name": "Goddard",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Chemical" 
+        },
+        {
+            "img": "513.jpg",
+            "name": "Brandt Glidewell",
+            "pin": "513",
+            "pledge_name": "The sum from i=1 to 8 of Buffalo sub i",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Mechanical" 
         }
     ]
 }
