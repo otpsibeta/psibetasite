@@ -34,69 +34,69 @@
             "officer_letters": "V!"
         },
         {
-            "img": "411.jpg",
-            "name": "Davis Harlan",
-            "pin": "411",
-            "pledge_name": "ESPN",
-            "pledge_class": "Epsilon Gamma F'14",
-            "major": "Chemical",
-            "email": "dharlan@utexas.edu",
-            "position": "Treasurer",
-            "officer_letters": "Z!"
-        },
-        {
-            "name": "Carolyn Ramirez",
-            "pin": "398",
-            "pledge_name": "Brady",
-            "pledge_class": "Delta Gamma S'14",
-            "major": "Chemical",
-            "img": "398.jpg",
-            "officer_letters": "TT! YY! W!",
-            "email": "carolynramirez26@gmail.com",
-            "position": "Pledge Marshal"
-        },
-        {
-            "img": "457.jpg",
-            "name": "Jeffrey Martin",
-            "pin": "457",
-            "pledge_name": "Wobuffet",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical",
-            "officer_letters": "R!",
-            "email": "jeffreymartin@utexas.edu",
-            "position": "Corresponding Secretary"
-        },
-       {
-            "img": "451.jpg",
-            "name": "Joseph Williams",
-            "pin": "451",
-            "pledge_name": "New Hampster",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Aerospace",
-            "officer_letters": "U!",
-            "email": "joey.j.williams@gmail.com",
-            "position": "Outer Guard"
-        },
-        {
             "img": "448.jpg",
             "name": "Allison Schaub",
             "pin": "448",
             "pledge_name": "Flossy",
             "pledge_class": "Eta Gamma F'15",
             "major": "Civil",
-            "email": "allisonschaub@utexas.edu",
+            "email": "dharlan@utexas.edu",
+            "position": "Treasurer",
+            "officer_letters": "TT!Z!"
+        },
+        {
+            "name": "Minh Van-Dinh",
+            "pin": "456",
+            "pledge_name": "$weet Dolla Iced Tea",
+            "pledge_class": "Eta Gamma F'15",
+            "major": "Electrical",
+            "img": "456.jpg",
+            "officer_letters": "VV! W!",
+            "email": "minh.vandinh@utexas.edu",
+            "position": "Pledge Marshal"
+        },
+        {
+            "img": "433.JPG",
+            "name": "Rebecca Munoz",
+            "pin": "433",
+            "pledge_name": "5000 Pokédollars",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical",
+            "officer_letters": "R!",
+            "email": "rmunoz001@utexas.edu",
+            "position": "Corresponding Secretary"
+        },
+       {
+            "img": "488.jpg",
+            "name": "Kirtana Moorthy",
+            "pin": "488",
+            "pledge_name": "Lumbergh",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Electrical",
+            "officer_letters": "U!",
+            "email": "kirtana.moorthy@utexas.edu",
+            "position": "Outer Guard"
+        },
+        {
+            "img": "492.jpg",
+            "name": "Vidita Dixit",
+            "pin": "492",
+            "pledge_name": "Piccolo",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Electrical",
+            "email": "viditadixit@utexas.edu",
             "officer_letters": "T!",
             "position": "Inner Guard"
         },
         {
-            "img": "381.jpg",
-            "name": "Khalid Hamza",
-            "pin": "381",
-            "pledge_name": "Nesquik",
-            "pledge_class": "Psi Beta S'13",
-            "major": "Mechanical",
-            "officer_letters": "UU! YY! RR! 0xDEADBEEF",
-            "email": "khalid_hamza@utexas.edu",
+            "img": "472.jpg",
+            "name": "Joseph Bae",
+            "pin": "472",
+            "pledge_name": "JFKFDR",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Electrical",
+            "officer_letters": "0xBAE",
+            "email": "josephbae@utexas.edu",
             "position": "Webmaster"
         }
     ]
