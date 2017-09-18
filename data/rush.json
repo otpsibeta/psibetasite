@@ -74,9 +74,9 @@
         {
             "type": "Study Hours",
             "date": "9/12",
-            "time": "7PM - 11:30 PM",
-            "location": "TBA",
-            "gmaps": "https://goo.gl/maps/4N5inJRwqVy"
+            "time": "7:30PM - 11:30 PM",
+            "location": "ETC 2.132",
+            "gmaps": "https://goo.gl/maps/anhmJVH3nxM2"
         },
         {
             "type": "Burgers at Crown & Anchor",
@@ -108,10 +108,31 @@
         },
         {
             "type": "Auditorium Shores Picnic (Closed Rush Event)",
-            "date": "9/15",
+            "date": "9/17",
             "time": "6PM - 9PM",
             "location": "Auditorum Shores",
             "gmaps": "https://goo.gl/maps/Dz2whrjKnd82"
+        },
+        {
+            "type": "Tutoring at Paredes Middle School (Closed Rush Event)",
+            "date": "9/18",
+            "time": "3:30PM - 6PM",
+            "location": "Paredes Middle School",
+            "gmaps": "https://goo.gl/maps/vgxoDc2k4y82"
+        },
+        {
+            "type": "Union Bowling Night (Closed Rush Event)",
+            "date": "9/19",
+            "time": "6PM - 8PM",
+            "location": "Union Underground",
+            "gmaps": "https://goo.gl/maps/vhcb227kgxL2"
+        },
+        {
+            "type": "Study Hours (Closed Rush Event)",
+            "date": "9/19",
+            "time": "7:30PM - 11PM",
+            "location": "ETC 2.132",
+            "gmaps": "https://goo.gl/maps/anhmJVH3nxM2"
         },
         {
             "type": "Burgers at Crown & Anchor (Closed Rush Event)",
@@ -121,11 +142,11 @@
             "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
         },
         {
-            "type": "Union Bowling Night (Closed Rush Event)",
-            "date": "9/20",
-            "time": "6PM - 8PM",
-            "location": "Union Underground",
-            "gmaps": "https://goo.gl/maps/vhcb227kgxL2"
+            "type": "Tutoring at Paredes Middle School (Closed Rush Event)",
+            "date": "9/21",
+            "time": "3:30PM - 6PM",
+            "location": "Paredes Middle School",
+            "gmaps": "https://goo.gl/maps/vgxoDc2k4y82"
         },
         {
             "type": "Varsity Pizza and Pints (Closed Rush Event)",
