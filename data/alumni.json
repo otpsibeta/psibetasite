@@ -2608,6 +2608,14 @@
             "pledge_name": "Golden Monkey",
             "pledge_class": "Eta Gamma F'15",
             "major": "Chemical"   
+        },
+        {
+            "img": "490.jpg",
+            "name": "Andrew Wong",
+            "pin": "490",
+            "pledge_name": "Flop",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Electrical"  
         }
     ]
 }
