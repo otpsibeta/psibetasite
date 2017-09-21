@@ -2294,7 +2294,8 @@
             "pin": "385",
             "pledge_name": "Celery",
             "pledge_class": "Omega Beta F'13",
-            "major": "Biomedical"
+            "major": "Biomedical",
+            "officer_letters": "RR! UU! X!"
         },
         {
             "img": "386.jpg",
@@ -2385,6 +2386,15 @@
             "major": "Electrical",
             "img": "396.jpg",
             "officer_letters": "UU!"
+        },
+        {
+            "name": "Yash Parekh",
+            "pin": "397",
+            "pledge_name": "Treefiddy",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Electrical",
+            "img": "397.jpg",
+            "officer_letters": "0xDEADBEEF"
         },
         {
             "img": "399.jpg",
