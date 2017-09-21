@@ -2479,6 +2479,15 @@
             "major": "Electrical",
             "officer_letters": "0xDEADBEEF"
         },
+        {
+            "img": "408.jpg",
+            "name": "Zach Thomas",
+            "pin": "408",
+            "pledge_name": "Kabosu",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Mechanical",
+            "officer_letters": "ZZ!"
+        },
         {   
             "img": "409.jpg",
             "name": "Henry Song",
@@ -2486,6 +2495,14 @@
             "pledge_name": "Sriracha",
             "pledge_class": "Delta Gamma S'14",
             "major": "Electrical"
+        },
+        {
+            "img": "410.jpg",
+            "name": "Alec Palacio",
+            "pin": "410",
+            "pledge_name": "Miley",
+            "pledge_class": "Delta Gamma S'14",
+            "major": "Mechanical"
         },
         {
             "img": "412.jpg",
