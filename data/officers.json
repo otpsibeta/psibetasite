@@ -98,6 +98,17 @@
             "officer_letters": "0xBAE",
             "email": "josephbae@utexas.edu",
             "position": "Webmaster"
+        },
+        {
+            "img": "475.jpg",
+            "name": "Camilla Seward",
+            "pin": "475",
+            "pledge_name": "Long Khan",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Mechanical",
+            "officer_letters:" "GODSAVETHEQUEEN",
+            "email": "godsave@queen.com",
+            "position": "Ambassador to London"
         }
     ]
 }
