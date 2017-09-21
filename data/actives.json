@@ -165,15 +165,8 @@
             "pin": "433",
             "pledge_name": "5000 Pokédollars",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Mechanical"   
-        },
-        {
-            "img": "434.JPG",
-            "name": "Tilly Selden",
-            "pin": "434",
-            "pledge_name": "Pearl",
-            "pledge_class": "Zeta Gamma S'15",
-            "major": "Chemical"   
+            "major": "Mechanical",
+            "officer_letters": "R!" 
         },
         {
             "img": "435.JPG",
