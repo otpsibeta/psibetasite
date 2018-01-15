@@ -1,111 +1,77 @@
-
 {
-    "rush_events": [
+    "open_rush_events": [
         {
             "type": "Info Session #1",
-            "date": "8/31",
-            "time": "5:00 PM",
-            "location": "RLM 7.116",
-            "gmaps": "https://goo.gl/maps/JNQn2Y1KTuM2"
+            "date": "1/22",
+            "time": "5:00pm-6:00pm",
+            "location": "CPE 2.204",
+            "gmaps": "#"
         },
         {
             "type": "Info Session #2",
-            "date": "9/5",
-            "time": "5:00 PM",
-            "location": "WAG 214",
-            "gmaps": "https://goo.gl/maps/5C5EeQtcNz72"
-        },
-        {
-            "type": "Burgers at Crown & Anchor",
-            "date": "9/6",
-            "time": "11:00 AM",
-            "location": "Crown & Anchor",
-            "gmaps": "https://goo.gl/maps/pHwiKGgbTXU2"
-        },
-        {
-            "type": "Study Hours",
-            "date": "9/5",
-            "time": "7PM - 11:30PM",
-            "location": "TBA",
-            "gmaps": "https://goo.gl/maps/UH8CHgCiXXz"
-        },
-         {
-            "type": "Info Session #3",
-            "date": "9/6",
-            "time": "5:00 PM",
-            "location": "WAG 214",
-            "gmaps": "https://goo.gl/maps/5C5EeQtcNz72"
-        },
-         {
-            "type": "Info Session #4",
-            "date": "9/7",
-            "time": "5:00 PM",
-            "location": "RLM 7.116",
-            "gmaps": "https://goo.gl/maps/JNQn2Y1KTuM2"
-        },
-        {
-            "type": "Varsity Pizza and Pints",
-            "date": "9/7",
-            "time": "8PM - Close",
-            "location": "Varsity Pizza",
-            "gmaps": "https://goo.gl/maps/txBZi9HUwU82"
-        },
-        {
-            "type": "Food Truck Social",
-            "date": "9/8",
-            "time": "11AM - 2PM",
-            "location": "Behind the Co-op - 23rd Street",
-            "gmaps": "https://goo.gl/maps/FDeD1S6iBMT2"
-        },
-        {
-            "type": "Kung Fu Tea Social",
-            "date": "9/10",
-            "time": "6PM-7PM",
-            "location": "Pease Park",
-            "gmaps": "https://goo.gl/maps/a2CpDnFpqH42"
-        },
-        {
-            "type": "EXPO Panel",
-            "date": "9/11",
-            "time": "5PM - 6PM",
+            "date": "1/23",
+            "time": "5:00pm-6:00pm",
             "location": "ETC 2.136",
-            "gmaps": "https://goo.gl/maps/anhmJVH3nxM2"
+            "gmaps": "#"
         },
         {
-            "type": "Study Hours",
-            "date": "9/12",
-            "time": "7:30PM - 11:30 PM",
-            "location": "ETC 2.132",
-            "gmaps": "https://goo.gl/maps/anhmJVH3nxM2"
+            "type": "Info Session #3",
+            "date": "1/24",
+            "time": "5:00pm-6:00pm",
+            "location": "CPE 2.204",
+            "gmaps": "#"
         },
         {
-            "type": "Burgers at Crown & Anchor",
-            "date": "9/13",
-            "time": "11AM - 2PM",
-            "location": "Crown and Anchor Pub",
-            "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
+            "type": "Info Session #4",
+            "date": "1/25",
+            "time": "5:00pm-6:00pm",
+            "location": "BUR 108",
+            "gmaps": "#"
+        },
+         {
+            "type": "Mount Bonnell",
+            "date": "1/26",
+            "time": "5pm",
+            "location": "Mount Bonnell",
+            "gmaps": "https://goo.gl/maps/mCJETyDLiWD2"
+        },
+         {
+            "type": "P-TERRY's",
+            "date": "1/26",
+            "time": "7pm",
+            "location": "P-TERRY's N. Lamar",
+            "gmaps": "#"
         },
         {
-            "type": "Potbelly Social & Profit-Share",
-            "date": "9/13",
-            "time": "6PM - 8PM",
-            "location": "Potbelly Sandwich Shop",
-            "gmaps": "https://goo.gl/maps/CX8aJ9ToeWo"
+            "type": "SoCo Walk + Food",
+            "date": "9/7",
+            "time": "TBD",
+            "location": "South Congress",
+            "gmaps": "#"
+        },
+        {
+            "type": "Proffessional Development Workshop",
+            "date": "1/30",
+            "time": "TBD",
+            "location": "TBD",
+            "gmaps": "#"
+        },
+        {
+            "type": "Resume Review Worshop EXPO",
+            "date": "1/31",
+            "time": "TBD",
+            "location": "TBD",
+            "gmaps": "#"
         },
         {
             "type": "Rush Interviews",
-            "date": "9/14",
-            "time": "7PM - 8PM",
-            "location": "RLM 7.104",
-            "gmaps": "https://goo.gl/maps/7QynY55iJE12"
-        },
-        {
-            "type": "Varsity Pizza and Pints",
-            "date": "9/14",
-            "time": "8PM - Close",
-            "location": "Varsity Pizza and Pints",
-            "gmaps": "https://goo.gl/maps/3v1UUi8gPLH2"
-        },
+            "date": "2/1",
+            "time": "TBD",
+            "location": "TBD",
+            "gmaps": "#"
+        }
+    ],
+    "closed_rush_events": [
         {
             "type": "Auditorium Shores Picnic (Closed Rush Event)",
             "date": "9/17",
@@ -164,4 +130,3 @@
         }
     ]
 }
- 
