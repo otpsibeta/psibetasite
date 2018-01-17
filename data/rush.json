@@ -5,128 +5,100 @@
             "date": "1/22",
             "time": "5:00pm-6:00pm",
             "location": "CPE 2.204",
-            "gmaps": "#"
+            "gmaps": "https://goo.gl/maps/BwJtU6dAq9k"
         },
         {
             "type": "Info Session #2",
             "date": "1/23",
             "time": "5:00pm-6:00pm",
             "location": "ETC 2.136",
-            "gmaps": "#"
+            "gmaps": "https://goo.gl/maps/cwP5pTLeUAs"
         },
         {
             "type": "Info Session #3",
             "date": "1/24",
             "time": "5:00pm-6:00pm",
             "location": "CPE 2.204",
-            "gmaps": "#"
+            "gmaps": "https://goo.gl/maps/BwJtU6dAq9k"
         },
         {
             "type": "Info Session #4",
             "date": "1/25",
             "time": "5:00pm-6:00pm",
             "location": "BUR 108",
-            "gmaps": "#"
+            "gmaps": "https://goo.gl/maps/grM3GYJTVyq"
         },
          {
             "type": "Mount Bonnell",
             "date": "1/26",
-            "time": "5pm",
+            "time": "6:30pm",
             "location": "Mount Bonnell",
             "gmaps": "https://goo.gl/maps/mCJETyDLiWD2"
         },
          {
             "type": "P-TERRY's",
             "date": "1/26",
-            "time": "7pm",
+            "time": "7:00pm",
             "location": "P-TERRY's N. Lamar",
-            "gmaps": "#"
+            "gmaps": "https://goo.gl/maps/KEWFPAMtHQy"
         },
         {
             "type": "SoCo Walk + Food",
-            "date": "9/7",
-            "time": "TBD",
+            "date": "1/27",
+            "time": "5:30pm",
             "location": "South Congress",
-            "gmaps": "#"
+            "gmaps": "https://goo.gl/maps/kTjPKFs1vpF2"
         },
         {
-            "type": "Proffessional Development Workshop",
+            "type": "EXPO + Resume Workshop",
             "date": "1/30",
-            "time": "TBD",
-            "location": "TBD",
-            "gmaps": "#"
-        },
-        {
-            "type": "Resume Review Worshop EXPO",
-            "date": "1/31",
-            "time": "TBD",
+            "time": "6:00pm",
             "location": "TBD",
             "gmaps": "#"
         },
         {
             "type": "Rush Interviews",
             "date": "2/1",
-            "time": "TBD",
+            "time": "6:30pm",
             "location": "TBD",
             "gmaps": "#"
         }
     ],
     "closed_rush_events": [
         {
-            "type": "Auditorium Shores Picnic (Closed Rush Event)",
-            "date": "9/17",
-            "time": "6PM - 9PM",
-            "location": "Auditorum Shores",
-            "gmaps": "https://goo.gl/maps/Dz2whrjKnd82"
+            "type": "Park Clean-Up + Casual Sports",
+            "date": "2/3",
+            "time": "3:00pm",
+            "location": "Pease Park",
+            "gmaps": "https://goo.gl/maps/GJaAYeq7Gtu"
         },
         {
-            "type": "Tutoring at Paredes Middle School (Closed Rush Event)",
-            "date": "9/18",
-            "time": "3:30PM - 6PM",
-            "location": "Paredes Middle School",
-            "gmaps": "https://goo.gl/maps/vgxoDc2k4y82"
+            "type": "Superbowl Watch Party",
+            "date": "2/4",
+            "time": "TBD",
+            "location": "Varsity Pizza & Pints",
+            "gmaps": "https://goo.gl/maps/SB5XT3RkhiT2"
         },
         {
-            "type": "Union Bowling Night (Closed Rush Event)",
-            "date": "9/19",
-            "time": "6PM - 8PM",
-            "location": "Union Underground",
-            "gmaps": "https://goo.gl/maps/vhcb227kgxL2"
+            "type": "Study Hours",
+            "date": "2/6",
+            "time": "7:30pm",
+            "location": "TBD",
+            "gmaps": "TBD"
         },
         {
-            "type": "Study Hours (Closed Rush Event)",
-            "date": "9/19",
-            "time": "7:30PM - 11PM",
-            "location": "ETC 2.132",
-            "gmaps": "https://goo.gl/maps/anhmJVH3nxM2"
+            "type": "Union Bowling",
+            "date": "2/7",
+            "time": "6:00pm",
+            "location": "The Union",
+            "gmaps": "https://goo.gl/maps/JyyNMrihoq32"
         },
         {
-            "type": "Burgers at Crown & Anchor (Closed Rush Event)",
-            "date": "9/20",
-            "time": "11AM - 2PM",
-            "location": "Crown and Anchor Pub",
-            "gmaps": "https://goo.gl/maps/Kgr1t8hhMsK2"
-        },
-        {
-            "type": "Tutoring at Paredes Middle School (Closed Rush Event)",
-            "date": "9/21",
-            "time": "3:30PM - 6PM",
-            "location": "Paredes Middle School",
-            "gmaps": "https://goo.gl/maps/vgxoDc2k4y82"
-        },
-        {
-            "type": "Varsity Pizza and Pints (Closed Rush Event)",
-            "date": "9/21",
-            "time": "8PM - Close",
-            "location": "Varsity Pizza and Pints",
-            "gmaps": "https://goo.gl/maps/3v1UUi8gPLH2"
-        },
-        {
-            "type": "Graffiti Park & P.Terry's (Closed Rush Event)",
-            "date": "9/22",
-            "time": "6PM - 9PM",
-            "location": "Graffiti Park",
-            "gmaps": "https://goo.gl/maps/Vv2KFJiWxC82"
+            "type": "Game Night + Olympics + Pizza",
+            "date": "2/9",
+            "time": "6:00pm",
+            "location": "TBD",
+            "gmaps": "TBD"
         }
     ]
 }

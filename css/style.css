@@ -10,7 +10,7 @@ body {
 
 .billboard {
     height: 650px;
-    background: url('../img/splash.jpg') no-repeat center center; 
+    background: url('../img/splash.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -64,7 +64,7 @@ body {
     box-shadow: 0px 0px 10px 0px #839496;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
-    -khtml-border-radius: 8px;  
+    -khtml-border-radius: 8px;
     border-radius: 8px;
 }
 

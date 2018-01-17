@@ -1,0 +1,104 @@
+.line {
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.rush-cover {
+    margin: 40px auto 20px auto;
+    width: 400px;
+    display: block;
+}
+
+.rush-info {
+    margin: 0 auto;
+    width: 70%;
+    text-align: left;
+    font-size: 130%;
+    padding-bottom: 20px;
+}
+
+.rush-chair-box {
+    box-sizing: content-box;
+    background-color: #e8e8e8;
+    margin: 12px auto 20px auto;
+    width: 280px;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.rush-chair-box img,
+.rush-chair-box ul {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.rush-chair-box ul {
+    padding: 10px;
+}
+
+.rush-chair-box ul li {
+    list-style: none;
+}
+
+.box-1 {
+    float: right;
+    margin-right: 20px;
+}
+
+.box-2 {
+    float: left;
+    margin-left: 20px'
+}
+
+.rush-chair-box ul li:first-child {
+    font-weight: 700;
+}
+
+.rush-video {
+    margin: 10px auto;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.album {
+    width: 50%;
+    padding-bottom: 30px;
+    margin: auto;
+    display: block;
+}
+
+@media only screen and (max-width: 768px) {
+    .rush-cover {
+        margin: 40px auto 20px auto;
+        width: 300px;
+    }
+
+    .rush-info {
+        width: 80%;
+        font-size: 110%;
+    }
+
+    .rush-video {
+        width: 300px;
+        height: 168px;
+    }
+
+    .box-1 {
+        margin: 10px auto 10px auto;
+        float:none;
+        align: center;
+    }
+    .box-2 {
+        margin: 10px auto 10px auto;
+        float: none;
+        align: center;
+    }
+    .album {
+        width: 80%;
+        margin-top: 10px;
+    }
+
+    .lead {
+        margin-bottom: 0px;
+        margin-top: 10px;
+    }
+}
