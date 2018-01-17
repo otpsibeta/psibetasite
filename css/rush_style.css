@@ -4,7 +4,7 @@
 
 .rush-cover {
     margin: 40px auto 20px auto;
-    width: 400px;
+    width: 450px;
     display: block;
 }
 
@@ -19,7 +19,7 @@
 .rush-chair-box {
     box-sizing: content-box;
     background-color: #e8e8e8;
-    margin: 12px auto 20px auto;
+    margin: 12px auto 40px auto;
     width: 280px;
     padding: 12px;
     border-radius: 10px;
@@ -60,9 +60,9 @@
 }
 
 .album {
-    width: 50%;
+    width: 40%;
     padding-bottom: 30px;
-    margin: auto;
+    margin: 10px auto 0px auto;
     display: block;
 }
 
@@ -83,18 +83,19 @@
     }
 
     .box-1 {
-        margin: 10px auto 10px auto;
+        margin: 0px auto 15px auto;
         float:none;
         align: center;
     }
     .box-2 {
-        margin: 10px auto 10px auto;
+        margin: 15px auto 30px auto;
         float: none;
         align: center;
     }
     .album {
         width: 80%;
         margin-top: 10px;
+        margin-bottom: 0px;;
     }
 
     .lead {
