@@ -60,7 +60,6 @@
                         </li>                        <li><a href="officers.html">Officers</a></li>
                         <li><a href="https://calendar.google.com/calendar/embed?src=6ncssbabhe3dspc0hdks3gou88%40group.calendar.google.com&ctz=America%2FChicago"target="_blank">Calendar</a></li>
                         <li><a href="http://www.thetatau.org">Nationals</a></li>
-                        <li><a href="regionals.html">Regionals</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="rush.html#where-to-find-us"><i class="fa fa-map-marker"></i> Where to Find Us</a></li>
@@ -81,7 +80,7 @@
             </div>
             <div id="actives-list"></div>
         </div>
-        
+
         <script id="actives-list-template" type="text/x-handlebars-template">
 {{#everyNth actives 6}}
     {{#if isModZeroNotFirst}}
@@ -114,14 +113,14 @@
     {{/if}}
 {{/everyNth}}
         </script>
-        
+
         <script type="text/javascript" src="//cdn.jsdelivr.net/jquery/2.1.1/jquery.min.js"></script>
         <script type="text/javascript" src="//cdn.jsdelivr.net/handlebarsjs/1.3.0/handlebars.min.js"></script>
         <script type="text/javascript" src="//cdn.jsdelivr.net/underscorejs/1.6.0/underscore-min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
         <script type="text/javascript">
-            
+
             Handlebars.registerHelper('everyNth', function(context, every, options) {
               var fn = options.fn, inverse = options.inverse;
               var ret = "";
@@ -139,11 +138,11 @@
               }
               return ret;
             });
- 
-            
+
+
             var source = $("#actives-list-template").html();
             var template = Handlebars.compile(source);
-            
+
             $.getJSON("data/actives.json", function(data) {
                 $("#actives-list").append(template(data));
                 $('.emoji').each(function(index, e) {
