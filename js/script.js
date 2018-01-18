@@ -26,9 +26,9 @@ function getMobileOperatingSystem() {
 
 var os = getMobileOperatingSystem();
 if (os === "android") {
-    $('.fb').attr("href","hello");
-    $('.ig').attr("href","hello");
-    $('.tt').attr("href","hello");
+    $('.fb').attr("href","fb://group/162046437768451");
+    $('.ig').attr("href","https://www.instagram.com/texasthetatau/");
+    $('.tt').attr("href","https://twitter.com/TexasThetaTau");
 }else if (os === "ios") {
     $('.fb').attr("href","fb://group/162046437768451");
     $('.ig').attr("href","https://www.instagram.com/texasthetatau/");
