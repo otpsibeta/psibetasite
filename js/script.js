@@ -30,7 +30,7 @@ if (os === "android") {
     $('.ig').attr("href","hello");
     $('.tt').attr("href","hello");
 }else if (os === "ios") {
-    $('.fb').attr("href","fb://group?id=162046437768451");
+    $('.fb').attr("href","fb://group?id=%@162046437768451");
     $('.ig').attr("href","https://www.instagram.com/texasthetatau/");
     $('.tt').attr("href","https://twitter.com/TexasThetaTau");
 } else {
