@@ -7,7 +7,7 @@
             "pledge_name": "Toofbrush",
             "pledge_class": "Chi Beta F'12",
             "major": "Electrical",
-            "officer_letters": "TT! ZZ!"
+            "officer_letters": "TT! ZZ! R!"
         },
         {
             "img": "376.jpg",
@@ -16,7 +16,7 @@
             "pledge_name": "Radcliffe",
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
-            "officer_letters": "WW! 0xDEADBEEF"
+            "officer_letters": "W! 0xDEADBEEF"
         },
         {
             "img": "381.jpg",
@@ -25,7 +25,7 @@
             "pledge_name": "Nesquik",
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
-            "officer_letters": "UU! YY! RR! 0xDEADBEEF"
+            "officer_letters": "U! Y! R! 0xDEADBEEF"
         },
         {
             "img": "382.jpg",
@@ -34,7 +34,7 @@
             "pledge_name": "Touché",
             "pledge_class": "Omega Beta F'13",
             "major": "Mechanical",
-            "officer_letters": "TT! UU! XX!"
+            "officer_letters": "T! U! X!"
         },
         {
             "img": "411.jpg",
@@ -52,7 +52,7 @@
             "pledge_name": "±1",
             "pledge_class": "Epsilon Gamma F'14",
             "major": "Aerospace",
-            "officer_letters": "RR!"
+            "officer_letters": "R!"
         },
         {
             "img": "414.jpg",
@@ -117,7 +117,7 @@
             "pledge_name": "Art",
             "pledge_class": "Epsilon Gamma F'14",
             "major": "Aerospace",
-            "officer_letters": "WW! X!" 
+            "officer_letters": "W! X!"
         },
         {
             "img": "427.jpg",
@@ -141,7 +141,7 @@
             "pin": "430",
             "pledge_name": "Go-gurt",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Electrical"   
+            "major": "Electrical"
         },
         {
             "img": "431.JPG",
@@ -149,15 +149,15 @@
             "pin": "431",
             "pledge_name": "Dr. James Rustle",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Aerospace"   
-        },        
+            "major": "Aerospace"
+        },
         {
             "img": "432.JPG",
             "name": "Bjorn Johnson",
             "pin": "432",
             "pledge_name": "Clogs",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Chemical"   
+            "major": "Chemical"
         },
         {
             "img": "433.JPG",
@@ -166,7 +166,7 @@
             "pledge_name": "5000 Pokédollars",
             "pledge_class": "Zeta Gamma S'15",
             "major": "Mechanical",
-            "officer_letters": "R!" 
+            "officer_letters": "R!"
         },
         {
             "img": "435.JPG",
@@ -174,7 +174,7 @@
             "pin": "435",
             "pledge_name": "Expo Bus",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Mechanical"   
+            "major": "Mechanical"
         },
         {
             "img": "437.JPG",
@@ -182,7 +182,7 @@
             "pin": "437",
             "pledge_name": "^_^",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Biomedical"   
+            "major": "Biomedical"
         },
         {
             "img": "438.JPG",
@@ -190,7 +190,7 @@
             "pin": "438",
             "pledge_name": "RCM",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Biomedical"   
+            "major": "Biomedical"
         },
         {
             "img": "440.JPG",
@@ -198,7 +198,7 @@
             "pin": "440",
             "pledge_name": "The Neighborhood",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Electrical"   
+            "major": "Electrical"
         },
         {
             "img": "441.JPG",
@@ -206,7 +206,7 @@
             "pin": "441",
             "pledge_name": "Ice",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Biomedical"   
+            "major": "Biomedical"
         },
         {
             "img": "442.JPG",
@@ -214,7 +214,7 @@
             "pin": "442",
             "pledge_name": "Custard",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Mechanical"   
+            "major": "Mechanical"
         },
         {
             "img": "443.JPG",
@@ -222,7 +222,7 @@
             "pin": "443",
             "pledge_name": "Wrong Numba",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Electrical"   
+            "major": "Electrical"
         },
         {
             "img": "444.JPG",
@@ -231,7 +231,7 @@
             "pledge_name": "Shiny Teeth",
             "pledge_class": "Zeta Gamma S'15",
             "major": "Mechanical",
-            "officer_letters": "UU! Y!"  
+            "officer_letters": "U! Y!"
         },
         {
             "img": "446.JPG",
@@ -239,7 +239,7 @@
             "pin": "446",
             "pledge_name": "Phteven",
             "pledge_class": "Zeta Gamma S'15",
-            "major": "Biomedical"   
+            "major": "Biomedical"
         },
         {
             "img": "447.jpg",
@@ -247,7 +247,7 @@
             "pin": "447",
             "pledge_name": "Bunga",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Aerospace"   
+            "major": "Aerospace"
         },
         {
             "img": "448.jpg",
@@ -256,7 +256,7 @@
             "pledge_name": "Flossy",
             "pledge_class": "Eta Gamma F'15",
             "major": "Civil",
-            "officer_letters": "T!" 
+            "officer_letters": "TT! Z!"
         },
         {
             "img": "450.jpg",
@@ -265,7 +265,7 @@
             "pledge_name": "Danke",
             "pledge_class": "Eta Gamma F'15",
             "major": "Mechanical",
-            "officer_letters": "TT!"   
+            "officer_letters": "T!"
         },
         {
             "img": "451.jpg",
@@ -274,7 +274,7 @@
             "pledge_name": "New Hampster",
             "pledge_class": "Eta Gamma F'15",
             "major": "Aerospace",
-            "officer_letters": "U!"   
+            "officer_letters": "U! Y!"
         },
         {
             "img": "452.jpg",
@@ -282,7 +282,7 @@
             "pin": "452",
             "pledge_name": "Coco Puffs",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Biomedical"   
+            "major": "Biomedical"
         },
         {
             "img": "453.jpg",
@@ -290,7 +290,7 @@
             "pin": "453",
             "pledge_name": "Posta",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical"   
+            "major": "Electrical"
         },
         {
             "img": "454.jpg",
@@ -298,7 +298,7 @@
             "pin": "454",
             "pledge_name": "L'meow",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Aerospace"   
+            "major": "Aerospace"
         },
         {
             "img": "455.jpg",
@@ -306,7 +306,7 @@
             "pin": "455",
             "pledge_name": "Vermonster",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical"   
+            "major": "Electrical"
         },
         {
             "img": "456.jpg",
@@ -315,7 +315,7 @@
             "pledge_name": "$weet Dolla Iced Tea",
             "pledge_class": "Eta Gamma F'15",
             "major": "Electrical",
-            "officer_letters": "V!"   
+            "officer_letters": "V! W!"
         },
         {
             "img": "457.jpg",
@@ -324,7 +324,7 @@
             "pledge_name": "Wobuffet",
             "pledge_class": "Eta Gamma F'15",
             "major": "Electrical",
-            "officer_letters": "R!"  
+            "officer_letters": "R!"
         },
         {
             "img": "459.jpg",
@@ -332,7 +332,7 @@
             "pin": "459",
             "pledge_name": "Dadliest Catch",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Civil"   
+            "major": "Civil"
         },
         {
             "img": "460.jpg",
@@ -340,7 +340,7 @@
             "pin": "460",
             "pledge_name": "Beyond the Thunderspoon",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical"   
+            "major": "Electrical"
         },
         {
             "img": "461.jpg",
@@ -348,7 +348,7 @@
             "pin": "461",
             "pledge_name": "Gottie",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Aerospace"   
+            "major": "Aerospace"
         },
         {
             "img": "462.jpg",
@@ -356,7 +356,7 @@
             "pin": "462",
             "pledge_name": "Soup Dogg",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Biomedical"   
+            "major": "Biomedical"
         },
         {
             "img": "463.jpg",
@@ -364,7 +364,7 @@
             "pin": "463",
             "pledge_name": "All she's got, Cap'n",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Mechanical"   
+            "major": "Mechanical"
         },
         {
             "img": "464.jpg",
@@ -372,7 +372,7 @@
             "pin": "464",
             "pledge_name": "Atkinson",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical"   
+            "major": "Electrical"
         },
         {
             "img": "465.jpg",
@@ -380,7 +380,7 @@
             "pin": "465",
             "pledge_name": "Flapjacks",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Mechanical"   
+            "major": "Mechanical"
         },
         {
             "img": "466.jpg",
@@ -388,7 +388,7 @@
             "pin": "466",
             "pledge_name": "Mr. P. Body",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Biomedical"   
+            "major": "Biomedical"
         },
         {
             "img": "467.jpg",
@@ -396,7 +396,7 @@
             "pin": "467",
             "pledge_name": "Samoa",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Architectural"   
+            "major": "Architectural"
         },
         {
             "img": "468.jpg",
@@ -404,7 +404,7 @@
             "pin": "468",
             "pledge_name": "Mojo Jojo",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical"   
+            "major": "Electrical"
         },
         {
             "img": "469.jpg",
@@ -412,7 +412,7 @@
             "pin": "469",
             "pledge_name": "Magnets",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Aerospace"   
+            "major": "Aerospace"
         },
         {
             "img": "470.jpg",
@@ -420,7 +420,7 @@
             "pin": "470",
             "pledge_name": "Half Hour",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Mechanical"   
+            "major": "Mechanical"
         },
         {
             "img": "471.jpg",
@@ -428,7 +428,7 @@
             "pin": "471",
             "pledge_name": "I'm the Map",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Mechanical"   
+            "major": "Mechanical"
         },
         {
             "img": "472.jpg",
@@ -436,8 +436,8 @@
             "pin": "472",
             "pledge_name": "JFKFDR",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical",   
-            "officer_letters": "0xBAE"
+            "major": "Electrical",
+            "officer_letters": "0xBAE W!"
         },
         {
             "img": "473.jpg",
@@ -445,7 +445,7 @@
             "pin": "473",
             "pledge_name": "Lonestar",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "474.jpg",
@@ -453,7 +453,7 @@
             "pin": "474",
             "pledge_name": "M.D.,Ph.D",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical" 
+            "major": "Electrical"
         },
         {
             "img": "475.jpg",
@@ -461,7 +461,7 @@
             "pin": "475",
             "pledge_name": "Long Khan",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "476.jpg",
@@ -469,7 +469,7 @@
             "pin": "476",
             "pledge_name": "Spike",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "477.jpg",
@@ -477,7 +477,7 @@
             "pin": "477",
             "pledge_name": "CORN",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Biomedical" 
+            "major": "Biomedical"
         },
         {
             "img": "478.jpg",
@@ -485,7 +485,7 @@
             "pin": "478",
             "pledge_name": "Krakatoga",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical" 
+            "major": "Electrical"
         },
         {
             "img": "479.jpg",
@@ -493,7 +493,7 @@
             "pin": "479",
             "pledge_name": "Plant",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Civil" 
+            "major": "Civil"
         },
         {
             "img": "480.jpg",
@@ -501,7 +501,7 @@
             "pin": "480",
             "pledge_name": "Hey! Get ciggy with it",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "481.jpg",
@@ -509,7 +509,7 @@
             "pin": "481",
             "pledge_name": "Marinara",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "482.jpg",
@@ -517,7 +517,8 @@
             "pin": "482",
             "pledge_name": "How you doin'",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical"  
+            "major": "Electrical",
+            "officer_letters": "0xDECAF"
         },
         {
             "img": "483.jpg",
@@ -525,7 +526,7 @@
             "pin": "483",
             "pledge_name": "Dankey Kang",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Biomedical" 
+            "major": "Biomedical"
         },
         {
             "img": "484.jpg",
@@ -533,7 +534,8 @@
             "pin": "484",
             "pledge_name": "Awimbawe",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical" 
+            "major": "Mechanical",
+            "officer_letters": "U!"
         },
         {
             "img": "485.jpg",
@@ -541,7 +543,7 @@
             "pin": "485",
             "pledge_name": "Teacup",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Civil" 
+            "major": "Civil"
         },
         {
             "img": "486.jpg",
@@ -549,7 +551,7 @@
             "pin": "486",
             "pledge_name": "Toe Toe",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical"  
+            "major": "Electrical"
         },
         {
             "img": "487.jpg",
@@ -557,7 +559,7 @@
             "pin": "487",
             "pledge_name": "Mr. Jingles",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Chemical" 
+            "major": "Chemical"
         },
         {
             "img": "488.jpg",
@@ -565,7 +567,8 @@
             "pin": "488",
             "pledge_name": "Lumbergh",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical" 
+            "major": "Electrical",
+            "officer_letters": "U!"
         },
         {
             "img": "489.jpg",
@@ -573,7 +576,7 @@
             "pin": "489",
             "pledge_name": "Çháñ-yé",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Civil" 
+            "major": "Civil"
         },
         {
             "img": "491.jpg",
@@ -581,7 +584,7 @@
             "pin": "491",
             "pledge_name": "Aviató",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Biomedical" 
+            "major": "Biomedical"
         },
         {
             "img": "492.jpg",
@@ -589,7 +592,8 @@
             "pin": "492",
             "pledge_name": "Piccolo",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical" 
+            "major": "Electrical",
+            "officer_letters": "T!"
         },
         {
             "img": "493.jpg",
@@ -597,7 +601,7 @@
             "pin": "493",
             "pledge_name": "Stabby Stabby",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "494.jpg",
@@ -605,7 +609,7 @@
             "pin": "494",
             "pledge_name": "Rock Lobsta",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Civil" 
+            "major": "Civil"
         },
         {
             "img": "495.jpg",
@@ -613,7 +617,7 @@
             "pin": "495",
             "pledge_name": "Felix",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "496.jpg",
@@ -621,7 +625,7 @@
             "pin": "496",
             "pledge_name": "Squidward",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Aerospace" 
+            "major": "Aerospace"
         },
         {
             "img": "497.jpg",
@@ -629,7 +633,7 @@
             "pin": "497",
             "pledge_name": "Pina Coladas",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Electrical" 
+            "major": "Electrical"
         },
         {
             "img": "498.jpg",
@@ -637,7 +641,7 @@
             "pin": "498",
             "pledge_name": "Straw House",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Biomedical" 
+            "major": "Biomedical"
         },
         {
             "img": "499.JPG",
@@ -645,7 +649,7 @@
             "pin": "499",
             "pledge_name": "Oz",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Aerospace" 
+            "major": "Aerospace"
         },
         {
             "img": "500.jpg",
@@ -653,7 +657,7 @@
             "pin": "500",
             "pledge_name": "MURF",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Civil" 
+            "major": "Civil"
         },
         {
             "img": "501.jpg",
@@ -661,7 +665,8 @@
             "pin": "501",
             "pledge_name": "Zed",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical" 
+            "major": "Mechanical",
+            "officer_letters": "V!"
         },
         {
             "img": "502.jpg",
@@ -669,7 +674,7 @@
             "pin": "502",
             "pledge_name": "77 donuts",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Electrical" 
+            "major": "Electrical"
         },
         {
             "img": "503.jpg",
@@ -677,7 +682,7 @@
             "pin": "503",
             "pledge_name": "Saltbae",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "504.jpg",
@@ -685,7 +690,7 @@
             "pin": "504",
             "pledge_name": "Bruiser",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Electrical" 
+            "major": "Electrical"
         },
         {
             "img": "505.jpg",
@@ -693,7 +698,7 @@
             "pin": "505",
             "pledge_name": "Hooper",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "506.jpg",
@@ -701,7 +706,8 @@
             "pin": "506",
             "pledge_name": "Clementine",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Biomedical" 
+            "major": "Biomedical",
+            "officer_letters": "T!"
         },
         {
             "img": "507.jpg",
@@ -709,7 +715,7 @@
             "pin": "508",
             "pledge_name": "Shrugs",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Aerospace" 
+            "major": "Aerospace"
         },
         {
             "img": "508.jpg",
@@ -717,7 +723,7 @@
             "pin": "508",
             "pledge_name": "220 Grit",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         },
         {
             "img": "509.jpg",
@@ -725,7 +731,7 @@
             "pin": "509",
             "pledge_name": "JV",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Civil" 
+            "major": "Civil"
         },
         {
             "img": "510.jpg",
@@ -733,7 +739,7 @@
             "pin": "510",
             "pledge_name": "The Sneaky Pizza 9000",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Electrical" 
+            "major": "Electrical"
         },
         {
             "img": "511.jpg",
@@ -741,7 +747,7 @@
             "pin": "511",
             "pledge_name": "Francis",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Biomedical" 
+            "major": "Biomedical"
         },
         {
             "img": "512.jpg",
@@ -749,7 +755,7 @@
             "pin": "512",
             "pledge_name": "Goddard",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Chemical" 
+            "major": "Chemical"
         },
         {
             "img": "513.jpg",
@@ -757,7 +763,7 @@
             "pin": "513",
             "pledge_name": "The sum from i=1 to 8 of Buffalo sub i",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical" 
+            "major": "Mechanical"
         }
     ]
 }
