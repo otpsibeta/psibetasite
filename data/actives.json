@@ -764,6 +764,206 @@
             "pledge_name": "The sum from i=1 to 8 of Buffalo sub i",
             "pledge_class": "Iota Gamma S'17",
             "major": "Mechanical"
+        },
+        {
+            "img": "514.jpg",
+            "name": "An Nguyen",
+            "pin": "514",
+            "pledge_name": "$5 Foot Long",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "515.jpg",
+            "name": "Shay Rutenberg",
+            "pin": "515",
+            "pledge_name": "You're good",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Civil"
+        },
+        {
+            "img": "516.jpg",
+            "name": "Rachel Sutherland",
+            "pin": "516",
+            "pledge_name": "Phil",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Civil"
+        },
+        {
+            "img": "517.jpg",
+            "name": "Michael Normand",
+            "pin": "517",
+            "pledge_name": "Talladega",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Mechanical"
+        },
+        {
+            "img": "518.jpg",
+            "name": "Nicole Finks",
+            "pin": "518",
+            "pledge_name": "Ants",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "519.jpg",
+            "name": "Kristina Yu",
+            "pin": "519",
+            "pledge_name": "Organ Donor",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "520.jpg",
+            "name": "Glenn Rodgers",
+            "pin": "520",
+            "pledge_name": "Bikini",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "521.jpg",
+            "name": "Parisa Mahmud",
+            "pin": "521",
+            "pledge_name": "Rug",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "522.jpg",
+            "name": "Brent Milligan",
+            "pin": "522",
+            "pledge_name": "Broccoli",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Mechanical"
+        },
+        {
+            "img": "523.jpg",
+            "name": "Katya Wittliff",
+            "pin": "523",
+            "pledge_name": "What are THOSE?!",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Biomedical"
+        },
+        {
+            "img": "524.jpg",
+            "name": "Nick Felty",
+            "pin": "524",
+            "pledge_name": "NXNW",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Mechanical"
+        },
+        {
+            "img": "525.jpg",
+            "name": "Hana Kim",
+            "pin": "525",
+            "pledge_name": "Scrimgeour",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Biomedical"
+        },
+        {
+            "img": "526.jpg",
+            "name": "Mike Galdamez",
+            "pin": "526",
+            "pledge_name": "The New Jersey Tumpike",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Mechanical"
+        },
+        {
+            "img": "527.jpg",
+            "name": "Jacob Greenly",
+            "pin": "527",
+            "pledge_name": "Tokyo Drift",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Aerospace"
+        },
+        {
+            "img": "528.jpg",
+            "name": "Ekin Ugurel",
+            "pin": "528",
+            "pledge_name": "Jager Bomb",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Civil"
+        },
+        {
+            "img": "529.jpg",
+            "name": "Nicole Cravey",
+            "pin": "529",
+            "pledge_name": "Tandy",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Aerospace"
+        },
+        {
+            "img": "530.jpg",
+            "name": "Peter Haase",
+            "pin": "530",
+            "pledge_name": "Half-Life 3",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Mechanical"
+        },
+        {
+            "img": "531.jpg",
+            "name": "Henry Arjet",
+            "pin": "531",
+            "pledge_name": "Let it rip",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Aerospace"
+        },
+        {
+            "img": "532.jpg",
+            "name": "Suhas Raja",
+            "pin": "532",
+            "pledge_name": "Spaghetti-O's",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "533.jpg",
+            "name": "Kreshel Nguyen",
+            "pin": "533",
+            "pledge_name": "Fetch",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Computational"
+        },
+        {
+            "img": "534.jpg",
+            "name": "Caleb Sepulveda",
+            "pin": "534",
+            "pledge_name": "The Graduate",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "535.jpg",
+            "name": "Dylan Wolford",
+            "pin": "535",
+            "pledge_name": "Flavortown",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "536.jpg",
+            "name": "Swathi Dochibhotla",
+            "pin": "536",
+            "pledge_name": "Vincent",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
+        },
+        {
+            "img": "537.jpg",
+            "name": "Kristen Pallesen",
+            "pin": "537",
+            "pledge_name": "POWER",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Aerospace"
+        },
+        {
+            "img": "538.jpg",
+            "name": "David Yuan",
+            "pin": "538",
+            "pledge_name": "Roomba",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical"
         }
     ]
 }
