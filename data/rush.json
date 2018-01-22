@@ -15,11 +15,25 @@
             "gmaps": "https://goo.gl/maps/cwP5pTLeUAs"
         },
         {
+            "type": "Dunkin' Donuts + Baskin Robbins",
+            "date": "1/23",
+            "time": "6:00pm-7:00pm",
+            "location": "Dunkin' Donuts On Guad",
+            "gmaps": "https://goo.gl/maps/7Fp5y14HZK12"
+        },
+        {
             "type": "Info Session #3",
             "date": "1/24",
             "time": "5:00pm-6:00pm",
             "location": "CPE 2.204",
             "gmaps": "https://goo.gl/maps/BwJtU6dAq9k"
+        },
+        {
+            "type": "Mango 8",
+            "date": "1/24",
+            "time": "6:00pm-7:00pm",
+            "location": "Mango 8 On 24th St",
+            "gmaps": "https://goo.gl/maps/wFgTbELRyTK2"
         },
         {
             "type": "Info Session #4",
