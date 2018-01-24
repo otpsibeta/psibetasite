@@ -16,7 +16,7 @@
             "pledge_name": "Radcliffe",
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
-            "officer_letters": "W! 0xDEADBEEF"
+            "officer_letters": "WW! 0xDEAD"
         },
         {
             "img": "381.jpg",
@@ -25,7 +25,7 @@
             "pledge_name": "Nesquik",
             "pledge_class": "Psi Beta S'13",
             "major": "Mechanical",
-            "officer_letters": "U! Y! R! 0xDEADBEEF"
+            "officer_letters": "UU! YY! RR! 0xDEAD"
         },
         {
             "img": "382.jpg",
@@ -34,7 +34,7 @@
             "pledge_name": "Touché",
             "pledge_class": "Omega Beta F'13",
             "major": "Mechanical",
-            "officer_letters": "T! U! X!"
+            "officer_letters": "TT! UU! XX!"
         },
         {
             "img": "411.jpg",
@@ -43,7 +43,7 @@
             "pledge_name": "ESPN",
             "pledge_class": "Epsilon Gamma F'14",
             "major": "Chemical",
-            "officer_letters": "Z!"
+            "officer_letters": "ZZ!"
         },
         {
             "img": "413.jpg",
@@ -52,7 +52,7 @@
             "pledge_name": "±1",
             "pledge_class": "Epsilon Gamma F'14",
             "major": "Aerospace",
-            "officer_letters": "R!"
+            "officer_letters": "RR!"
         },
         {
             "img": "414.jpg",
@@ -117,7 +117,7 @@
             "pledge_name": "Art",
             "pledge_class": "Epsilon Gamma F'14",
             "major": "Aerospace",
-            "officer_letters": "W! X!"
+            "officer_letters": "WW! XX!"
         },
         {
             "img": "427.jpg",
@@ -166,7 +166,7 @@
             "pledge_name": "5000 Pokédollars",
             "pledge_class": "Zeta Gamma S'15",
             "major": "Mechanical",
-            "officer_letters": "R!"
+            "officer_letters": "RR!"
         },
         {
             "img": "435.JPG",
@@ -231,7 +231,7 @@
             "pledge_name": "Shiny Teeth",
             "pledge_class": "Zeta Gamma S'15",
             "major": "Mechanical",
-            "officer_letters": "U! Y!"
+            "officer_letters": "UU! YY!"
         },
         {
             "img": "446.JPG",
@@ -265,7 +265,7 @@
             "pledge_name": "Danke",
             "pledge_class": "Eta Gamma F'15",
             "major": "Mechanical",
-            "officer_letters": "T!"
+            "officer_letters": "TT!"
         },
         {
             "img": "451.jpg",
@@ -274,7 +274,7 @@
             "pledge_name": "New Hampster",
             "pledge_class": "Eta Gamma F'15",
             "major": "Aerospace",
-            "officer_letters": "U! Y!"
+            "officer_letters": "UU! YY!"
         },
         {
             "img": "452.jpg",
@@ -315,7 +315,7 @@
             "pledge_name": "$weet Dolla Iced Tea",
             "pledge_class": "Eta Gamma F'15",
             "major": "Electrical",
-            "officer_letters": "V! W!"
+            "officer_letters": "VV! WW!"
         },
         {
             "img": "457.jpg",
@@ -324,11 +324,11 @@
             "pledge_name": "Wobuffet",
             "pledge_class": "Eta Gamma F'15",
             "major": "Electrical",
-            "officer_letters": "R!"
+            "officer_letters": "RR!"
         },
         {
             "img": "459.jpg",
-            "name": "April Collette :fried_shrimp:",
+            "name": "April Collette",
             "pin": "459",
             "pledge_name": "Dadliest Catch",
             "pledge_class": "Eta Gamma F'15",
@@ -469,7 +469,8 @@
             "pin": "476",
             "pledge_name": "Spike",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "X!"
         },
         {
             "img": "477.jpg",
@@ -568,7 +569,7 @@
             "pledge_name": "Lumbergh",
             "pledge_class": "Theta Gamma F'16",
             "major": "Electrical",
-            "officer_letters": "U!"
+            "officer_letters": "UU!"
         },
         {
             "img": "489.jpg",
@@ -593,7 +594,7 @@
             "pledge_name": "Piccolo",
             "pledge_class": "Theta Gamma F'16",
             "major": "Electrical",
-            "officer_letters": "T!"
+            "officer_letters": "TT!"
         },
         {
             "img": "493.jpg",
