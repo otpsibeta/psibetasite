@@ -99,5 +99,18 @@
             "email": "petitjean.luis@gmail.com",
             "position": "Webmaster"
         }
+    ],
+    "committee_heads" : [
+        {
+            "img": "",
+            "name": "",
+            "pin": "",
+            "pledge_name": "",
+            "pledge_class": "",
+            "major": "",
+            "officer_letters": "0xDECAF",
+            "email": "#",
+            "position": ""
+        }
     ]
 }
