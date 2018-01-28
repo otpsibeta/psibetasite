@@ -64,18 +64,25 @@
             "gmaps": "https://goo.gl/maps/kTjPKFs1vpF2"
         },
         {
-            "type": "EXPO + Resume Workshop",
+            "type": "Study Hours",
             "date": "1/30",
-            "time": "6:00pm",
-            "location": "TBD",
-            "gmaps": "#"
+            "time": "8:00pm-12:00am",
+            "location": "ETC",
+            "gmaps": "https://goo.gl/maps/g9Ees3fAgTz"
+        },
+        {
+            "type": "EXPO + Resume Workshop",
+            "date": "1/31",
+            "time": "6:00pm-7:00pm",
+            "location": "RLM 5.114",
+            "gmaps": "https://goo.gl/maps/Nvbqh9gWQhn"
         },
         {
             "type": "Rush Interviews",
             "date": "2/1",
             "time": "6:30pm",
-            "location": "TBD",
-            "gmaps": "#"
+            "location": "ETC",
+            "gmaps": "https://goo.gl/maps/g9Ees3fAgTz"
         }
     ],
     "closed_rush_events": [
