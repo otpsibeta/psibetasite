@@ -8,6 +8,10 @@ body {
     background-color: #fbfbfb;
 }
 
+.line {
+    border-bottom: 1px solid #e8e8e8;
+}
+
 .billboard {
     height: 650px;
     background: url('../img/splash.jpg') no-repeat center center;
