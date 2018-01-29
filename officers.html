@@ -74,14 +74,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <h1 class="text-center">Our Officers</h1>
+                    <h1 class="text-center">Officers</h1>
                 </div>
             </div>
             <div id="officers-list"></div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1 class="text-center">Committee Heads</h1>
+                </div>
+            </div>
+            <div id="committee-heads-list"></div>
         </div>
 
         <script id="officers-list-template" type="text/x-handlebars-template">
-{{#everyNth officers 6}}
+{{#everyNth this 6}}
     {{#if isModZeroNotFirst}}
         </div>
     {{/if}}
@@ -141,7 +147,8 @@
             var template = Handlebars.compile(source);
 
             $.getJSON("data/officers.json", function(data) {
-                $("#officers-list").append(template(data));
+                $("#officers-list").append(template(data.officers));
+                $("#committee-heads-list").append(template(data.comm_heads));
                 $('.emoji').each(function(index, e) {
                     var output = emojione.shortnameToImage($(this).text());
                     $(this).replaceWith(output);

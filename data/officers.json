@@ -100,17 +100,108 @@
             "position": "Webmaster"
         }
     ],
-    "committee_heads" : [
+    "comm_heads": [
         {
-            "img": "",
-            "name": "",
-            "pin": "",
-            "pledge_name": "",
-            "pledge_class": "",
-            "major": "",
-            "officer_letters": "0xDECAF",
+            "img": "512.jpg",
+            "name": "Carl Kouta",
+            "pin": "512",
+            "pledge_name": "Goddard",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Chemical",
             "email": "#",
-            "position": ""
+            "position": "Professional Development"
+        },
+        {
+            "img": "508.jpg",
+            "name": "Jacob Sutler",
+            "pin": "508",
+            "pledge_name": "220 Grit",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Mechanical",
+            "email": "#",
+            "position": "Fundraising"
+        },
+        {
+            "img": "488.jpg",
+            "name": "Kirtana Moorthy",
+            "pin": "488",
+            "pledge_name": "Lumbergh",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Electrical",
+            "officer_letters": "UU!",
+            "email": "#",
+            "position": "Community Service"
+        },
+        {
+            "img": "533.jpg",
+            "name": "Kreshel Nguyen",
+            "pin": "533",
+            "pledge_name": "Fetch",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Computational",
+            "email": "#",
+            "position": "SEC Representative"
+        },
+        {
+            "img": "479.jpg",
+            "name": "Sarah Deek",
+            "pin": "479",
+            "pledge_name": "Plant",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Civil",
+            "email": "#",
+            "position": "SEC Representative"
+        },
+        {
+            "img": "456.jpg",
+            "name": "Minh Van-Dinh",
+            "pin": "456",
+            "pledge_name": "$weet Dolla Iced Tea",
+            "pledge_class": "Eta Gamma F'15",
+            "major": "Electrical",
+            "officer_letters": "VV! WW!",
+            "email": "#",
+            "position": "Swag"
+        },
+        {
+            "img": "518.jpg",
+            "name": "Nicole Finks",
+            "pin": "518",
+            "pledge_name": "Ants",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Electrical",
+            "email": "#",
+            "position": "Social"
+        },
+        {
+            "img": "516.jpg",
+            "name": "Rachel Sutherland",
+            "pin": "516",
+            "pledge_name": "Phil",
+            "pledge_class": "Kappa Gamma F'17",
+            "major": "Civil",
+            "email": "#",
+            "position": "Social Media"
+        },
+        {
+            "img": "498.jpg",
+            "name": "Tyler Chinn",
+            "pin": "498",
+            "pledge_name": "Straw House",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Biomedical",
+            "email": "#",
+            "position": "Academic"
+        },
+        {
+            "img": "480.jpg",
+            "name": "Jose Belisario",
+            "pin": "480",
+            "pledge_name": "Hey! Get ciggy with it",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Mechanical",
+            "email": "#",
+            "position": "Health & Wellness"
         }
     ]
 }
