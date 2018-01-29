@@ -8,7 +8,7 @@
             "pledge_class": "Theta Gamma F'16",
             "major": "Mechanical",
             "officer_letters": "X!",
-            "email": "kenz@utexas.edu",
+            "email": "mailto:kenz@utexas.edu",
             "position": "Regent"
         },
         {
@@ -30,7 +30,7 @@
             "pledge_class": "Iota Gamma S'17",
             "major": "Mechanical",
             "officer_letters": "V!",
-            "email": "Ljnijland@gmail.com",
+            "email": "mailto:Ljnijland@gmail.com",
             "position": "Scribe"
         },
         {
@@ -52,7 +52,7 @@
             "pledge_class": "Theta Gamma F'16",
             "major": "Electrical",
             "officer_letters": "0xBAE W!",
-            "email": "josephbae@utexas.edu",
+            "email": "mailto:josephbae@utexas.edu",
             "position": "Pledge Marshal"
         },
         {
@@ -74,7 +74,7 @@
             "pledge_class": "Theta Gamma F'16",
             "major": "Mechanical",
             "officer_letters": "U!",
-            "email": "osalmacar@utexas.edu",
+            "email": "mailto:osalmacar@utexas.edu",
             "position": "Outer Guard"
         },
         {
@@ -85,7 +85,7 @@
             "pledge_class": "Iota Gamma S'17",
             "major": "Biomedical",
             "officer_letters": "T!",
-            "email": "julialromero@utexas.edu",
+            "email": "mailto:julialromero@utexas.edu",
             "position": "Inner Guard"
         },
         {
@@ -96,7 +96,7 @@
             "pledge_class": "Theta Gamma F'16",
             "major": "Electrical",
             "officer_letters": "0xDECAF",
-            "email": "petitjean.luis@gmail.com",
+            "email": "mailto:petitjean.luis@gmail.com",
             "position": "Webmaster"
         }
     ],
