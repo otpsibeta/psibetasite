@@ -1,0 +1,12 @@
+.officer-frame {
+    width: 33%;
+    height: auto;
+}
+
+.officer-img {
+    display: inline-block;
+}
+
+.officer-ul {
+    display: inline-block;
+}
