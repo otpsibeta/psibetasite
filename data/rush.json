@@ -67,7 +67,7 @@
             "type": "Study Hours",
             "date": "1/30",
             "time": "8:00pm-12:00am",
-            "location": "ETC",
+            "location": "RLM 6.104",
             "gmaps": "https://goo.gl/maps/g9Ees3fAgTz"
         },
         {
@@ -81,7 +81,7 @@
             "type": "Rush Interviews",
             "date": "2/1",
             "time": "6:30pm",
-            "location": "ETC",
+            "location": "ETC 2.136",
             "gmaps": "https://goo.gl/maps/g9Ees3fAgTz"
         }
     ],
