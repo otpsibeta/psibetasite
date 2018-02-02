@@ -20,6 +20,7 @@
         <script src="//cdn.jsdelivr.net/emojione/1.5.0/lib/js/emojione.min.js"></script>
         <link rel="stylesheet" href="//cdn.jsdelivr.net/emojione/1.5.0/assets/css/emojione.min.css" />
         <link href='css/style.css' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="/css/officers_style.css" type="text/css">
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112784200-1">
         </script>
@@ -71,13 +72,13 @@
             </div><!-- .container-fluid -->
         </nav>
 
-        <div class="container">
+        <div class="container  nav-margin">
             <div class="row">
                 <div class="col-xs-12">
                     <h1 class="text-center">Officers</h1>
                 </div>
             </div>
-            <div id="officers-list"></div>
+            <div class="officers-line" id="officers-list"></div>
             <div class="row">
                 <div class="col-xs-12">
                     <h1 class="text-center">Committee Heads</h1>
@@ -94,30 +95,33 @@
     {{#if isModZero}}
         <div class="row">
     {{/if}}
-        <div class="col-xs-6 col-sm-4 col-md-2">
-            <div class="thumbnail">
+        <div class="col-xs-12 col-sm-4" align="center">
+            <div class="officer-frame" align="center">
+                <span class="officer-pos">{{position}}</span>
                 {{#if img}}
-                    <img class='img-responsive img-thumbnail' src="img/members/{{img}}">
+                    <img class="officer-img img-responsive img-thumbnail"src="/img/members/{{img}}" alt="Bryan Boucher">
                 {{else}}
                     <img class='img-responsive img-thumbnail' src="img/missing.png">
                 {{/if}}
-                <div class="caption">
-                    <ul class="list-unstyled">
-                        <li><span class="label label-primary">#{{pin}}</span> <span class="label label-warning">{{officer_letters}}</span></li>
-                        <li><h5>{{position}}</h5></li>
-                        <li><strong>{{name}}</strong></li>
-                        <li class="emoji">"{{pledge_name}}"</li>
-                        <li>{{pledge_class}}</li>
-                        <li>{{major}}</li>
-                        <li><a class="btn btn-sm btn-primary" href="{{email}}" role="button">Email</a></li>
+                    <ul class="officer-ul">
+                        <ul class="officer-name">
+                            <li>{{name}}</li>
+                        </ul>
+                        <ul class="officer-data">
+                            <li>{{pledge_class}}</li>
+                            <li>{{major}}</li>
+                            <li><a href="mailto:{{email}}">{{email-name}}</a></li>
+                        </ul>
+                        <ul class="officer-letters">
+                            <li><span class="label label-primary" style="margin-right: 10px">#{{pin}}</span><span class="label label-warning">{{officer_letters}}</span></li>
+                        </ul>
                     </ul>
-                </div>
             </div>
         </div>
     {{#if isLast}}
     {{/if}}
 {{/everyNth}}
-        </script>
+</script>
 
         <script type="text/javascript" src="//cdn.jsdelivr.net/jquery/2.1.1/jquery.min.js"></script>
         <script type="text/javascript" src="//cdn.jsdelivr.net/handlebarsjs/1.3.0/handlebars.min.js"></script>
