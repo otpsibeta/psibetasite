@@ -6,9 +6,9 @@
             "pin": "476",
             "pledge_name": "Spike",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical",
+            "major": "Mechanical Engineering",
             "officer_letters": "X!",
-            "email": "mailto:kenz@utexas.edu",
+            "email": "kenz@utexas.edu",
             "position": "Regent"
         },
         {
@@ -17,9 +17,9 @@
             "pin": "493",
             "pledge_name": "Stabby Stabby",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical",
+            "major": "Mechanical Engineering",
             "officer_letters": "Y!",
-            "email": "#",
+            "email": "mitchelwalker219@gmail.com",
             "position": "Vice Regent"
         },
         {
@@ -28,9 +28,9 @@
             "pin": "501",
             "pledge_name": "Zed",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical",
+            "major": "Mechanical Engineering",
             "officer_letters": "V!",
-            "email": "mailto:Ljnijland@gmail.com",
+            "email": "ljnijland@gmail.com",
             "position": "Scribe"
         },
         {
@@ -39,9 +39,9 @@
             "pin": "448",
             "pledge_name": "Flossy",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Civil",
+            "major": "Civil Engineering",
             "officer_letters": "TT! Z!",
-            "email": "#",
+            "email": "allisonschaub@utexas.edu",
             "position": "Treasurer"
         },
         {
@@ -50,9 +50,9 @@
             "pin": "472",
             "pledge_name": "JFKFDR",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical",
+            "major": "Electrical Engineering",
             "officer_letters": "0xBAE W!",
-            "email": "mailto:josephbae@utexas.edu",
+            "email": "josephbae@utexas.edu",
             "position": "Pledge Marshal"
         },
         {
@@ -61,9 +61,9 @@
             "pin": "353",
             "pledge_name": "Toofbrush",
             "pledge_class": "Chi Beta F'12",
-            "major": "Electrical",
+            "major": "Electrical Engineering",
             "officer_letters": "TT! ZZ! R!",
-            "email": "#",
+            "email": "bryan.boucher@utexas.edu",
             "position": "Corresponding Secretary"
         },
         {
@@ -72,9 +72,9 @@
             "pin": "484",
             "pledge_name": "Awimbawe",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical",
+            "major": "Mechanical Engineering",
             "officer_letters": "U!",
-            "email": "mailto:osalmacar@utexas.edu",
+            "email": "osalmacar@utexas.edu",
             "position": "Outer Guard"
         },
         {
@@ -83,9 +83,9 @@
             "pin": "506",
             "pledge_name": "Clementine",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Biomedical",
+            "major": "Biomedical Engineering",
             "officer_letters": "T!",
-            "email": "mailto:julialromero@utexas.edu",
+            "email": "julialromero@utexas.edu",
             "position": "Inner Guard"
         },
         {
@@ -94,9 +94,9 @@
             "pin": "482",
             "pledge_name": "How you doin'",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical",
+            "major": "Electrical Engineering",
             "officer_letters": "0xDECAF",
-            "email": "mailto:petitjean.luis@gmail.com",
+            "email": "petitjean.luis@gmail.com",
             "position": "Webmaster"
         }
     ],
@@ -107,7 +107,7 @@
             "pin": "512",
             "pledge_name": "Goddard",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Chemical",
+            "major": "Chemical Engineering",
             "email": "https://i.amz.mshcdn.com/URoBdfh6G_-o8lNaH620WvL2YaM=/1200x627/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fstory%2Fthumbnail%2F21738%2F592857175_640.jpg",
             "position": "Professional Development"
         },
@@ -117,7 +117,7 @@
             "pin": "508",
             "pledge_name": "220 Grit",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical",
+            "major": "Mechanical Engineering",
             "email": "#",
             "position": "Fundraising"
         },
@@ -127,7 +127,7 @@
             "pin": "488",
             "pledge_name": "Lumbergh",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical",
+            "major": "Electrical Engineering",
             "officer_letters": "UU!",
             "email": "#",
             "position": "Community Service"
@@ -138,7 +138,7 @@
             "pin": "533",
             "pledge_name": "Fetch",
             "pledge_class": "Kappa Gamma F'17",
-            "major": "Computational",
+            "major": "Computational Engineering",
             "email": "#",
             "position": "SEC Representative"
         },
@@ -148,7 +148,7 @@
             "pin": "479",
             "pledge_name": "Plant",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Civil",
+            "major": "Civil Engineering",
             "email": "#",
             "position": "SEC Representative"
         },
@@ -158,7 +158,7 @@
             "pin": "456",
             "pledge_name": "$weet Dolla Iced Tea",
             "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical",
+            "major": "Electrical Engineering",
             "officer_letters": "VV! WW!",
             "email": "https://i.amz.mshcdn.com/URoBdfh6G_-o8lNaH620WvL2YaM=/1200x627/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fstory%2Fthumbnail%2F21738%2F592857175_640.jpg",
             "position": "Swag"
@@ -169,7 +169,7 @@
             "pin": "518",
             "pledge_name": "Ants",
             "pledge_class": "Kappa Gamma F'17",
-            "major": "Electrical",
+            "major": "Electrical Engineering",
             "email": "#",
             "position": "Social"
         },
@@ -179,7 +179,7 @@
             "pin": "516",
             "pledge_name": "Phil",
             "pledge_class": "Kappa Gamma F'17",
-            "major": "Civil",
+            "major": "Civil Engineering",
             "email": "#",
             "position": "Social Media"
         },
@@ -189,7 +189,7 @@
             "pin": "498",
             "pledge_name": "Straw House",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Biomedical",
+            "major": "Biomedical Engineering",
             "email": "#",
             "position": "Academic"
         },
@@ -199,7 +199,7 @@
             "pin": "480",
             "pledge_name": "Hey! Get ciggy with it",
             "pledge_class": "Theta Gamma F'16",
-            "major": "Mechanical",
+            "major": "Mechanical Engineering",
             "email": "#",
             "position": "Health & Wellness"
         }
