@@ -1,0 +1,26 @@
+; Catherine Kauffman
+; 2/28/2018
+; Lab 1
+
+; This code loads the address of an ASCII code, then loads the ASCII code itself and the following two memory locations with ASCII codes.
+; It decrypts the letters to reveal the true word (assuming the encryption is that of the first letter being one ASCII character 
+; ahead, the second letter being two ASCII characters ahead, and the third letter being four ASCII characters ahead).
+; Then the program stores the new letters in the same respective address locations in the memory.
+
+0011000000000000 ; origin at x3000
+
+0010 000 000011111; LD, R0, offset x1F. This loads the data in x3020 to register R0.
+
+0110 001 000 000000 ; LDR, R1, R0, offset #0. This loads the data in the address specified in R0 to R1.
+0110 010 000 000001 ; LDR, R2, R0, offset #1. This loads the data in the address after the one specified in R0 into R2.
+0110 011 000 000010 ; LDR, R3, R0, offset #2. This loads the data two addresses after the one specified in R0 into R3.
+
+0001 001 001 1 11111 ; subtract 1 from data in R1, place in R1
+0001 010 010 1 11110 ; subtract 2 from data in R2, place in R2
+0001 011 011 1 11100 ; subtract 4 from data in R3, place in R3
+
+0111 001 000 000000 ; store R1 in address specified by R0.
+0111 010 000 000001 ; store R2 in the address one later than the one specified by R0.
+0111 011 000 000010 ; store R3 in address two later than the one specified by R0.
+
+1111 0000 0010 0101 ; halt x25
