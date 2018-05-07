@@ -38,7 +38,7 @@ For the most part, all you really need to do is move the members from the active
 
 
 For OFFICERS:
-For the most part, officers is also the same. Might help to have a seperate list to refer to for the new semester's officer's names, pins, pledge names, pledge classes, majors, and emails.
+For the most part, officers is also the same. Might help to have a seperate list to refer to for the new semester's officer's names, pins, pledge names, pledge classes, majors, and emails. Double letters are given when they are done with their position.
 
 Template for Officer Position is as follows:
 		{
@@ -67,7 +67,7 @@ Webmaster: 0xDEADBEEF (This one can change, just make sure it's hex so A-F lette
 For RUSH:
 Make sure to talk to the rush chairs and have this up IMMEDIATELY. This is the most important thing you should do and make sure you do this before everything else.
 
-Template for Rush is as follows: 
+Template for Rush is as follows:
 		{
             "type": "Info Session #1",
             "date": "8/31",
@@ -77,4 +77,3 @@ Template for Rush is as follows:
         },
 
 The google maps for each event does need to be updated if the events are in different locations. You can always move around events that'll be pretty common.
-

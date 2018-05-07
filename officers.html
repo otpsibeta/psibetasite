@@ -79,11 +79,11 @@
                 </div>
             </div>
             <div class="officers-line" id="officers-list"></div>
-            <div class="row">
+            <!--<div class="row">
                 <div class="col-xs-12">
                     <h1 class="text-center">Committee Heads</h1>
                 </div>
-            </div>
+            </div>-->
             <div id="committee-heads-list"></div>
         </div>
 
@@ -152,7 +152,7 @@
 
             $.getJSON("data/officers.json", function(data) {
                 $("#officers-list").append(template(data.officers));
-                $("#committee-heads-list").append(template(data.comm_heads));
+                //$("#committee-heads-list").append(template(data.comm_heads));
                 $('.emoji').each(function(index, e) {
                     var output = emojione.shortnameToImage($(this).text());
                     $(this).replaceWith(output);
