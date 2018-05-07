@@ -1,7 +1,7 @@
 {
     "officers": [
         {
-            "img": "353.jpg",
+            "img": "353.JPG",
             "name": "Bryan Boucher",
             "pin": "353",
             "pledge_name": "Toofbrush",
@@ -13,7 +13,7 @@
             "position": "Regent"
         },
         {
-            "img": "498.jpg",
+            "img": "498.JPG",
             "name": "Tyler Chinn",
             "pin": "498",
             "pledge_name": "Straw House",
@@ -37,7 +37,7 @@
             "position": "Scribe"
         },
         {
-            "img": "484.jpg",
+            "img": "484.JPG",
             "name": "Alejandro Martin",
             "pin": "484",
             "pledge_name": "Awimbawe",
