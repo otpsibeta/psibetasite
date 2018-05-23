@@ -4,11 +4,15 @@
     display: block;
 }
 
+.rush-title {
+    text-align: center;
+}
+
 .rush-info {
     margin: 0 auto;
     width: 70%;
-    text-align: left;
-    font-size: 130%;
+    text-align: center;
+    font-size: 200%;
     padding-bottom: 20px;
 }
 
@@ -16,7 +20,7 @@
     box-sizing: content-box;
     background-color: #e8e8e8;
     margin: 12px auto 40px auto;
-    width: 280px;
+    width: 300px;
     padding: 12px;
     border-radius: 10px;
 }
