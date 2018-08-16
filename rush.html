@@ -67,14 +67,9 @@
             <div class="row rush-title">
                     <h1>Fall 2018 Rush</h1>
             </div>
-            <div class="row g-form">
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfl-CjWztn0B3mS5a5RhUHWGs0qTl-Pxl9SdKtSrVcxHSSstQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            <div class="row">
+                <iframe class="rush-video" width="700" height="394" src="https://www.youtube.com/embed/NkpX-LUFqs0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
-            <div class="row line">
-                <p class="rush-info">
-                    More rush information coming soon!
-                </p>
-            </div><!--
             <div class="row">
                 <div class="col-xs-12 social-info">
                     Checkout the Facebook rush group &amp; follow us on Instagram and Twitter
@@ -86,10 +81,9 @@
                     <a href="https://www.instagram.com/texasthetatau/" class="ig" target="_blank"><i class="fa fa-instagram"></i></a>
                     <a href="https://twitter.com/TexasThetaTau" class="tt" target="_blank"><i class="fa fa-twitter-square"></i></a>
                 </div>
-            </div>-->
+            </div>
         </div>
         <div class="container">
-            <!--
             <div class="row line">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
                     <h2 class="text-center">Open Rush Events</h2>
@@ -107,7 +101,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row line">
+            <!-- <div class="row line">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
                     <h2 class="text-center">Closed Rush Events</h2>
                     <div class="table-responsive">
@@ -123,13 +117,13 @@
                         </table>
                     </div>
                 </div>
-            </div>-->
+            </div> -->
             <div class="row text-center">
                 <div class="col-xs-12">
                     <h2 clas>Rush Chairs</h2>
                 </div>
             </div>
-            <div class="row line">
+            <div class="row">
                 <div class="col-xs-12 col-md-6">
                     <div class="rush-chair-box box-1">
                         <img src="img/members/514.jpg" alt="Parisa Portrait">
@@ -152,6 +146,9 @@
                         </ul>
                     </div>
                 </div>
+            </div>
+            <div class="row line">
+                <iframe class="g-form" src="https://docs.google.com/forms/d/e/1FAIpQLSfl-CjWztn0B3mS5a5RhUHWGs0qTl-Pxl9SdKtSrVcxHSSstQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" >Loading...</iframe>
             </div>
             <div class="row" id="where-to-find-us">
                 <h2 class="text-center">Weekly Events</h2>
@@ -186,7 +183,7 @@
 
             $.getJSON("data/rush.json", function(data) {
                 $("#open-table-body").append(rush_template(data.open_rush_events));
-                $("#closed-table-body").append(rush_template(data.closed_rush_events));
+                // $("#closed-table-body").append(rush_template(data.closed_rush_events));
             });
         </script>
         <div class='footer'>

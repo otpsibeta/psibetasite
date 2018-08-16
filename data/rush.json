@@ -2,124 +2,110 @@
     "open_rush_events": [
         {
             "type": "Info Session #1",
-            "date": "1/22",
-            "time": "5:00pm-6:00pm",
-            "location": "CPE 2.204",
-            "gmaps": "https://goo.gl/maps/BwJtU6dAq9k"
+            "date": "9/3",
+            "time": "7:00-8:00pm",
+            "location": "TBD",
+            "gmaps": "#"
         },
         {
             "type": "Info Session #2",
-            "date": "1/23",
-            "time": "5:00pm-6:00pm",
-            "location": "ETC 2.136",
-            "gmaps": "https://goo.gl/maps/cwP5pTLeUAs"
+            "date": "9/4",
+            "time": "6:00-7:00pm",
+            "location": "TBD",
+            "gmaps": "#"
         },
         {
-            "type": "Dunkin' Donuts + Baskin Robbins",
-            "date": "1/23",
-            "time": "6:00pm-7:00pm",
-            "location": "Dunkin' Donuts On Guad",
-            "gmaps": "https://goo.gl/maps/7Fp5y14HZK12"
+            "type": "Moojo's",
+            "date": "9/4",
+            "time": "7:00-8:00pm",
+            "location": "Moojo's On Guad",
+            "gmaps": "https://goo.gl/maps/R4eRHZdbuN12"
         },
         {
             "type": "Info Session #3",
-            "date": "1/24",
-            "time": "5:00pm-6:00pm",
-            "location": "CPE 2.204",
-            "gmaps": "https://goo.gl/maps/BwJtU6dAq9k"
-        },
-        {
-            "type": "Mango 8",
-            "date": "1/24",
-            "time": "6:00pm-8:00pm",
-            "location": "Mango 8 On 24th St",
-            "gmaps": "https://goo.gl/maps/wFgTbELRyTK2"
+            "date": "9/5",
+            "time": "7:00-8:00pm",
+            "location": "TBD",
+            "gmaps": "#"
         },
         {
             "type": "Info Session #4",
-            "date": "1/25",
-            "time": "5:00pm-6:00pm",
-            "location": "BUR 108",
-            "gmaps": "https://goo.gl/maps/grM3GYJTVyq"
-        },
-         {
-            "type": "Mount Bonnell",
-            "date": "1/26",
-            "time": "5:00pm",
-            "location": "Mount Bonnell",
-            "gmaps": "https://goo.gl/maps/mCJETyDLiWD2"
-        },
-         {
-            "type": "P-TERRY's",
-            "date": "1/26",
-            "time": "7:00pm",
-            "location": "P-TERRY's N. Lamar",
-            "gmaps": "https://goo.gl/maps/KEWFPAMtHQy"
+            "date": "9/6",
+            "time": "6:00-7:00pm",
+            "location": "TBD",
+            "gmaps": "#"
         },
         {
-            "type": "SoCo Walk + Food (CANCELLED)",
-            "date": "1/27",
-            "time": "5:30pm",
-            "location": "South Congress",
-            "gmaps": "https://goo.gl/maps/kTjPKFs1vpF2"
+            "type": "Varsity Pizza & Pints",
+            "date": "9/6",
+            "time": "7:00-8:00pm",
+            "location": "Varsity Pizza & Pints on Duval",
+            "gmaps": "https://goo.gl/maps/WCPPvV9DM992"
         },
         {
-            "type": "Study Hours",
-            "date": "1/30",
-            "time": "8:00pm-12:00am",
-            "location": "RLM 6.104",
-            "gmaps": "https://goo.gl/maps/g9Ees3fAgTz"
+            "type": "Red Bud Isle + P.Terry's",
+            "date": "9/7",
+            "time": "5:00-8:00pm",
+            "location": "P.Terry's on Lamar",
+            "gmaps": "https://goo.gl/maps/MANLzWAxixR2"
         },
         {
-            "type": "EXPO + Resume Workshop",
-            "date": "1/31",
-            "time": "6:00pm-7:00pm",
-            "location": "RLM 5.114",
-            "gmaps": "https://goo.gl/maps/Nvbqh9gWQhn"
+            "type": "Lunch Event",
+            "date": "9/8",
+            "time": "TBD",
+            "location": "TBD",
+            "gmaps": "#"
+        },
+        {
+            "type": "Kung Fu Tea Social",
+            "date": "9/9",
+            "time": "3:00-5:00pm",
+            "location": "Kung Fu Tea on 24th",
+            "gmaps": "https://goo.gl/maps/S93xo4oghB92"
+        },
+        {
+            "type": "EXPO Workshop",
+            "date": "9/10",
+            "time": "6:00-7:00pm",
+            "location": "TBD",
+            "gmaps": "#"
         },
         {
             "type": "Rush Interviews",
-            "date": "2/1",
-            "time": "6:30pm",
-            "location": "ETC 2.136",
-            "gmaps": "https://goo.gl/maps/g9Ees3fAgTz"
+            "date": "9/13",
+            "time": "TBD",
+            "location": "TBD",
+            "gmaps": "#"
         }
     ],
     "closed_rush_events": [
         {
-            "type": "Park Clean-Up + Casual Sports",
-            "date": "2/3",
-            "time": "3:00pm",
-            "location": "Pease Park",
-            "gmaps": "https://goo.gl/maps/GJaAYeq7Gtu"
+            "type": "",
+            "date": "9/",
+            "time": "",
+            "location": "",
+            "gmaps": ""
         },
         {
-            "type": "Superbowl Watch Party",
-            "date": "2/4",
-            "time": "TBD",
-            "location": "Varsity Pizza & Pints",
-            "gmaps": "https://goo.gl/maps/SB5XT3RkhiT2"
+            "type": "",
+            "date": "9/",
+            "time": "",
+            "location": "",
+            "gmaps": ""
         },
         {
-            "type": "Study Hours",
-            "date": "2/6",
-            "time": "7:30pm",
-            "location": "TBD",
-            "gmaps": "TBD"
+            "type": "",
+            "date": "9/",
+            "time": "",
+            "location": "",
+            "gmaps": ""
         },
         {
-            "type": "Union Bowling",
-            "date": "2/7",
-            "time": "6:00pm",
-            "location": "The Union",
-            "gmaps": "https://goo.gl/maps/JyyNMrihoq32"
-        },
-        {
-            "type": "Game Night + Olympics + Pizza",
-            "date": "2/9",
-            "time": "6:00pm",
-            "location": "TBD",
-            "gmaps": "TBD"
+            "type": "",
+            "date": "9/",
+            "time": "",
+            "location": "",
+            "gmaps": ""
         }
     ]
 }
