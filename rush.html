@@ -64,8 +64,8 @@
         </nav>
 
         <div class="container">
-            <div class="row rush-title">
-                    <h1>Fall 2018 Rush</h1>
+            <div class="row">
+                    <h1 class="text-center rush-title">Fall 2018 Rush</h1>
             </div>
             <div class="row">
                 <iframe class="rush-video" width="700" height="394" src="https://www.youtube.com/embed/NkpX-LUFqs0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -101,7 +101,7 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="row line">
+            <div class="row line">
                 <div class="col-xs-12 col-md-8 col-md-offset-2">
                     <h2 class="text-center">Closed Rush Events</h2>
                     <div class="table-responsive">
@@ -117,7 +117,7 @@
                         </table>
                     </div>
                 </div>
-            </div> -->
+            </div>
             <div class="row text-center">
                 <div class="col-xs-12">
                     <h2 clas>Rush Chairs</h2>
@@ -183,7 +183,8 @@
 
             $.getJSON("data/rush.json", function(data) {
                 $("#open-table-body").append(rush_template(data.open_rush_events));
-                // $("#closed-table-body").append(rush_template(data.closed_rush_events));
+                $("#closed-table-body").append(rush_template(data.closed_rush_events));
+
             });
         </script>
         <div class='footer'>

@@ -80,32 +80,25 @@
     ],
     "closed_rush_events": [
         {
-            "type": "",
-            "date": "9/",
-            "time": "",
-            "location": "",
-            "gmaps": ""
+            "type": "Zilker Picnic",
+            "date": "9/15",
+            "time": "5:00-8:00pm",
+            "location": "Zilker Park",
+            "gmaps": "https://goo.gl/maps/3h5urFpgbMD2"
         },
         {
-            "type": "",
-            "date": "9/",
-            "time": "",
-            "location": "",
-            "gmaps": ""
+            "type": "Pease Park Cleanup",
+            "date": "9/16",
+            "time": "10:00am-12:00pm",
+            "location": "Pease Park",
+            "gmaps": "https://goo.gl/maps/cphN4PDA9Gz"
         },
         {
-            "type": "",
-            "date": "9/",
-            "time": "",
-            "location": "",
-            "gmaps": ""
-        },
-        {
-            "type": "",
-            "date": "9/",
-            "time": "",
-            "location": "",
-            "gmaps": ""
+            "type": "Union Bowling",
+            "date": "9/19",
+            "time": "6:00-8:00pm",
+            "location": "Union Underground",
+            "gmaps": "https://goo.gl/maps/sJru8VsNw7E2"
         }
     ]
 }
