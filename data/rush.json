@@ -71,6 +71,13 @@
             "gmaps": "#"
         },
         {
+            "type": "Cabo Bob's",
+            "date": "9/12",
+            "time": "6:00-8:00pm",
+            "location": "Cabo Bob's on Rio Grande",
+            "gmaps": "https://goo.gl/maps/xGzsto1Zowz"
+        },
+        {
             "type": "Rush Interviews",
             "date": "9/13",
             "time": "TBD",
