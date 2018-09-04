@@ -36,13 +36,6 @@
             "gmaps": "https://goo.gl/maps/NcDGyPXfq8N2"
         },
         {
-            "type": "Varsity Pizza & Pints",
-            "date": "9/6",
-            "time": "7:00-8:00pm",
-            "location": "Varsity Pizza & Pints on Duval",
-            "gmaps": "https://goo.gl/maps/WCPPvV9DM992"
-        },
-        {
             "type": "Red Bud Isle + P.Terry's",
             "date": "9/7",
             "time": "5:00-8:00pm",
@@ -50,11 +43,18 @@
             "gmaps": "https://goo.gl/maps/MANLzWAxixR2"
         },
         {
-            "type": "Lunch Event",
+            "type": "Home Slice",
             "date": "9/8",
-            "time": "TBD",
-            "location": "TBD",
-            "gmaps": "#"
+            "time": "11:00am-1:00pm",
+            "location": "Home Slice on 53rd",
+            "gmaps": "https://goo.gl/maps/AHQVLbxgegB2"
+        },
+        {
+            "type": "Pease Park Cleanup",
+            "date": "9/9",
+            "time": "10:00am-12:00pm",
+            "location": "Pease Park",
+            "gmaps": "https://goo.gl/maps/HghqXzya84K2"
         },
         {
             "type": "Kung Fu Tea Social",
