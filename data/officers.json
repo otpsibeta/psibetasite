@@ -112,7 +112,7 @@
     "comm_heads": [
         {
             "img": "512.jpg",
-            "name": "Carl Karouta",
+            "name": "Joseph",
             "pin": "512",
             "pledge_name": "Goddard",
             "pledge_class": "Iota Gamma S'17",
@@ -123,7 +123,7 @@
         },
         {
             "img": "508.jpg",
-            "name": "Jacob Sutler",
+            "name": "Kristopher and Zachary",
             "pin": "508",
             "pledge_name": "220 Grit",
             "pledge_class": "Iota Gamma S'17",
@@ -134,7 +134,7 @@
         },
         {
             "img": "488.jpg",
-            "name": "Kirtana Moorthy",
+            "name": "Katy",
             "pin": "488",
             "pledge_name": "Lumbergh",
             "pledge_class": "Theta Gamma F'16",
@@ -146,29 +146,29 @@
         },
         {
             "img": "533.jpg",
-            "name": "Kreshel Nguyen",
+            "name": "Kristopher",
             "pin": "533",
             "pledge_name": "Fetch",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Computational Engineering",
             "email": "#",
             "email-name": "",
-            "position": "SEC Representative"
+            "position": "Cockrell Relations"
         },
         {
             "img": "479.jpg",
-            "name": "Sarah Deek",
+            "name": "Jeremy",
             "pin": "479",
             "pledge_name": "Plant",
             "pledge_class": "Theta Gamma F'16",
             "major": "Civil Engineering",
             "email": "#",
             "email-name": "",
-            "position": "SEC Representative"
+            "position": "Phillanthropy Chair"
         },
         {
             "img": "456.jpg",
-            "name": "Minh Van-Dinh",
+            "name": "Mike",
             "pin": "456",
             "pledge_name": "$weet Dolla Iced Tea",
             "pledge_class": "Eta Gamma F'15",
@@ -180,7 +180,7 @@
         },
         {
             "img": "518.jpg",
-            "name": "Nicole Finks",
+            "name": "Connor",
             "pin": "518",
             "pledge_name": "Ants",
             "pledge_class": "Kappa Gamma F'17",
@@ -191,7 +191,7 @@
         },
         {
             "img": "516.jpg",
-            "name": "Rachel Sutherland",
+            "name": "Nicole Cravey",
             "pin": "516",
             "pledge_name": "Phil",
             "pledge_class": "Kappa Gamma F'17",
@@ -202,7 +202,7 @@
         },
         {
             "img": "498.jpg",
-            "name": "Tyler Chinn",
+            "name": "Jing",
             "pin": "498",
             "pledge_name": "Straw House",
             "pledge_class": "Iota Gamma S'17",
@@ -213,7 +213,7 @@
         },
         {
             "img": "480.jpg",
-            "name": "Jose Belisario",
+            "name": "Esha and Tori",
             "pin": "480",
             "pledge_name": "Hey! Get ciggy with it",
             "pledge_class": "Theta Gamma F'16",
