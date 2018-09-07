@@ -131,7 +131,7 @@
             "major": "Mechanical",
             "email": "#",
             "email-name": "",
-            "position": "Fundraising"
+            "position": "Fundraising & Cockrell Relations"
         },
         {
             "img": "543.JPG",
@@ -154,17 +154,6 @@
             "email": "#",
             "email-name": "",
             "position": "Community Service"
-        },
-        {
-            "img": "540.JPG",
-            "name": "Kristofer Blanscet",
-            "pin": "540",
-            "pledge_name": "Blitzen",
-            "pledge_class": "Lambda Gamma S'18",
-            "major": "Mechanical",
-            "email": "#",
-            "email-name": "",
-            "position": "Cockrell Relations"
         },
         {
             "img": "503.jpg",
@@ -243,6 +232,17 @@
             "email": "#",
             "email-name": "",
             "position": "Health & Wellness"
-        }
+        },
+        {
+            "img": "542.JPG",
+            "name": "Chance Mason",
+            "pin": "542",
+            "pledge_name": "Green",
+            "pledge_class": "Lambda Gamma S'18",
+            "major": "Mechanical",
+            "email": "#",
+            "email-name": "",
+            "position": "Tauffice Chair"
+        },
     ]
 }
