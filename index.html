@@ -21,6 +21,16 @@
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112784200-1">
         </script>
+
+        <!-- ########################################################### -->
+        <!-- FOR THE 3 WEEKS OF RUSH REDIRECT MAIN PAGE TO THE RUSH PAGE -->
+        <script>
+            if (window.location.pathname == "/"){
+              window.location.href = "/rush.html";
+            }
+        </script>
+        <!-- ########################################################### -->
+        
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
