@@ -7,7 +7,7 @@
             "pledge_name": "Ants",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Electrical Engineering",
-            "officer_letters": "TT! ZZ! RR! X!",
+            "officer_letters": "X!",
             "email": "regent.psibeta@gmail.com",
             "email-name": "regent.psibeta@gmail.com",
             "position": "Regent"
@@ -55,7 +55,7 @@
             "pledge_name": "Straw House",
             "pledge_class": "Iota Gamma S'17",
             "major": "Biomedical Engineering",
-            "officer_letters": "UU! YY! W!",
+            "officer_letters": "YY! W!",
             "email": "tchinn@utexas.edu",
             "email-name": "tchinn@utexas.edu",
             "position": "Pledge Marshal"
@@ -67,7 +67,7 @@
             "pledge_name": "Rug",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Electrical Engineering",
-            "officer_letters": "R!",
+            "officer_letters": "TT! R!",
             "email": "parisa.mahmud@utexas.edu",
             "email-name": "parisa.mahmud@utexas.edu",
             "position": "Corresponding Secretary"
@@ -119,7 +119,6 @@
             "major": "Chemical Engineering",
             "email": "#",
             "email-name": "",
-            "officer_letters": "0xBAE WW!",
             "position": "Professional Development"
         },
         {

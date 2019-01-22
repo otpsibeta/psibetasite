@@ -307,7 +307,7 @@
             "pledge_name": "Straw House",
             "pledge_class": "Iota Gamma S'17",
             "major": "Biomedical",
-            "officer_letters": "UU! YY! W!"
+            "officer_letters": "YY! W!"
         },
         {
             "img": "499.JPG",
@@ -491,7 +491,7 @@
             "pledge_name": "Rug",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Electrical",
-            "officer_letters": "R!"
+            "officer_letters": "TT! R!"
         },
         {
             "img": "522.jpg",
@@ -555,7 +555,8 @@
             "pin": "529",
             "pledge_name": "Tandy",
             "pledge_class": "Kappa Gamma F'17",
-            "major": "Aerospace"
+            "major": "Aerospace",
+            "officer_letters": "X!"
         },
         {
             "img": "530.jpg",
