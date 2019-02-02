@@ -7,7 +7,7 @@
             "pledge_name": "Toofbrush",
             "pledge_class": "Chi Beta F'12",
             "major": "Electrical",
-            "officer_letters": "TT! ZZ! RR! X!"
+            "officer_letters": "TT! ZZ! RR! XX!"
         },
         {
             "img": "413.jpg",
@@ -99,7 +99,7 @@
             "pledge_name": "New Hampster",
             "pledge_class": "Eta Gamma F'15",
             "major": "Aerospace",
-            "officer_letters": "UU! YY! W!"
+            "officer_letters": "UU! YY! WW!"
         },
         {
             "img": "453.jpg",
@@ -341,7 +341,7 @@
             "pledge_name": "72 donuts",
             "pledge_class": "Iota Gamma S'17",
             "major": "Electrical",
-            "officer_letters": "0xDECAF"
+            "officer_letters": "0x45"
         },
         {
             "img": "503.jpg",
@@ -431,7 +431,7 @@
             "pledge_name": "$5 Foot Long",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Electrical",
-            "officer_letters": "U!"
+            "officer_letters": "UU!"
         },
         {
             "img": "515.jpg",
@@ -448,7 +448,7 @@
             "pledge_name": "Phil",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Civil",
-            "officer_letters": "V!"
+            "officer_letters": "VV!"
         },
         {
             "img": "517.jpg",
@@ -555,8 +555,7 @@
             "pin": "529",
             "pledge_name": "Tandy",
             "pledge_class": "Kappa Gamma F'17",
-            "major": "Aerospace",
-            "officer_letters": "X!"
+            "major": "Aerospace"
         },
         {
             "img": "530.jpg",
