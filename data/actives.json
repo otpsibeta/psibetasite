@@ -27,38 +27,6 @@
             "major": "Aerospace"
         },
         {
-            "img": "419.jpg",
-            "name": "Jessica Escobar",
-            "pin": "419",
-            "pledge_name": "K-9",
-            "pledge_class": "Epsilon Gamma F'14",
-            "major": "Civil"
-        },
-        {
-            "img": "422.jpg",
-            "name": "Regan Stehle",
-            "pin": "422",
-            "pledge_name": "Weezer",
-            "pledge_class": "Epsilon Gamma F'14",
-            "major": "Electrical"
-        },
-        {
-            "img": "427.jpg",
-            "name": "Fred Zhu",
-            "pin": "427",
-            "pledge_name": "DJ Illest",
-            "pledge_class": "Epsilon Gamma F'14",
-            "major": "Electrical"
-        },
-        {
-            "img": "432.jpg",
-            "name": "Bjorn Johnson",
-            "pin": "432",
-            "pledge_name": "Clogs",
-            "pledge_class": "Zeta Gamma S'15",
-            "major": "Chemical"
-        },
-        {
             "img": "433.jpg",
             "name": "Rebecca Munoz",
             "pin": "433",
@@ -66,14 +34,6 @@
             "pledge_class": "Zeta Gamma S'15",
             "major": "Mechanical",
             "officer_letters": "RR!"
-        },
-        {
-            "img": "435.jpg",
-            "name": "Mitchell Germann",
-            "pin": "435",
-            "pledge_name": "Expo Bus",
-            "pledge_class": "Zeta Gamma S'15",
-            "major": "Mechanical"
         },
         {
             "img": "447.jpg",
@@ -84,15 +44,6 @@
             "major": "Computational"
         },
         {
-            "img": "450.jpg",
-            "name": "Amber Chen",
-            "pin": "450",
-            "pledge_name": "Danke",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Mechanical",
-            "officer_letters": "TT!"
-        },
-        {
             "img": "451.jpg",
             "name": "Joseph Williams",
             "pin": "451",
@@ -100,14 +51,6 @@
             "pledge_class": "Eta Gamma F'15",
             "major": "Aerospace",
             "officer_letters": "UU! YY! WW!"
-        },
-        {
-            "img": "453.jpg",
-            "name": "Alex Bi",
-            "pin": "453",
-            "pledge_name": "Posta",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical"
         },
         {
             "img": "457.jpg",
@@ -127,45 +70,12 @@
             "major": "Civil"
         },
         {
-            "img": "462.jpg",
-            "name": "Sarah Morales",
-            "pin": "462",
-            "pledge_name": "Soup Dogg",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Biomedical"
-        },
-        {
             "img": "463.jpg",
             "name": "Alex Russell",
             "pin": "463",
             "pledge_name": "All she's got, Cap'n",
             "pledge_class": "Eta Gamma F'15",
             "major": "Mechanical"
-        },
-        {
-            "img": "465.jpg",
-            "name": "Rebecca Spencer",
-            "pin": "465",
-            "pledge_name": "Flapjacks",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Mechanical"
-        },
-        {
-            "img": "468.jpg",
-            "name": "Aravind Srinivasan",
-            "pin": "468",
-            "pledge_name": "Mojo Jojo",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical"
-        },
-        {
-            "img": "472.jpg",
-            "name": "Joseph Bae",
-            "pin": "472",
-            "pledge_name": "JFKFDR",
-            "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical",
-            "officer_letters": "0xBAE WW!"
         },
         {
             "img": "473.jpg",
@@ -182,14 +92,6 @@
             "pledge_name": "M.D.,Ph.D",
             "pledge_class": "Theta Gamma F'16",
             "major": "Electrical"
-        },
-        {
-            "img": "477.jpg",
-            "name": "Erin Higgins",
-            "pin": "477",
-            "pledge_name": "CORN",
-            "pledge_class": "Theta Gamma F'16",
-            "major": "Biomedical"
         },
         {
             "img": "479.jpg",
@@ -252,14 +154,6 @@
             "officer_letters": "VV!"
         },
         {
-            "img": "489.jpg",
-            "name": "Kristopher Holder",
-            "pin": "489",
-            "pledge_name": "Çháñ-yé",
-            "pledge_class": "Theta Gamma F'16",
-            "major": "Civil"
-        },
-        {
             "img": "491.jpg",
             "name": "Jake Scheftel",
             "pin": "491",
@@ -285,22 +179,6 @@
             "major": "Civil"
         },
         {
-            "img": "496.jpg",
-            "name": "Luke Haworth",
-            "pin": "496",
-            "pledge_name": "Squidward",
-            "pledge_class": "Theta Gamma F'16",
-            "major": "Aerospace"
-        },
-        {
-            "img": "497.jpg",
-            "name": "Robert Bolt",
-            "pin": "497",
-            "pledge_name": "Pina Coladas",
-            "pledge_class": "Iota Gamma S'17",
-            "major": "Electrical"
-        },
-        {
             "img": "498.JPG",
             "name": "Tyler Chinn",
             "pin": "498",
@@ -316,14 +194,6 @@
             "pledge_name": "Oz",
             "pledge_class": "Iota Gamma S'17",
             "major": "Aerospace"
-        },
-        {
-            "img": "500.jpg",
-            "name": "Chris Sabillon",
-            "pin": "500",
-            "pledge_name": "MURF",
-            "pledge_class": "Iota Gamma S'17",
-            "major": "Civil"
         },
         {
             "img": "501.jpg",
@@ -350,14 +220,6 @@
             "pledge_name": "Saltbae",
             "pledge_class": "Iota Gamma S'17",
             "major": "Mechanical"
-        },
-        {
-            "img": "504.jpg",
-            "name": "Vibhu Appalaraju",
-            "pin": "504",
-            "pledge_name": "Bruiser",
-            "pledge_class": "Iota Gamma S'17",
-            "major": "Electrical"
         },
         {
             "img": "505.jpg",
@@ -401,28 +263,12 @@
             "major": "Electrical"
         },
         {
-            "img": "511.jpg",
-            "name": "Kevin Han",
-            "pin": "511",
-            "pledge_name": "Francis",
-            "pledge_class": "Iota Gamma S'17",
-            "major": "Biomedical"
-        },
-        {
             "img": "512.jpg",
             "name": "Carl Karouta",
             "pin": "512",
             "pledge_name": "Goddard",
             "pledge_class": "Iota Gamma S'17",
             "major": "Chemical"
-        },
-        {
-            "img": "513.jpg",
-            "name": "Brandt Glidewell",
-            "pin": "513",
-            "pledge_name": "The sum from i=1 to 8 of Buffalo sub i",
-            "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical"
         },
         {
             "img": "514.jpg",
@@ -590,22 +436,6 @@
             "major": "Electrical"
         },
         {
-            "img": "535.jpg",
-            "name": "Dylan Wolford",
-            "pin": "535",
-            "pledge_name": "Flavortown",
-            "pledge_class": "Kappa Gamma F'17",
-            "major": "Electrical"
-        },
-        {
-            "img": "536.jpg",
-            "name": "Swathi Dochibhotla",
-            "pin": "536",
-            "pledge_name": "Vincent",
-            "pledge_class": "Kappa Gamma F'17",
-            "major": "Electrical"
-        },
-        {
             "img": "537.jpg",
             "name": "Kristen Pallesen",
             "pin": "537",
@@ -623,7 +453,7 @@
         },
         {
             "img": "539.JPG",
-            "name": "Jing Hu",
+            "name": "Cathy Hu",
             "pin": "539",
             "pledge_name": ":b:itcoin",
             "pledge_class": "Lambda Gamma S'18",
@@ -729,22 +559,6 @@
             "major": "Mechanical"
         },
         {
-            "img": "552.JPG",
-            "name": "Garrett Wong",
-            "pin": "552",
-            "pledge_name": "Toothless",
-            "pledge_class": "Lambda Gamma S'18",
-            "major": "Electrical"
-        },
-        {
-            "img": "553.JPG",
-            "name": "Joe Retter",
-            "pin": "553",
-            "pledge_name": "Left Turn",
-            "pledge_class": "Lambda Gamma S'18",
-            "major": "Electrical"
-        },
-        {
             "img": "554.JPG",
             "name": "Kevin Hicks",
             "pin": "554",
@@ -786,7 +600,7 @@
         },
         {
             "img": "559.JPG",
-            "name": "Alonso Casalina",
+            "name": "Alonso Casalino",
             "pin": "559",
             "pledge_name": "Poptropica",
             "pledge_class": "Lambda Gamma S'18",
@@ -815,6 +629,234 @@
             "pledge_name": "305",
             "pledge_class": "Lambda Gamma S'18",
             "major": "Mechanical"
+        },
+        {
+            "img": "563.jpg",
+            "name": "Kate Kauffman",
+            "pin": "563",
+            "pledge_name": "Toddy",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "564.jpg",
+            "name": "Chris Karouta",
+            "pin": "564",
+            "pledge_name": "Tim Burton",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Biomedical"
+        },
+        {
+            "img": "565.jpg",
+            "name": "Jackson Lightfoot",
+            "pin": "565",
+            "pledge_name": "Little Arms",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "566.jpg",
+            "name": "Eric Hayes",
+            "pin": "566",
+            "pledge_name": "Press F to Pay Respects",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "567.jpg",
+            "name": "Elise Betts",
+            "pin": "567",
+            "pledge_name": "Lotus",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Civil"
+        },
+        {
+            "img": "568.jpg",
+            "name": "Hannah Weiner",
+            "pin": "568",
+            "pledge_name": "Boo",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Biomedical"
+        },
+        {
+            "img": "569.jpg",
+            "name": "Nicky Dahl",
+            "pin": "569",
+            "pledge_name": "Hashbrown",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "570.jpg",
+            "name": "Kevin Wang",
+            "pin": "570",
+            "pledge_name": "Chili",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Biomedical"
+        },
+        {
+            "img": "571.jpg",
+            "name": "Angel Cheng",
+            "pin": "571",
+            "pledge_name": "Battlestar",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "572.jpg",
+            "name": "Seth Husband",
+            "pin": "572",
+            "pledge_name": "The Influence",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Mechanical"
+        },
+        {
+            "img": "573.jpg",
+            "name": "Shelby Gammon",
+            "pin": "573",
+            "pledge_name": "Duchess",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Biomedical"
+        },
+        {
+            "img": "574.jpg",
+            "name": "Anna Poterek",
+            "pin": "574",
+            "pledge_name": "No Doubt",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Environmetal"
+        },
+        {
+            "img": "575.jpg",
+            "name": "Giselle Nevarez",
+            "pin": "575",
+            "pledge_name": "Marty!",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Biomedical"
+        },
+        {
+            "img": "576.JPG",
+            "name": "Jeremiah Davis",
+            "pin": "576",
+            "pledge_name": "Emperor Zurg",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "577.jpg",
+            "name": "David Lok",
+            "pin": "577",
+            "pledge_name": "Glass Slipper",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "578.jpg",
+            "name": "Emma Ito",
+            "pin": "578",
+            "pledge_name": "All Known Laws of Aviation",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Biomedical"
+        },
+        {
+            "img": "579.jpg",
+            "name": "Melanie Peck",
+            "pin": "579",
+            "pledge_name": "Down B",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "580.jpg",
+            "name": "Anita Mishra",
+            "pin": "580",
+            "pledge_name": "Snickerdoodle",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Biomedical"
+        },
+        {
+            "img": "581.jpg",
+            "name": "Manny Avalos",
+            "pin": "581",
+            "pledge_name": "12 Steps",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "582.jpg",
+            "name": "Reagan Gibson",
+            "pin": "582",
+            "pledge_name": "Blocked",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Mechanical"
+        },
+        {
+            "img": "583.jpg",
+            "name": "Ava Moore",
+            "pin": "583",
+            "pledge_name": "Eden",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "584.jpg",
+            "name": "Iris Zhang",
+            "pin": "584",
+            "pledge_name": "Glamorous",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "585.jpg",
+            "name": "Chanmye Myintthu",
+            "pin": "585",
+            "pledge_name": "Ponyo",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Mechanical"
+        },
+        {
+            "img": "586.jpg",
+            "name": "Brynn Freemyer",
+            "pin": "586",
+            "pledge_name": "The Hand of God",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Mechanical"
+        },
+        {
+            "img": "587.jpg",
+            "name": "Michael Nguyen",
+            "pin": "587",
+            "pledge_name": "Planck",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Biomedical"
+        },
+        {
+            "img": "588.jpg",
+            "name": "Kenneth Wong",
+            "pin": "588",
+            "pledge_name": "Gre-gory",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Mechanical"
+        },
+        {
+            "img": "589.jpg",
+            "name": "Jo Onofre",
+            "pin": "589",
+            "pledge_name": "Fireball",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Electrical"
+        },
+        {
+            "img": "590.jpg",
+            "name": "Gene Fannin",
+            "pin": "590",
+            "pledge_name": "The Matrix",
+            "pledge_class": "Mu Gamma F'18",
+            "major": "Mechanical"
         }
+
+
+
+
     ]
 }
