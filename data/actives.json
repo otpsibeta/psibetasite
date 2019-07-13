@@ -134,7 +134,7 @@
             "pledge_name": "Awimbawe",
             "pledge_class": "Theta Gamma F'16",
             "major": "Mechanical",
-            "officer_letters": "UU! Z!"
+            "officer_letters": "UU! ZZ!"
         },
         {
             "img": "485.jpg",
@@ -185,7 +185,7 @@
             "pledge_name": "Straw House",
             "pledge_class": "Iota Gamma S'17",
             "major": "Biomedical",
-            "officer_letters": "YY! W!"
+            "officer_letters": "YY! WW!"
         },
         {
             "img": "499.JPG",
@@ -227,7 +227,8 @@
             "pin": "505",
             "pledge_name": "Hooper",
             "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "R!"        
         },
         {
             "img": "506.jpg",
@@ -303,7 +304,7 @@
             "pledge_name": "Talladega",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Mechanical",
-            "officer_letters": "T!"
+            "officer_letters": "TT!"
         },
         {
             "img": "518.jpg",
@@ -312,7 +313,7 @@
             "pledge_name": "Ants",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Electrical",
-            "officer_letters": "X!"
+            "officer_letters": "XX!"
         },
         {
             "img": "519.jpg",
@@ -337,7 +338,7 @@
             "pledge_name": "Rug",
             "pledge_class": "Kappa Gamma F'17",
             "major": "Electrical",
-            "officer_letters": "TT! R!"
+            "officer_letters": "TT! RR!"
         },
         {
             "img": "522.jpg",
@@ -458,7 +459,7 @@
             "pledge_name": ":b:itcoin",
             "pledge_class": "Lambda Gamma S'18",
             "major": "Chemical",
-            "officer_letters": "Y!"
+            "officer_letters": "YY! X!"
         },
         {
             "img": "540.JPG",
@@ -475,7 +476,7 @@
             "pledge_name": "Bye Felicia",
             "pledge_class": "Lambda Gamma S'18",
             "major": "Mechanical",
-            "officer_letters": "U!"
+            "officer_letters": "UU!"
         },
         {
             "img": "542.JPG",
@@ -483,7 +484,8 @@
             "pin": "542",
             "pledge_name": "Green",
             "pledge_class": "Lambda Gamma S'18",
-            "major": "Mechanical"
+            "major": "Mechanical",
+            "officer_letters": "Y!"
         },
         {
             "img": "543.JPG",
@@ -508,7 +510,7 @@
             "pledge_name": "Clutch",
             "pledge_class": "Lambda Gamma S'18",
             "major": "Mechanical",
-            "officer_letters": "V!"
+            "officer_letters": "VV!"
         },
         {
             "img": "546.JPG",
@@ -636,7 +638,8 @@
             "pin": "563",
             "pledge_name": "Toddy",
             "pledge_class": "Mu Gamma F'18",
-            "major": "Electrical"
+            "major": "Electrical",
+            "officer_letters": "0x039803A4"
         },
         {
             "img": "564.jpg",
@@ -644,7 +647,8 @@
             "pin": "564",
             "pledge_name": "Tim Burton",
             "pledge_class": "Mu Gamma F'18",
-            "major": "Electrical"
+            "major": "Electrical",
+            "officer_letters": "Z!"
         },
         {
             "img": "565.jpg",
@@ -652,7 +656,8 @@
             "pin": "565",
             "pledge_name": "Little Arms",
             "pledge_class": "Mu Gamma F'18",
-            "major": "Electrical"
+            "major": "Electrical",
+            "officer_letters": "V!"
         },
         {
             "img": "566.jpg",
@@ -772,15 +777,8 @@
             "pin": "580",
             "pledge_name": "Snickerdoodle",
             "pledge_class": "Mu Gamma F'18",
-            "major": "Biomedical"
-        },
-        {
-            "img": "581.jpg",
-            "name": "Manny Avalos",
-            "pin": "581",
-            "pledge_name": "12 Steps",
-            "pledge_class": "Mu Gamma F'18",
-            "major": "Electrical"
+            "major": "Biomedical",
+            "officer_letters": "U!"
         },
         {
             "img": "582.jpg",
@@ -796,7 +794,8 @@
             "pin": "583",
             "pledge_name": "Eden",
             "pledge_class": "Mu Gamma F'18",
-            "major": "Electrical"
+            "major": "Electrical",
+            "officer_letters": "T!"
         },
         {
             "img": "584.jpg",
