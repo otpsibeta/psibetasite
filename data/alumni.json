@@ -2065,6 +2065,15 @@
             "pledge_class": "Chi Beta"
         },
         {
+            "img": "353.JPG",
+            "name": "Bryan Boucher",
+            "pin": "353",
+            "pledge_name": "Toofbrush",
+            "pledge_class": "Chi Beta F'12",
+            "major": "Electrical",
+            "officer_letters": "TT! ZZ! RR! XX!"
+        },
+        {
             "img": "354.jpg",
             "name": "Jake Lewis",
             "pin": "354",
@@ -2475,6 +2484,14 @@
             "major": "Biomedical"
         },
         {
+            "img": "415.jpg",
+            "name": "Matt Morris",
+            "pin": "415",
+            "pledge_name": "Skittles",
+            "pledge_class": "Epsilon Gamma F'14",
+            "major": "Aerospace"
+        },
+        {
             "name": "Dean Shoenfeld",
             "pin": "416",
             "pledge_name": "Winchester",
@@ -2586,6 +2603,15 @@
             "major": "Chemical"
         },
         {
+            "img": "433.jpg",
+            "name": "Rebecca Munoz",
+            "pin": "433",
+            "pledge_name": "5000 Pokédollars",
+            "pledge_class": "Zeta Gamma S'15",
+            "major": "Mechanical",
+            "officer_letters": "RR!"
+        },
+        {
             "name": "Tilly Selden",
             "pin": "434"
         },
@@ -2695,6 +2721,15 @@
             "officer_letters": "TT!"
         },
         {
+            "img": "451.jpg",
+            "name": "Joseph Williams",
+            "pin": "451",
+            "pledge_name": "New Hampster",
+            "pledge_class": "Eta Gamma F'15",
+            "major": "Aerospace",
+            "officer_letters": "UU! YY! WW!"
+        },
+        {
             "img": "452.jpg",
             "name": "Kyle Dugan",
             "pin": "452",
@@ -2736,8 +2771,25 @@
             "officer_letters": "VV! WW!"
         },
         {
+            "img": "457.jpg",
+            "name": "Jeffrey Martin",
+            "pin": "457",
+            "pledge_name": "Wobuffet",
+            "pledge_class": "Eta Gamma F'15",
+            "major": "Electrical",
+            "officer_letters": "RR!"
+        },
+        {
             "name": "Daniel Victory",
             "pin": "458"
+        },
+        {
+            "img": "459.jpg",
+            "name": "April Collette",
+            "pin": "459",
+            "pledge_name": "Dadliest Catch",
+            "pledge_class": "Eta Gamma F'15",
+            "major": "Civil"
         },
         {
             "img": "460.jpg",
@@ -2761,6 +2813,14 @@
             "pledge_name": "Soup Dogg",
             "pledge_class": "Eta Gamma F'15",
             "major": "Biomedical"
+        },
+        {
+            "img": "463.jpg",
+            "name": "Alex Russell",
+            "pin": "463",
+            "pledge_name": "All she's got, Cap'n",
+            "pledge_class": "Eta Gamma F'15",
+            "major": "Mechanical"
         },
         {
             "img": "464.jpg",
@@ -2830,6 +2890,14 @@
             "pledge_class": "Theta Gamma F'16",
             "major": "Electrical",
             "officer_letters": "0xBAE WW!"
+        },
+        {
+            "img": "474.jpg",
+            "name": "Shasta Nair",
+            "pin": "474",
+            "pledge_name": "M.D.,Ph.D",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Electrical"
         },
         {
             "img": "475.jpg",
@@ -2910,6 +2978,14 @@
             "officer_letters": "TT!"
         },
         {
+            "img": "494.jpg",
+            "name": "Katie Powell",
+            "pin": "494",
+            "pledge_name": "Rock Lobsta",
+            "pledge_class": "Theta Gamma F'16",
+            "major": "Civil"
+        },
+        {
             "name": "Kyle McCaslin",
             "pin": "495",
             "pledge_name": "Felix",
@@ -2941,6 +3017,14 @@
             "major": "Civil"
         },
         {
+            "img": "503.jpg",
+            "name": "Jeremy Isaacson",
+            "pin": "503",
+            "pledge_name": "Saltbae",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Mechanical"
+        },
+        {
             "img": "504.jpg",
             "name": "Vibhu Appalaraju",
             "pin": "504",
@@ -2963,6 +3047,14 @@
             "pledge_name": "Francis",
             "pledge_class": "Iota Gamma S'17",
             "major": "Biomedical"
+        },
+        {
+            "img": "512.jpg",
+            "name": "Carl Karouta",
+            "pin": "512",
+            "pledge_name": "Goddard",
+            "pledge_class": "Iota Gamma S'17",
+            "major": "Chemical"
         },
         {
             "img": "513.jpg",

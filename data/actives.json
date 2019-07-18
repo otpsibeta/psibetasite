@@ -1,38 +1,12 @@
 {
     "actives": [
         {
-            "img": "353.JPG",
-            "name": "Bryan Boucher",
-            "pin": "353",
-            "pledge_name": "Toofbrush",
-            "pledge_class": "Chi Beta F'12",
-            "major": "Electrical",
-            "officer_letters": "TT! ZZ! RR! XX!"
-        },
-        {
             "img": "413.jpg",
             "name": "Amy Quartaro",
             "pin": "413",
             "pledge_name": "±1",
             "pledge_class": "Epsilon Gamma F'14",
             "major": "Aerospace",
-            "officer_letters": "RR!"
-        },
-        {
-            "img": "415.jpg",
-            "name": "Matt Morris",
-            "pin": "415",
-            "pledge_name": "Skittles",
-            "pledge_class": "Epsilon Gamma F'14",
-            "major": "Aerospace"
-        },
-        {
-            "img": "433.jpg",
-            "name": "Rebecca Munoz",
-            "pin": "433",
-            "pledge_name": "5000 Pokédollars",
-            "pledge_class": "Zeta Gamma S'15",
-            "major": "Mechanical",
             "officer_letters": "RR!"
         },
         {
@@ -44,54 +18,12 @@
             "major": "Computational"
         },
         {
-            "img": "451.jpg",
-            "name": "Joseph Williams",
-            "pin": "451",
-            "pledge_name": "New Hampster",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Aerospace",
-            "officer_letters": "UU! YY! WW!"
-        },
-        {
-            "img": "457.jpg",
-            "name": "Jeffrey Martin",
-            "pin": "457",
-            "pledge_name": "Wobuffet",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Electrical",
-            "officer_letters": "RR!"
-        },
-        {
-            "img": "459.jpg",
-            "name": "April Collette",
-            "pin": "459",
-            "pledge_name": "Dadliest Catch",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Civil"
-        },
-        {
-            "img": "463.jpg",
-            "name": "Alex Russell",
-            "pin": "463",
-            "pledge_name": "All she's got, Cap'n",
-            "pledge_class": "Eta Gamma F'15",
-            "major": "Mechanical"
-        },
-        {
             "img": "473.jpg",
             "name": "Will Bamberg",
             "pin": "473",
             "pledge_name": "Lonestar",
             "pledge_class": "Theta Gamma F'16",
             "major": "Mechanical"
-        },
-        {
-            "img": "474.jpg",
-            "name": "Shasta Nair",
-            "pin": "474",
-            "pledge_name": "M.D.,Ph.D",
-            "pledge_class": "Theta Gamma F'16",
-            "major": "Electrical"
         },
         {
             "img": "479.jpg",
@@ -171,14 +103,6 @@
             "officer_letters": "YY!"
         },
         {
-            "img": "494.jpg",
-            "name": "Katie Powell",
-            "pin": "494",
-            "pledge_name": "Rock Lobsta",
-            "pledge_class": "Theta Gamma F'16",
-            "major": "Civil"
-        },
-        {
             "img": "498.JPG",
             "name": "Tyler Chinn",
             "pin": "498",
@@ -212,14 +136,6 @@
             "pledge_class": "Iota Gamma S'17",
             "major": "Electrical",
             "officer_letters": "0x45"
-        },
-        {
-            "img": "503.jpg",
-            "name": "Jeremy Isaacson",
-            "pin": "503",
-            "pledge_name": "Saltbae",
-            "pledge_class": "Iota Gamma S'17",
-            "major": "Mechanical"
         },
         {
             "img": "505.jpg",
@@ -262,15 +178,7 @@
             "pledge_name": "The Sneaky Pizza 9000",
             "pledge_class": "Iota Gamma S'17",
             "major": "Electrical"
-        },
-        {
-            "img": "512.jpg",
-            "name": "Carl Karouta",
-            "pin": "512",
-            "pledge_name": "Goddard",
-            "pledge_class": "Iota Gamma S'17",
-            "major": "Chemical"
-        },
+        },        
         {
             "img": "514.jpg",
             "name": "An Nguyen",
