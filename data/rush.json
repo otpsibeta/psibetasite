@@ -2,39 +2,36 @@
     "open_rush_events": [
         {
             "type": "Info Session #1",
-            "date": "1/28",
-            "time": "6:00-7:00pm",
-            "location": "CPE 2.206",
+            "date": "9/2",
+            "time": "7:00-8:00pm",
+            "location": "CPE 2.212",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
             "type": "Info Session #2",
-            "date": "1/29",
-            "time": "6:00-7:00pm",
-            "location": "CPE 2.216",
+            "date": "9/3",
+            "time": "7:00-8:00pm",
+            "location": "CPE 2.212",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
             "type": "Info Session #3",
-            "date": "1/30",
+            "date": "9/4",
             "time": "6:00-7:00pm",
-            "location": "CPE 2.216",
+            "location": "CPE 2.212",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
-            "type": "Mango 8 Social",
-            "date": "1/30",
-            "time": "7:00-9:00pm",
-            "location": "Mango 8 on 24th St.",
-            "gmaps": "https://goo.gl/maps/khSeRRCWUwm"
-        },
-        {
-            "type": "Info Session #4",
-            "date": "1/31",
-            "time": "6:00-7:00pm",
-            "location": "CPE 2.216",
-            "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
-        },
+          "type": "Info Session #4",
+          "date": "9/5",
+          "time": "5:00-6:00pm",
+          "location": "TBD",
+          "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
+        }
+
+      ],
+
+      "closed_rush_events": [
         {
             "type": "Mt. Bonnell + P.Terry's",
             "date": "2/1",
@@ -75,9 +72,7 @@
             "time": "6:30pm-8:30",
             "location": "CPE 2.218",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
-        }
-    ],
-    "closed_rush_events": [
+        },
         {
             "type": "Zilker Picnic",
             "date": "9/15",
