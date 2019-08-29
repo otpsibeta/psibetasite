@@ -22,76 +22,106 @@
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
-          "type": "Info Session #4",
-          "date": "9/5",
-          "time": "5:00-6:00pm",
-          "location": "TBD",
-          "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
-        }
-
-      ],
-
-      "closed_rush_events": [
+            "type": "BASF Company Tech Talk",
+            "date": "9/4",
+            "time": "7:00-8:00pm",
+            "location": "CPE 2.212",
+            "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
+        },
+        {
+            "type": "Info Session #4",
+            "date": "9/5",
+            "time": "5:00-6:00pm",
+            "location": "TBD",
+            "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
+        },
+        {
+            "type": "P&G Company Tech Talk",
+            "date": "9/5",
+            "time": "6:00-7:00pm",
+            "location": "CPE 2.212",
+            "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
+        },
         {
             "type": "Mt. Bonnell + P.Terry's",
-            "date": "2/1",
-            "time": "5:00-8:00pm",
-            "location": "Mt. Bonnell and then P.Terry's on Lamar",
+            "date": "9/6",
+            "time": "5:30-8:30pm",
+            "location": "Mt. Bonnell and then P.Terry's N. Lamar",
             "gmaps": "https://www.google.com/maps/dir/Mt+Bonnell,+Austin,+TX+78731/P.+Terry's+Burger+Stand,+North+Lamar+Boulevard,+Austin,+TX/@30.3094434,-97.7596047,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x8644cac7ee429207:0xf6ed5dc92fba8803!2m2!1d-97.7733402!2d30.3207616!1m5!1m1!1s0x8644ca8108c027cb:0x81759607f61b7b18!2m2!1d-97.7449942!2d30.3017534!3e0!5m1!1e4"
         },
         {
             "type": "Pease Park Cleanup",
-            "date": "2/3",
+            "date": "9/8",
             "time": "10:00am-12:00pm",
             "location": "Pease Park",
             "gmaps": "https://goo.gl/maps/HghqXzya84K2"
         },
         {
-            "type": "Pizza Press Profit Share",
-            "date": "2/4",
-            "time": "6:00-8:00pm",
-            "location": "Pizza Press on 26th St.",
-            "gmaps": "https://goo.gl/maps/wPd9vjhehbo"
-        },
-        {
-            "type": "EXPO Workshop",
-            "date": "2/5",
-            "time": "7:00-8:00pm",
-            "location": "ETC 2.102",
-            "gmaps": "https://goo.gl/maps/KjrHgQUTcTD2"
-        },
-        {
-            "type": "*CANCELED* Speed Dating *CANCELED*",
-            "date": "2/6",
-            "time": "*CANCELED*",
-            "gmaps": ""
-        },
-        {
-            "type": "Rush Interviews (*Required for Closed Rush*)",
-            "date": "2/7",
-            "time": "6:30pm-8:30",
-            "location": "CPE 2.218",
+            "type": "Group Contests",
+            "date": "9/9",
+            "time": "7:00-9:00pm",
+            "location": "TBD",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
+            "type": "Study Hours and Professional Development Workshop",
+            "date": "9/10",
+            "time": "TBD",
+            "location": "TBD",
+            "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
+        },
+        
+        {
+            "type": "Speed Dating",
+            "date": "9/11",
+            "time":  "7:00pm-9:00pm",
+            "location": "UNB 3.304 ~Quadrangle Room~",
+            "gmaps": "https://goo.gl/maps/scs7YQAHKeqG3FFY6"
+        },
+        {
+            "type": "Rush Interviews (*Required for Closed Rush*)",
+            "date": "9/12",
+            "time": "TBD",
+            "location": "TBD",
+            "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
+        }
+
+    ],
+
+      "closed_rush_events": [
+        {
             "type": "Zilker Picnic",
             "date": "9/15",
-            "time": "5:00-8:00pm",
+            "time": "11:00am-1:00pm",
             "location": "Zilker Park",
             "gmaps": "https://goo.gl/maps/3h5urFpgbMD2"
         },
         {
-            "type": "Pease Park Cleanup",
+            "type": "Pizza Press Profit Share",
             "date": "9/16",
-            "time": "10:00am-12:00pm",
-            "location": "Pease Park",
-            "gmaps": "https://goo.gl/maps/cphN4PDA9Gz"
+            "time": "6:00-9:00pm",
+            "location": "Pizza Press on 26th St.",
+            "gmaps": "https://goo.gl/maps/wPd9vjhehbo"
         },
         {
-            "type": "Union Bowling",
-            "date": "9/19",
+            "type": "Capture The Flag",
+            "date": "9/18",
             "time": "6:00-8:00pm",
-            "location": "Union Underground",
+            "location": "Adams-Hemphill Neighborhood Park",
+            "gmaps": "https://goo.gl/maps/JLV9Jy8Wxhnm69P78"
+        },
+        {
+            "type": "Dave's",
+            "date": "9/19",
+            "time": "7:30-9:30pm",
+            "location": "Varsity Pizza & Pints",
+            "gmaps": "https://goo.gl/maps/gYPSu4URc7Lei94y6"
+        },
+        {
+            "type": "Game Night",
+            "date": "9/20",
+            "time": "6:00-8:00pm",
+            "location": "TBD",
             "gmaps": "https://goo.gl/maps/sJru8VsNw7E2"
         }
     ]
