@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html>
 <head>
         <meta charset="utf-8">
@@ -71,25 +71,25 @@
                 </div><!-- .navbar-collapse -->
             </div><!-- .container-fluid -->
         </nav>
-        <div class="backgroundbillboardr">
+
         <div class="container  nav-margin">
             <div class="row">
-                    <h1 style="color:white;" class="text-center">Officers</h1>
+                <div class="col-xs-12">
+                    <h1 class="text-center">Officers</h1>
+                </div>
             </div>
-            <div class="officers-line" id="officers-list">
-            </div>
-
+            <div class="officers-line" id="officers-list"></div>
             <div class="row">
                 <div class="col-xs-12">
-                    <h1 style="color:white;" class="text-center">Committee Heads</h1>
+                    <h1 class="text-center">Committee Heads</h1>
                 </div>
             </div>
             <div id="committee-heads-list"></div>
         </div>
 
-            <script id="officers-list-template" type="text/x-handlebars-template">
-                {{#everyNth this 6}}
-                {{#if isModZeroNotFirst}}
+        <script id="officers-list-template" type="text/x-handlebars-template">
+{{#everyNth this 6}}
+    {{#if isModZeroNotFirst}}
         </div>
     {{/if}}
     {{#if isModZero}}
@@ -159,11 +159,9 @@
                 });
             });
         </script>
-        </div>
         <div class='footer'>
             <h3>"Whatsoever thy hand findeth to do, do it with thy might!" Ecclesiastes 9:10</h3>
         </div>
-            
 
         <!-- Include all compiled plugins (below), or include individual files as needed -->
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>

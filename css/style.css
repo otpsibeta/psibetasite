@@ -17,30 +17,6 @@ body {
     border-bottom: 1px solid #e8e8e8;
 }
 
-.backgroundbillboard {
-    height: 1100px;
-    background: url('../img/background1.jpg') no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-.backgroundbillboardr {
-    background: url('../img/background2.jpg');
-    background-repeat: repeat-y;
-    background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-.backgroundbillboardt {
-    background: url('../img/background3.jpg');
-    background-repeat: repeat-y;
-    background-position: center;
-    background-size: cover;
-}
-
 .billboard {
     height: 650px;
     background: url('../img/splash.jpg') no-repeat center center;
@@ -132,7 +108,7 @@ body {
     box-shadow: 0px 0px 10px 0px #839496;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
-    -html-border-radius: 8px;
+    -khtml-border-radius: 8px;
     border-radius: 8px;
 }
 
