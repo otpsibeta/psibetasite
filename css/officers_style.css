@@ -1,13 +1,17 @@
+h1 {
+    text-shadow: 2px 2px #000000;
+}
+
 .officers-line {
     border-bottom: 1px solid #e8e8e8;
     padding-bottom: 20px;
 }
 
 .officer-frame {
-    width: 380px;  /*modify this to make officer data fit*/
+    width: 380px; /*modify this to make officer data fit*/
     padding: 10px 10px 10px 10px;
     margin: 10px 10px 20px 10px;
-    background-color: #e8e8e8;
+    background-color: rgba(251, 191, 112, 0.85);
     border-radius: 10px;
 }
 
@@ -30,6 +34,7 @@
 
 .officer-ul {
     display: inline-block;
+    color: #444444;
     vertical-align: middle;
     list-style: none;
     padding-left: 0px;
@@ -43,7 +48,7 @@
 
 ul.officer-name {
     font-size: 16px;
-    border-bottom: 1px solid #d8d8d8;
+    border-bottom: 1px solid #ffffff;
     list-style: none;
     padding: 0px;
 }
@@ -53,7 +58,7 @@ ul.officer-name li:first-child {
 }
 
 ul.officer-data {
-    border-bottom: 1px solid #d8d8d8;
+    border-bottom: 1px solid #ffffff;
     list-style: none;
     padding: 0px;
     margin-bottom: 8px;
