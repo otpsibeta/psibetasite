@@ -4,8 +4,8 @@
     margin: 10px auto;
     display: block;
     padding-bottom: 10px;
-    width: 500px;
-    height: 500px;
+    width: 800px;
+    height: 600px;
 }
 
 .rush-title {
@@ -24,7 +24,7 @@
     box-sizing: content-box;
     background-color: #e8e8e8;
     margin: 12px auto 40px auto;
-    width: 310px;
+    width: 350px;
     padding: 12px;
     border-radius: 10px;
 }

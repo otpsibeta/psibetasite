@@ -38,6 +38,28 @@ body {
     background: url('../img/background3.jpg');
     background-repeat: repeat-y;
     background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.backgroundbillboarda {
+    background: url('../img/background4.jpg');
+    background-repeat: repeat-y;
+    background-position: center;
+    /*background-size: cover;*/
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+.bg {
+    /* The image used */
+    background-image: url("background3.jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -150,7 +172,7 @@ body {
 }
 
 .navbar {
-    background-color: #c11714;
+    background-color: #981311;
 }
 
 .navbar-right {
@@ -178,7 +200,7 @@ body {
 }
 
 #dropdown-toggle {
-    background-color: #c11714;
+    background-color: #981311;
     color: white;
 }
 
@@ -187,7 +209,7 @@ body {
 }
 
 .dropdown-menu {
-    background-color: #c11714;
+    background-color: #981311;
 }
 
 .dropdown-menu li {
@@ -202,6 +224,7 @@ body {
 
 body p {
     font-family: 'Open Sans', sans-serif;
+    color: black;
     font-size: 175%;
 }
 
@@ -210,7 +233,7 @@ body p {
 }
 
 .footer {
-    background-color: #c11714;
+    background-color: #981311;
     height: 60px;
 }
 

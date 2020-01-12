@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
         <meta charset="utf-8">
@@ -70,22 +70,22 @@
                 </div><!-- .navbar-collapse -->
             </div><!-- .container-fluid -->
         </nav>
-
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <!--<div class="well pull-right">
+        <div class="backgroundbillboarda">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <!--<div class="well pull-right">
                         <a href="https://docs.google.com/forms/d/1SSUhVomHohBS4TyHyjbvtkzLxzCS4hnhE0OQWD8U5pA/viewform" target="_blank">See a mistake? Let us know.</a>
                     </div>-->
-                    <h1 class="text-center">Alumni</h1>
+                        <h1 class="text-center" style="color: white">Alumni</h1>
+                    </div>
                 </div>
+                <div id="alumni-list"></div>
             </div>
-            <div id="alumni-list"></div>
-        </div>
 
-        <script id="alumni-list-template" type="text/x-handlebars-template">
-{{#everyNth alumni 6}}
-    {{#if isModZeroNotFirst}}
+            <script id="alumni-list-template" type="text/x-handlebars-template">
+                {{#everyNth alumni 6}}
+                {{#if isModZeroNotFirst}}
         </div>
     {{/if}}
     {{#if isModZero}}
