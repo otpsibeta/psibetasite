@@ -4,8 +4,8 @@
     margin: 10px auto;
     display: block;
     padding-bottom: 10px;
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
 }
 
 .rush-title {
@@ -97,7 +97,7 @@
     display: block;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 700px) {
     iframe {
         width: 320px;
         height: 238px;
@@ -108,7 +108,7 @@
         display: block;
         padding-bottom: 10px;
         width: 100%;
-        height: 100%;
+        height: 320px;
     }
 
     .rush-cover {
