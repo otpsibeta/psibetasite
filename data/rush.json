@@ -4,21 +4,21 @@
             "type": "Info Session #1",
             "date": "01/27",
             "time": "7:00-8:00pm",
-            "location": "CPE TBD",
+            "location": "CPE 2.210",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
             "type": "Info Session #2",
             "date": "01/28",
             "time": "7:00-8:00pm",
-            "location": "CPE TBD",
+            "location": "CPE 2.210",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
             "type": "Info Session #3",
             "date": "01/29",
             "time": "7:00-8:00pm",
-            "location": "CPE TBD",
+            "location": "CPE 2.210",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
@@ -32,7 +32,7 @@
             "type": "Info Session #4",
             "date": "01/30",
             "time": "6:00-7:00pm",
-            "location": "CPE TBD",
+            "location": "CPE 2.210",
             "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         },
         {
@@ -60,8 +60,8 @@
             "type": "Study Hours and EXPO Prep",
             "date": "02/04",
             "time": "7:00pm-11:00pm",
-            "location": "TBD",
-            "gmaps": ""
+            "location": "ECJ 1.222",
+            "gmaps": "https://goo.gl/maps/SoeMGa8WvbiCY2P77"
         },
         {
             "type": "Pizza Press",
@@ -74,8 +74,8 @@
             "type": "Rush Interviews (*Required for Closed Rush*)",
             "date": "02/06",
             "time": "7:00pm",
-            "location": "TBD",
-            "gmaps": ""
+            "location": "CPE 2.206",
+            "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
         }
 
     ],
