@@ -103,7 +103,7 @@
       "pledge_name": "Rug",
       "pledge_class": "Kappa Gamma F'17",
       "major": "Electrical",
-      "officer_letters": "TT! RR! Y!"
+      "officer_letters": "TT! RR! YY! W!"
     },
     {
       "img": "524.jpg",
@@ -136,7 +136,7 @@
       "pledge_name": "The Graduate",
       "pledge_class": "Kappa Gamma F'17",
       "major": "Electrical",
-      "officer_letters": "X!"
+      "officer_letters": "XX!"
     },
     {
       "img": "537.jpg",
@@ -196,7 +196,7 @@
       "pledge_name": "Clutch",
       "pledge_class": "Lambda Gamma S'18",
       "major": "Mechanical",
-      "officer_letters": "VV!"
+      "officer_letters": "VV! X!"
     },
     {
       "img": "548.JPG",
@@ -230,7 +230,7 @@
       "pledge_name": "Tim Burton",
       "pledge_class": "Mu Gamma F'18",
       "major": "Electrical",
-      "officer_letters": "Z!"
+      "officer_letters": "ZZ!"
     },
     {
       "img": "565.jpg",
@@ -271,7 +271,8 @@
       "pin": "569",
       "pledge_name": "Hashbrown",
       "pledge_class": "Mu Gamma F'18",
-      "major": "Electrical"
+      "major": "Electrical", 
+      "officer_letters": "V!"
     },
     {
       "img": "572.jpg",
@@ -328,7 +329,7 @@
       "pledge_name": "All Known Laws of Aviation",
       "pledge_class": "Mu Gamma F'18",
       "major": "Biomedical",
-      "officer_letters": "V!"
+      "officer_letters": "VV! Z!"
     },
     {
       "img": "579.jpg",
@@ -362,7 +363,7 @@
       "pledge_name": "The Hand of God",
       "pledge_class": "Mu Gamma F'18",
       "major": "Mechanical",
-      "officer_letters": "R!"
+      "officer_letters": "RR!"
     },
     {
       "img": "588.jpg",
@@ -403,7 +404,7 @@
       "pledge_name": "Metro Atlanta Rapid Transit Authority",
       "pledge_class": "Nu Gamma S'19",
       "major": "Environmental",
-      "officer_letters": "U!"
+      "officer_letters": "UU! Y!"
     },
     {
       "img": "593.jpg",
@@ -419,7 +420,8 @@
       "pin": "594",
       "pledge_name": "Voussoir",
       "pledge_class": "Nu Gamma S'19",
-      "major": "Civil"
+      "major": "Civil",
+      "officer_letters": "U!"
     },
     {
       "img": "595.jpg",
@@ -428,7 +430,7 @@
       "pledge_name": "Old Fashioned",
       "pledge_class": "Nu Gamma S'19",
       "major": "Electrical",
-      "officer_letters": "T!"
+      "officer_letters": "TT! 0x314E"
     },
     {
       "img": "596.jpg",
@@ -436,7 +438,8 @@
       "pin": "596",
       "pledge_name": "Texas Instruments (pronounced Kerchoo)",
       "pledge_class": "Nu Gamma S'19",
-      "major": "Biomedical"
+      "major": "Biomedical",
+      "officer_letters": "T!"
     },
     {
       "img": "597.jpg",
@@ -460,7 +463,8 @@
       "pin": "599",
       "pledge_name": "I.M. Pei",
       "pledge_class": "Nu Gamma S'19",
-      "major": "Mechanical"
+      "major": "Mechanical",
+      "officer_letters": "R!"
     },
     {
       "img": "600.jpg",
