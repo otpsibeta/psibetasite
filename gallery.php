@@ -1,10 +1,4 @@
-﻿<?php
-// READ FILES FROM THE GALLERY FOLDER
-$dir = __DIR__ . DIRECTORY_SEPARATOR . "gallery" . DIRECTORY_SEPARATOR;
-$images = glob($dir . "*.{jpg,jpeg,gif,png,bmp,webp,JPG}", GLOB_BRACE);
-
-// DRAW HTML ?>
-<!doctype html>
+﻿<!doctype html>
 <html>
 <head>
         <meta charset="utf-8">
@@ -114,13 +108,28 @@ $images = glob($dir . "*.{jpg,jpeg,gif,png,bmp,webp,JPG}", GLOB_BRACE);
         <script type="text/javascript" src="//cdn.jsdelivr.net/handlebarsjs/1.3.0/handlebars.min.js"></script>
         <script type="text/javascript" src="//cdn.jsdelivr.net/underscorejs/1.6.0/underscore-min.js"></script>
         <script type="text/javascript"></script>
-        </div>
+
          <!-- [THE GALLERY] -->
-        <div id="gallery"><?php
-        foreach ($images as $i) {
-            printf("<img src='gallery/%s'/>", basename($i));
-        }
-        ?></div>
+        <div id="gallery">
+            <script>
+            var index = 1;
+            var tempImg = new Image();
+            tempImg.onload = function(){
+               index++;
+               appendImage();
+            }
+            var tryLoadImage = function( index ){
+               tempImg.src = 'gallery/' + index + '.JPG';
+            }
+            var appendImage = function(){
+               var img = document.createElement('img');
+               img.src = tempImg.src;
+               document.activeElement.appendChild( img )
+               tryLoadImage( index )
+            }
+            tryLoadImage( index );
+            </script>
+        </div>
         <div class='footer'>
             <h3>"Whatsoever thy hand findeth to do, do it with thy might!" Ecclesiastes 9:10</h3>
         </div>
