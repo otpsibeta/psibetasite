@@ -19,7 +19,7 @@ body {
 
 .backgroundbillboard {
     /* height: 1100px; */
-    height: 100%;
+    height: auto;
     background: url('../img/background1.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;

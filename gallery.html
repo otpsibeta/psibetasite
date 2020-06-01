@@ -127,17 +127,21 @@
         <script>
             var index = 1;
             var tempImg = new Image();
+            var flag = 0;
             tempImg.onload = function(){
                 index++;
+                flag = 1;
                 appendImage();
             }
             var tryLoadImage = function( index ){
-                tempImg.src = 'gallery/' + index + '.JPG';
+                tempImg.src = 'gallery/' + index + '.jpg';
+                if(flag==0) tempImg.src = 'gallery/' + index + '.JPG';
             }
             var appendImage = function(){
                 var img = document.createElement('img');
                 img.src = tempImg.src;
                 document.getElementById("gallery").appendChild(img);
+                flag=0;
                 tryLoadImage( index )
             }
             tryLoadImage( index );
