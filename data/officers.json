@@ -111,12 +111,12 @@
   ],
   "comm_heads": [
     {
-      "img": "596.jpg",
-      "name": "Felipe Rosero-Castro",
-      "pin": "596",
-      "pledge_name": "Texas Instruments (pronounced Kerchoo)",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Biomedical Engineering",
+      "img": "612.jpg",
+      "name": "Dominic Galiano",
+      "pin": "612",
+      "pledge_name": "Poppin' Fresh",
+      "pledge_class": "Xi Gamma F'19",
+      "major": "Chemical Engineering",
       "email": "#",
       "email-name": "",
       "position": "Professional Development"
@@ -166,17 +166,6 @@
       "position": "Community Service"
     },
     {
-      "img": "575.jpg",
-      "name": "Giselle Nevarez",
-      "pin": "575",
-      "pledge_name": "Marty!",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Biomedical Engineering",
-      "email": "#",
-      "email-name": "",
-      "position": "Community Service"
-    },
-    {
       "img": "580.jpg",
       "name": "Anita Mishra",
       "pin": "580",
@@ -185,18 +174,7 @@
       "major": "Biomedical Engineering",
       "email": "#",
       "email-name": "",
-      "position": "Philanthropy"
-    },
-    {
-      "img": "599.jpg",
-      "name": "Alice Harvey",
-      "pin": "598",
-      "pledge_name": "I.M. Pei",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Mechanical Engineering",
-      "email": "#",
-      "email-name": "",
-      "position": "Merchandise"
+      "position": "Community Service"
     },
     {
       "img": "611.jpg",
@@ -210,10 +188,10 @@
       "position": "Merchandise"
     },
     {
-      "img": "565.jpg",
-      "name": "Jackson Lightfoot",
-      "pin": "565",
-      "pledge_name": "Little Arms",
+      "img": "564.jpg",
+      "name": "Chris Karouta",
+      "pin": "564",
+      "pledge_name": "Tim Burton",
       "pledge_class": "Mu Gamma F'18",
       "major": "Electrical Engineering",
       "email": "#",
@@ -221,12 +199,12 @@
       "position": "Brotherhood"
     },
     {
-      "img": "567.jpg",
-      "name": "Elise Betts",
-      "pin": "567",
-      "pledge_name": "Lotus",
+      "img": "573.jpg",
+      "name": "Shelby Gammon",
+      "pin": "573",
+      "pledge_name": "Snoopy",
       "pledge_class": "Mu Gamma F'18",
-      "major": "Civil Engineering",
+      "major": "Biomedical Engineering",
       "email": "#",
       "email-name": "",
       "position": "Brotherhood"
@@ -243,34 +221,34 @@
       "position": "Social Media"
     },
     {
-      "img": "542.JPG",
-      "name": "Chance Mason",
-      "pin": "542",
-      "pledge_name": "Green",
-      "pledge_class": "Lambda Gamma S'18",
-      "major": "Mechanical Engineering",
+      "img": "602.jpg",
+      "name": "Sierra Jackson",
+      "pin": "602",
+      "pledge_name": ":b:ill Nye",
+      "pledge_class": "Nu Gamma S'19",
+      "major": "Biomedical Engineering",
       "email": "#",
       "email-name": "",
       "position": "Academic"
     },
     {
-      "img": "473.jpg",
-      "name": "Will Bamberg",
-      "pin": "473",
-      "pledge_name": "Lonestar",
-      "pledge_class": "Theta Gamma F'16",
+      "img": "624.jpg",
+      "name": "Kobe Thomas",
+      "pin": "624",
+      "pledge_name": "Simon Didn't Say",
+      "pledge_class": "Xi Gamma F'19",
       "major": "Mechanical Engineering",
       "email": "#",
       "email-name": "",
       "position": "Health & Wellness"
     },
     {
-      "img": "604.jpg",
-      "name": "Tarek Allam",
-      "pin": "604",
-      "pledge_name": "Wit or Witout",
+      "img": "597.jpg",
+      "name": "Elizabeth Martinez",
+      "pin": "597",
+      "pledge_name": "S-Car-Go",
       "pledge_class": "Nu Gamma S'19",
-      "major": "Electrical Engineering",
+      "major": "Aerospace Engineering",
       "email": "#",
       "email-name": "",
       "position": "Housing"
