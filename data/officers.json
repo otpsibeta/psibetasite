@@ -196,7 +196,7 @@
       "major": "Electrical Engineering",
       "email": "#",
       "email-name": "",
-      "position": "Brotherhood"
+      "position": "Social"
     },
     {
       "img": "573.jpg",
@@ -205,6 +205,17 @@
       "pledge_name": "Snoopy",
       "pledge_class": "Mu Gamma F'18",
       "major": "Biomedical Engineering",
+      "email": "#",
+      "email-name": "",
+      "position": "Social"
+    },
+    {
+      "img": "604.jpg",
+      "name": "Tarek Allam",
+      "pin": "604",
+      "pledge_name": "Wit or Witout",
+      "pledge_class": "Nu Gamma S'19",
+      "major": "Electrical Engineering",
       "email": "#",
       "email-name": "",
       "position": "Brotherhood"
