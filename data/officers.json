@@ -111,15 +111,26 @@
   ],
   "comm_heads": [
     {
-      "img": "612.jpg",
-      "name": "Dominic Galiano",
-      "pin": "612",
-      "pledge_name": "Poppin' Fresh",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Chemical Engineering",
+      "img": "602.jpg",
+      "name": "Sierra Jackson",
+      "pin": "602",
+      "pledge_name": ":b:ill Nye",
+      "pledge_class": "Nu Gamma S'19",
+      "major": "Biomedical Engineering",
       "email": "#",
       "email-name": "",
-      "position": "Professional Development"
+      "position": "Academic"
+    },
+    {
+      "img": "604.jpg",
+      "name": "Tarek Allam",
+      "pin": "604",
+      "pledge_name": "Wit or Witout",
+      "pledge_class": "Nu Gamma S'19",
+      "major": "Electrical Engineering",
+      "email": "#",
+      "email-name": "",
+      "position": "Brotherhood"
     },
     {
       "img": "621.jpg",
@@ -133,26 +144,15 @@
       "position": "Cockrell Relations"
     },
     {
-      "img": "593.jpg",
-      "name": "John Kelly",
-      "pin": "593",
-      "pledge_name": "BAKED",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Mechanical Engineering",
+      "img": "636.jpg",
+      "name": "Daniel Clenney",
+      "pin": "636",
+      "pledge_name": "Bloom",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Architectural Engineering",
       "email": "#",
       "email-name": "",
-      "position": "Fundraising"
-    },
-    {
-      "img": "625.jpg",
-      "name": "Khalid AlManqur",
-      "pin": "625",
-      "pledge_name": "Fists With Toes",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Petroleum Engineering",
-      "email": "#",
-      "email-name": "",
-      "position": "Fundraising"
+      "position": "Cockrell Relations"
     },
     {
       "img": "568.jpg",
@@ -177,6 +177,50 @@
       "position": "Community Service"
     },
     {
+      "img": "624.jpg",
+      "name": "Kobe Thomas",
+      "pin": "624",
+      "pledge_name": "Simon Didn't Say",
+      "pledge_class": "Xi Gamma F'19",
+      "major": "Mechanical Engineering",
+      "email": "#",
+      "email-name": "",
+      "position": "Health & Wellness"
+    },
+    {
+      "img": "646.jpg",
+      "name": "Christine Yan",
+      "pin": "646",
+      "pledge_name": "Kool-aider",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Chemical Engineering",
+      "email": "#",
+      "email-name": "",
+      "position": "Health & Wellness"
+    },
+    {
+      "img": "597.jpg",
+      "name": "Elizabeth Martinez",
+      "pin": "597",
+      "pledge_name": "S-Car-Go",
+      "pledge_class": "Nu Gamma S'19",
+      "major": "Aerospace Engineering",
+      "email": "#",
+      "email-name": "",
+      "position": "Housing"
+    },
+    {
+      "img": "635.jpg",
+      "name": "Ethan Helfman",
+      "pin": "635",
+      "pledge_name": "Rupert",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Chemical Engineering",
+      "email": "#",
+      "email-name": "",
+      "position": "Mental Health"
+    },
+    {
       "img": "611.jpg",
       "name": "Dennis Fer",
       "pin": "611",
@@ -186,6 +230,28 @@
       "email": "#",
       "email-name": "",
       "position": "Merchandise"
+    },
+    {
+      "img": "645.jpg",
+      "name": "Alaynah Murphy",
+      "pin": "645",
+      "pledge_name": "Martini",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Biomedical Engineering",
+      "email": "#",
+      "email-name": "",
+      "position": "Philanthropy"
+    },
+    {
+      "img": "612.jpg",
+      "name": "Dominic Galiano",
+      "pin": "612",
+      "pledge_name": "Poppin' Fresh",
+      "pledge_class": "Xi Gamma F'19",
+      "major": "Chemical Engineering",
+      "email": "#",
+      "email-name": "",
+      "position": "Professional Development"
     },
     {
       "img": "564.jpg",
@@ -210,17 +276,6 @@
       "position": "Social"
     },
     {
-      "img": "604.jpg",
-      "name": "Tarek Allam",
-      "pin": "604",
-      "pledge_name": "Wit or Witout",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Electrical Engineering",
-      "email": "#",
-      "email-name": "",
-      "position": "Brotherhood"
-    },
-    {
       "img": "613.jpg",
       "name": "Hana Cole",
       "pin": "613",
@@ -230,39 +285,6 @@
       "email": "#",
       "email-name": "",
       "position": "Social Media"
-    },
-    {
-      "img": "602.jpg",
-      "name": "Sierra Jackson",
-      "pin": "602",
-      "pledge_name": ":b:ill Nye",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Biomedical Engineering",
-      "email": "#",
-      "email-name": "",
-      "position": "Academic"
-    },
-    {
-      "img": "624.jpg",
-      "name": "Kobe Thomas",
-      "pin": "624",
-      "pledge_name": "Simon Didn't Say",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Mechanical Engineering",
-      "email": "#",
-      "email-name": "",
-      "position": "Health & Wellness"
-    },
-    {
-      "img": "597.jpg",
-      "name": "Elizabeth Martinez",
-      "pin": "597",
-      "pledge_name": "S-Car-Go",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Aerospace Engineering",
-      "email": "#",
-      "email-name": "",
-      "position": "Housing"
     }
   ]
 }
