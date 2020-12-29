@@ -25,7 +25,7 @@
       "pledge_name": "Rug",
       "pledge_class": "Kappa Gamma F'17",
       "major": "Electrical",
-      "officer_letters": "TT! RR! YY! W!"
+      "officer_letters": "TT! RR! YY! WW!"
     },
     {
       "img": "527.jpg",
@@ -84,7 +84,7 @@
       "pledge_name": "Clutch",
       "pledge_class": "Lambda Gamma S'18",
       "major": "Mechanical",
-      "officer_letters": "VV! X!"
+      "officer_letters": "VV! XX!"
     },
     {
       "img": "561.JPG",
@@ -127,7 +127,8 @@
       "pin": "566",
       "pledge_name": "Press F to Pay Respects",
       "pledge_class": "Mu Gamma F'18",
-      "major": "Electrical"
+      "major": "Electrical",
+      "officer_letters": "W!"
     },
     {
       "img": "568.jpg",
@@ -144,7 +145,7 @@
       "pledge_name": "Hashbrown",
       "pledge_class": "Mu Gamma F'18",
       "major": "Electrical", 
-      "officer_letters": "V!"
+      "officer_letters": "VV! Y!"
     },
     {
       "img": "572.jpg",
@@ -243,7 +244,7 @@
       "pledge_name": "Metro Atlanta Rapid Transit Authority",
       "pledge_class": "Nu Gamma S'19",
       "major": "Environmental",
-      "officer_letters": "UU! Y!"
+      "officer_letters": "UU! YY! X!"
     },
     {
       "img": "593.jpg",
@@ -260,7 +261,7 @@
       "pledge_name": "Voussoir",
       "pledge_class": "Nu Gamma S'19",
       "major": "Civil",
-      "officer_letters": "U!"
+      "officer_letters": "UU!"
     },
     {
       "img": "595.jpg",
@@ -278,7 +279,7 @@
       "pledge_name": "Texas Instruments (pronounced Kerchoo)",
       "pledge_class": "Nu Gamma S'19",
       "major": "Biomedical",
-      "officer_letters": "T!"
+      "officer_letters": "TT!"
     },
     {
       "img": "597.jpg",
@@ -375,7 +376,8 @@
       "pin": "613",
       "pledge_name": "Raisin Bran Crunch",
       "pledge_class": "Xi Gamma F'19",
-      "major": "Biomedical"
+      "major": "Biomedical",
+      "officer_letters": "V!"
     },
     {
       "img": "614.jpg",
@@ -527,7 +529,8 @@
       "pin": "632",
       "pledge_name": "Bo Peep",
       "pledge_class": "Omicron Gamma S'20",
-      "major": "Biomedical"
+      "major": "Biomedical",
+      "officer_letters": "U!"
     },
     {
       "img": "633.jpg",
@@ -607,7 +610,8 @@
       "pin": "642",
       "pledge_name": "Zazu",
       "pledge_class": "Omicron Gamma S'20",
-      "major": "Chemical"
+      "major": "Chemical",
+      "officer_letters": "T!"
     },
     {
       "img": "643.jpg",

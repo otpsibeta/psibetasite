@@ -1,11 +1,74 @@
 {
     "open_rush_events": [
         {
-            "type": "Come back later for full rush schedule!",
-            "date": "TBD",
-            "time": "TBD",
-            "location": "TBD",
-            "gmaps": "https://goo.gl/maps/Emu8qYr1SSK2"
+            "type": "Info Session #1",
+            "date": "1/25",
+            "time": "7:00-8:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Info Session #2",
+            "date": "1/26",
+            "time": "7:00-8:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Info Session #3",
+            "date": "1/27",
+            "time": "6:00-7:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Info Session #4",
+            "date": "1/28",
+            "time": "6:00-7:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Mario (Zoom) Party",
+            "date": "1/29",
+            "time": "6:00-8:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Game Club",
+            "date": "1/30",
+            "time": "6:00-8:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Perfect Couple",
+            "date": "2/1",
+            "time": "6:00-8:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Expo Prep",
+            "date": "2/2",
+            "time": "6:00-8:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Media Swap",
+            "date": "2/3",
+            "time": "6:00-7:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
+        },
+        {
+            "type": "Bid Interviews",
+            "date": "2/4",
+            "time": "5:00-8:00pm",
+            "location": "Zoom",
+            "gmaps": "https://utexas.zoom.us/j/9523579148"
         }
     ],
 
