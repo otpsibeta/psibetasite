@@ -3323,12 +3323,28 @@
       "major": "Mechanical"
     },
     {
+      "img": "527.jpg",
+      "name": "Jacob Greenly",
+      "pin": "527",
+      "pledge_name": "Tokyo Drift",
+      "pledge_class": "Kappa Gamma F'17",
+      "major": "Aerospace"
+    },
+    {
       "img": "528.JPG",
       "name": "Ekin Ugurel",
       "pin": "528",
       "pledge_name": "Jager Bomb",
       "pledge_class": "Kappa Gamma F'17",
       "major": "Civil"
+    },
+    {
+      "img": "529.jpg",
+      "name": "Nicole Cravey",
+      "pin": "529",
+      "pledge_name": "Tandy",
+      "pledge_class": "Kappa Gamma F'17",
+      "major": "Aerospace"
     },
     {
       "img": "530.jpg",
@@ -3411,6 +3427,15 @@
       "pledge_name": "Blitzen",
       "pledge_class": "Lambda Gamma S'18",
       "major": "Mechanical"
+    },
+    {
+      "img": "542.JPG",
+      "name": "Chance Mason",
+      "pin": "542",
+      "pledge_name": "Green",
+      "pledge_class": "Lambda Gamma S'18",
+      "major": "Mechanical",
+      "officer_letters": "YY!"
     },
     {
       "img": "544.JPG",
@@ -3541,6 +3566,14 @@
       "major": "Civil"
     },
     {
+      "img": "561.JPG",
+      "name": "Kelly Kaufhold",
+      "pin": "561",
+      "pledge_name": "101 Dalmations",
+      "pledge_class": "Lambda Gamma S'18",
+      "major": "Aerospace"
+    },
+    {
       "img": "562.JPG",
       "name": "Shania Safira",
       "pin": "562",
@@ -3561,6 +3594,22 @@
       "name": "Angel Cheng",
       "pin": "571",
       "pledge_name": "Battlestar",
+      "pledge_class": "Mu Gamma F'18",
+      "major": "Electrical"
+    },
+    {
+      "img": "573.jpg",
+      "name": "Shelby Gammon",
+      "pin": "573",
+      "pledge_name": "Snoopy",
+      "pledge_class": "Mu Gamma F'18",
+      "major": "Biomedical"
+    },
+    {
+      "img": "577.jpg",
+      "name": "David Lok",
+      "pin": "577",
+      "pledge_name": "Glass Slipper",
       "pledge_class": "Mu Gamma F'18",
       "major": "Electrical"
     },
@@ -3631,6 +3680,22 @@
       "major": "Mechanical"
     },
     {
+      "img": "589.jpg",
+      "name": "Jo Onofre",
+      "pin": "589",
+      "pledge_name": "Fireball",
+      "pledge_class": "Mu Gamma F'18",
+      "major": "Electrical"
+    },
+    {
+      "img": "590.jpg",
+      "name": "Gene Fannin",
+      "pin": "590",
+      "pledge_name": "The Matrix",
+      "pledge_class": "Mu Gamma F'18",
+      "major": "Mechanical"
+    },
+    {
       "img": "598.jpg",
       "name": "Santosh Balachandra",
       "pin": "598",
@@ -3655,6 +3720,14 @@
       "major": "Mechanical"
     },
     {
+      "img": "606.jpg",
+      "name": "Katherine Deegan",
+      "pin": "606",
+      "pledge_name": "A-A-Ron",
+      "pledge_class": "Nu Gamma S'19",
+      "major": "Mechanical"
+    },
+    {
       "img": "608.jpg",
       "name": "Amy Lee",
       "pin": "608",
@@ -3669,6 +3742,22 @@
       "pledge_name": "I Want It That Way",
       "pledge_class": "Nu Gamma S'19",
       "major": "Mechanical"
+    },
+    {
+      "img": "615.jpg",
+      "name": "Alexa Seward",
+      "pin": "615",
+      "pledge_name": "Gimlet",
+      "pledge_class": "Xi Gamma F'19",
+      "major": "Mechanical"
+    },
+    {
+      "img": "621.jpg",
+      "name": "Richard Lee",
+      "pin": "621",
+      "pledge_name": "Mom's Spaghetti",
+      "pledge_class": "Xi Gamma F'19",
+      "major": "Civil"
     }
   ]
 }
