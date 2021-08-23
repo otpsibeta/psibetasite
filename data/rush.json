@@ -2,73 +2,73 @@
     "open_rush_events": [
         {
             "type": "Info Session #1",
-            "date": "1/25",
+            "date": "8/30",
             "time": "7:00-8:00pm",
-            "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
+            "location": "CPE 2.206",
+            "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
         },
         {
             "type": "Info Session #2",
-            "date": "1/26",
+            "date": "8/31",
             "time": "7:00-8:00pm",
-            "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
+            "location": "CPE 2.206",
+            "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
         },
         {
-            "type": "Info Session #3",
-            "date": "1/27",
-            "time": "6:00-7:00pm",
+            "type": "Info Session #3 and CP&Y Company talk ",
+            "date": "9/1",
+            "time": "6:00-8:00pm",
             "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
+            "gmaps": "https://utexas.zoom.us/j/2107762722"
         },
         {
             "type": "Info Session #4",
-            "date": "1/28",
+            "date": "9/2",
             "time": "6:00-7:00pm",
+            "location": "CPE 2.206",
+            "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
+        },
+        {
+            "type": "Mount Bonnell + P Terry's",
+            "date": "9/3",
+            "time": "6:00pm",
+            "location": "Zoom",
+            "gmaps": "https://goo.gl/maps/WP944C8u7zTM26Fx5"
+        },
+        {
+            "type": "Pease Park Cleanup",
+            "date": "9/5",
+            "time": "10am",
+            "location": "Zoom",
+            "gmaps": "https://goo.gl/maps/9RwEERBTvMqLsX9M8"
+        },
+        {
+            "type": "Hemphill Park Frisbee/ball/vibe",
+            "date": "9/6",
+            "time": "6:00pm",
             "location": "Zoom",
             "gmaps": "https://utexas.zoom.us/j/9523579148"
         },
         {
-            "type": "Mario (Zoom) Party",
-            "date": "1/29",
-            "time": "6:00-8:00pm",
+            "type": "Study Hours + Resume Workshop",
+            "date": "9/7",
+            "time": "7:00pm",
             "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
+            "gmaps": "https://utexas.zoom.us/j/2107762722"
         },
         {
-            "type": "Game Club",
-            "date": "1/30",
-            "time": "6:00-8:00pm",
-            "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
+            "type": "Speed Dating",
+            "date": "9/8",
+            "time": "6:00pm",
+            "location": "Union 3.502 Santa Rita Suite",
+            "gmaps": "https://goo.gl/maps/grKYevqn1eeRwFjG9"
         },
         {
-            "type": "Perfect Couple",
-            "date": "2/1",
-            "time": "6:00-8:00pm",
-            "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
-        },
-        {
-            "type": "Expo Prep",
-            "date": "2/2",
-            "time": "6:00-8:00pm",
-            "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
-        },
-        {
-            "type": "Media Swap",
-            "date": "2/3",
-            "time": "6:00-7:00pm",
-            "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
-        },
-        {
-            "type": "Bid Interviews",
-            "date": "2/4",
-            "time": "5:00-8:00pm",
-            "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/9206906760"
+            "type": "Rush Interviews",
+            "date": "9/9",
+            "time": "6:00-8:30pm",
+            "location": "CPE 2.206/Zoom",
+            "gmaps": "https://utexas.zoom.us/j/2107762722"
         }
     ],
 
