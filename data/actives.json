@@ -16,7 +16,7 @@
       "pledge_name": "Bye Felicia",
       "pledge_class": "Lambda Gamma S'18",
       "major": "Mechanical",
-      "officer_letters": "UU!"
+      "officer_letters": "UU! X!"
     },
     {
       "img": "543.JPG",
@@ -87,15 +87,6 @@
       "major": "Electrical"
     },
     {
-      "img": "578.jpg",
-      "name": "Emma Ito",
-      "pin": "578",
-      "pledge_name": "All Known Laws of Aviation",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Biomedical",
-      "officer_letters": "VV! Z!"
-    },
-    {
       "img": "580.jpg",
       "name": "Anita Mishra",
       "pin": "580",
@@ -120,6 +111,7 @@
       "pledge_name": "BAKED",
       "pledge_class": "Nu Gamma S'19",
       "major": "Mechanical"
+      "officer_letters": "Y!"
     },
     {
       "img": "594.jpg",
@@ -128,7 +120,7 @@
       "pledge_name": "Voussoir",
       "pledge_class": "Nu Gamma S'19",
       "major": "Civil",
-      "officer_letters": "UU!"
+      "officer_letters": "UU! W!"
     },
     {
       "img": "595.jpg",
@@ -179,6 +171,7 @@
       "pledge_name": "Poppin' Fresh",
       "pledge_class": "Xi Gamma F'19",
       "major": "Chemical"
+      "officer_letters": "Z!"
     },
     {
       "img": "613.jpg",
@@ -187,7 +180,7 @@
       "pledge_name": "Raisin Bran Crunch",
       "pledge_class": "Xi Gamma F'19",
       "major": "Biomedical",
-      "officer_letters": "V!"
+      "officer_letters": "VV! U!"
     },
     {
       "img": "614.jpg",
@@ -292,6 +285,7 @@
       "pledge_name": "Walk a Mile in These Louis Vuittons",
       "pledge_class": "Xi Gamma F'19",
       "major": "Mechanical"
+      "officer_letters": "T!"
     },
     {
       "img": "630.jpg",
@@ -300,6 +294,7 @@
       "pledge_name": "Bully-Sevo",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Electrical"
+      "officer_letters": "0xDD1C"
     },
     {
       "img": "631.jpg",
@@ -341,6 +336,7 @@
       "pledge_name": "Rupert",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Chemical"
+      "officer_letters": "V!"
     },
     {
       "img": "636.jpg",
@@ -422,6 +418,7 @@
       "pledge_name": "Martini",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Biomedical"
+      "officer_letters": "R!"
     },
     {
       "img": "646.jpg",
@@ -475,7 +472,7 @@
       "img": "652.jpg",
       "name": "Savannah Smith",
       "pin": "652",
-      "pledge_name": "Nori",
+      "pledge_name": "🅱️ishop",
       "pledge_class": "Pi Gamma S'21",
       "major": "Computational"
     },
@@ -483,7 +480,7 @@
       "img": "653.jpg",
       "name": "Emma George",
       "pin": "653",
-      "pledge_name": "Nori",
+      "pledge_name": "Sandy Cheeks",
       "pledge_class": "Pi Gamma S'21",
       "major": "Civil"
     },
@@ -491,7 +488,7 @@
       "img": "654.jpg",
       "name": "Sara Faulkner",
       "pin": "654",
-      "pledge_name": "Nori",
+      "pledge_name": "Tator Tot",
       "pledge_class": "Pi Gamma S'21",
       "major": "Biomedical"
     },
@@ -499,7 +496,7 @@
       "img": "655.jpg",
       "name": "Gaby Franco",
       "pin": "655",
-      "pledge_name": "Nori",
+      "pledge_name": "4420 N Lamar Blvd",
       "pledge_class": "Pi Gamma S'21",
       "major": "Biomedical"
     },
@@ -507,7 +504,7 @@
       "img": "656.jpg",
       "name": "Harsha Rajesh",
       "pin": "656",
-      "pledge_name": "Nori",
+      "pledge_name": "Pizza Nut",
       "pledge_class": "Pi Gamma S'21",
       "major": "Aerospace"
     },
@@ -515,7 +512,7 @@
       "img": "657.jpg",
       "name": "Layan Al Hasan",
       "pin": "657",
-      "pledge_name": "Nori",
+      "pledge_name": "Creme, Brute?",
       "pledge_class": "Pi Gamma S'21",
       "major": "Chemical"
     },
@@ -523,7 +520,7 @@
       "img": "658.jpg",
       "name": "Neel Patel",
       "pin": "658",
-      "pledge_name": "Nori",
+      "pledge_name": "$GME",
       "pledge_class": "Pi Gamma S'21",
       "major": "Chemical"
     },
@@ -531,7 +528,7 @@
       "img": "659.jpg",
       "name": "Ethan Connett",
       "pin": "659",
-      "pledge_name": "Nori",
+      "pledge_name": "Funky Monkey",
       "pledge_class": "Pi Gamma S'21",
       "major": "Aerospace"
     },
@@ -539,7 +536,7 @@
       "img": "660.jpg",
       "name": "Srikar Mamillapalli",
       "pin": "660",
-      "pledge_name": "Nori",
+      "pledge_name": "Moo Moo Medows",
       "pledge_class": "Pi Gamma S'21",
       "major": "Mechanical"
     },
@@ -547,7 +544,7 @@
       "img": "661.jpg",
       "name": "Selasie Tse",
       "pin": "661",
-      "pledge_name": "Nori",
+      "pledge_name": "Florida Man",
       "pledge_class": "Pi Gamma S'21",
       "major": "Mechanical"
     },
@@ -555,7 +552,7 @@
       "img": "662.jpg",
       "name": "Hannah Boucher",
       "pin": "662",
-      "pledge_name": "Nori",
+      "pledge_name": "GUMGUM",
       "pledge_class": "Pi Gamma S'21",
       "major": "Mechanical"
     },
@@ -563,7 +560,7 @@
       "img": "663.jpg",
       "name": "Pooja Vedam",
       "pin": "663",
-      "pledge_name": "Nori",
+      "pledge_name": "Mr.Moseby",
       "pledge_class": "Pi Gamma S'21",
       "major": "Chemical"
     },
@@ -571,7 +568,7 @@
       "img": "664.jpg",
       "name": "Ali Japhet",
       "pin": "664",
-      "pledge_name": "Nori",
+      "pledge_name": "B-Dawg",
       "pledge_class": "Pi Gamma S'21",
       "major": "Civil"
     },
@@ -579,7 +576,7 @@
       "img": "665.jpg",
       "name": "Chris An",
       "pin": "665",
-      "pledge_name": "Nori",
+      "pledge_name": "Is She Even Italian?",
       "pledge_class": "Pi Gamma S'21",
       "major": "Mechanical"
     },
@@ -587,7 +584,7 @@
       "img": "666.jpg",
       "name": "Helene Nguyen",
       "pin": "666",
-      "pledge_name": "Nori",
+      "pledge_name": "🎺🎺🎺",
       "pledge_class": "Pi Gamma S'21",
       "major": "Civil"
     }
