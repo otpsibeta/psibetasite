@@ -2,73 +2,73 @@
     "open_rush_events": [
         {
             "type": "Info Session #1",
-            "date": "8/30",
+            "date": "1/24",
             "time": "7:00-8:00pm",
-            "location": "CPE 2.206",
-            "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
+            "location": "Zoom",
+            "gmaps": ""
         },
         {
             "type": "Info Session #2",
-            "date": "8/31",
+            "date": "1/25",
             "time": "7:00-8:00pm",
-            "location": "CPE 2.206",
-            "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
+            "location": "Zoom",
+            "gmaps": ""
         },
         {
-            "type": "Info Session #3 and CP&Y Company talk ",
-            "date": "9/1",
-            "time": "6:00-8:00pm",
+            "type": "Info Session #3",
+            "date": "1/26",
+            "time": "7:00-8:00pm",
             "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/2107762722"
+            "gmaps": ""
         },
         {
             "type": "Info Session #4",
-            "date": "9/2",
-            "time": "6:00-7:00pm",
-            "location": "CPE 2.206",
+            "date": "1/27",
+            "time": "7:00-8:00pm",
+            "location": "CPE, Room TBA",
             "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
         },
         {
             "type": "Mount Bonnell + P Terry's",
-            "date": "9/3",
-            "time": "6:00pm",
-            "location": "Mount Bonnell",
+            "date": "1/28",
+            "time": "5:30pm",
+            "location": "Mount Bonnell, USE RIDESHEET",
             "gmaps": "https://goo.gl/maps/WP944C8u7zTM26Fx5"
         },
         {
+            "type": "Lucky Lab Profit Share",
+            "date": "1/29",
+            "time": "11:00am-2:00pm",
+            "location": "2421 San Antonio St",
+            "gmaps": "https://g.page/luckylabatx?share"
+        },
+        {
             "type": "Pease Park Cleanup",
-            "date": "9/5",
+            "date": "1/30",
             "time": "10am",
-            "location": "Pease Park",
-            "gmaps": "https://goo.gl/maps/9RwEERBTvMqLsX9M8"
+            "location": "Pease Park, 2208 Parkway",
+            "gmaps": "https://goo.gl/maps/GZUkVEt4Ca3rMaMf9"
         },
         {
-            "type": "Hemphill Park Frisbee/ball/vibe",
-            "date": "9/6",
-            "time": "6:00pm",
-            "location": "Hemphill Park",
-            "gmaps": "https://utexas.zoom.us/j/9523579148"
-        },
-        {
-            "type": "Study Hours + Resume Workshop",
-            "date": "9/7",
-            "time": "7:00pm",
-            "location": "Zoom",
-            "gmaps": "https://utexas.zoom.us/j/2107762722"
+            "type": "Study Hours + Expo Prep",
+            "date": "2/1",
+            "time": "7:00pm-11:30pm",
+            "location": "ECJ 1.214",
+            "gmaps": "https://goo.gl/maps/6sqhivtX4xe36sHE72"
         },
         {
             "type": "Speed Dating",
-            "date": "9/8",
-            "time": "6:00pm",
-            "location": "Union 3.502 Santa Rita Suite",
+            "date": "2/2",
+            "time": "7:30-10:00pm",
+            "location": "Union 3.404 Quadrangle Room",
             "gmaps": "https://goo.gl/maps/grKYevqn1eeRwFjG9"
         },
         {
             "type": "Rush Interviews",
-            "date": "9/9",
+            "date": "2/3",
             "time": "6:00-8:30pm",
-            "location": "CPE 2.206/Zoom",
-            "gmaps": "https://utexas.zoom.us/j/2107762722"
+            "location": "CPE 2.210",
+            "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
         }
     ],
 
