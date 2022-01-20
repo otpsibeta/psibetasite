@@ -5,26 +5,26 @@
             "date": "1/24",
             "time": "7:00-8:00pm",
             "location": "Zoom",
-            "gmaps": ""
+            "gmaps": "https://utexas.zoom.us/j/97231547442"
         },
         {
             "type": "Info Session #2",
             "date": "1/25",
             "time": "7:00-8:00pm",
             "location": "Zoom",
-            "gmaps": ""
+            "gmaps": "https://utexas.zoom.us/j/97231547442 "
         },
         {
             "type": "Info Session #3",
             "date": "1/26",
             "time": "7:00-8:00pm",
-            "location": "Zoom",
-            "gmaps": ""
+            "location": "CPE, Room TBA",
+            "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
         },
         {
             "type": "Info Session #4",
             "date": "1/27",
-            "time": "7:00-8:00pm",
+            "time": "6:00-7:00pm",
             "location": "CPE, Room TBA",
             "gmaps": "https://goo.gl/maps/Xscvb4FenLX31KY19"
         },
