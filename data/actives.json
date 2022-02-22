@@ -1,15 +1,6 @@
 {
   "actives": [
     {
-      "img": "521.jpg",
-      "name": "Parisa Mahmud",
-      "pin": "521",
-      "pledge_name": "Rug",
-      "pledge_class": "Kappa Gamma F'17",
-      "major": "Electrical",
-      "officer_letters": "TT! RR! YY! WW!"
-    },
-    {
       "img": "541.JPG",
       "name": "Cyana Chan",
       "pin": "541",
@@ -17,23 +8,6 @@
       "pledge_class": "Lambda Gamma S'18",
       "major": "Mechanical",
       "officer_letters": "UU! X!"
-    },
-    {
-      "img": "543.JPG",
-      "name": "Zachary Lopez",
-      "pin": "543",
-      "pledge_name": "Gillette",
-      "pledge_class": "Lambda Gamma S'18",
-      "major": "Mechanical"
-    },
-    {
-      "img": "564.jpg",
-      "name": "Chris Karouta",
-      "pin": "564",
-      "pledge_name": "Tim Burton",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Electrical",
-      "officer_letters": "ZZ!"
     },
     {
       "img": "565.jpg",
@@ -63,39 +37,6 @@
       "officer_letters": "VV! YY!"
     },
     {
-      "img": "574.jpg",
-      "name": "Anna Poterek",
-      "pin": "574",
-      "pledge_name": "No Doubt",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Environmetal"
-    },
-    {
-      "img": "575.jpg",
-      "name": "Giselle Nevarez",
-      "pin": "575",
-      "pledge_name": "Marty!",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Biomedical"
-    },
-    {
-      "img": "576.JPG",
-      "name": "Jeremiah Davis",
-      "pin": "576",
-      "pledge_name": "Emperor Zurg",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Electrical"
-    },
-    {
-      "img": "580.jpg",
-      "name": "Anita Mishra",
-      "pin": "580",
-      "pledge_name": "Snickerdoodle",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Biomedical",
-      "officer_letters": "UU!"
-    },
-    {
       "img": "592.jpg",
       "name": "Lindsey Nguyen",
       "pin": "592",
@@ -112,15 +53,6 @@
       "pledge_class": "Nu Gamma S'19",
       "major": "Mechanical",
       "officer_letters": "Y!"
-    },
-    {
-      "img": "594.jpg",
-      "name": "Lexi Stotler",
-      "pin": "594",
-      "pledge_name": "Voussoir",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Civil",
-      "officer_letters": "UU! W!"
     },
     {
       "img": "595.jpg",
@@ -191,14 +123,6 @@
       "major": "Mechanical"
     },
     {
-      "img": "616.jpg",
-      "name": "Andrew Rutledge",
-      "pin": "616",
-      "pledge_name": "Obi-Wan",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Mechanical"
-    },
-    {
       "img": "617.jpg",
       "name": "Pulkit Mahajan",
       "pin": "617",
@@ -213,22 +137,6 @@
       "pledge_name": "Flo",
       "pledge_class": "Xi Gamma F'19",
       "major": "Biomedical"
-    },
-    {
-      "img": "620.jpg",
-      "name": "Emily Tyndall",
-      "pin": "620",
-      "pledge_name": "Webster",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Civil"
-    },
-    {
-      "img": "622.jpg",
-      "name": "Christian Galvin",
-      "pin": "622",
-      "pledge_name": "Wednesday Addams",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Civil"
     },
     {
       "img": "623.jpg",
@@ -453,14 +361,6 @@
       "major": "Environmental"
     },
     {
-      "img": "650.jpg",
-      "name": "Annika Balakrishnan",
-      "pin": "650",
-      "pledge_name": "Nori",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Biomedical"
-    },
-    {
       "img": "651.jpg",
       "name": "Cris Lopez",
       "pin": "651",
@@ -489,14 +389,6 @@
       "name": "Sara Faulkner",
       "pin": "654",
       "pledge_name": "Tator Tot",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Biomedical"
-    },
-    {
-      "img": "655.jpg",
-      "name": "Gaby Franco",
-      "pin": "655",
-      "pledge_name": "4420 N Lamar Blvd",
       "pledge_class": "Pi Gamma S'21",
       "major": "Biomedical"
     },
