@@ -3306,7 +3306,7 @@
       "pin": "521",
       "pledge_name": "Rug",
       "pledge_class": "Kappa Gamma F'17",
-      "major": "Electrical"
+      "major": "Electrical",
       "officer_letters": "TT! RR! YY! WW!"
     },
     {
@@ -3471,14 +3471,6 @@
       "pledge_class": "Lambda Gamma S'18",
       "major": "Mechanical",
       "officer_letters": "YY!"
-    },
-    {
-      "img": "543.JPG",
-      "name": "Zachary Lopez",
-      "pin": "543",
-      "pledge_name": "Gillette",
-      "pledge_class": "Lambda Gamma S'18",
-      "major": "Mechanical"
     },
     {
       "img": "544.JPG",
@@ -3837,7 +3829,7 @@
       "pin": "594",
       "pledge_name": "Voussoir",
       "pledge_class": "Nu Gamma S'19",
-      "major": "Civil"
+      "major": "Civil",
       "officer_letters": "UU! W!"
     },
     {
@@ -3947,12 +3939,12 @@
       "major": "Mechanical"
     },
     {
-      "img": "616.jpg",
-      "name": "Andrew Rutledge",
-      "pin": "616",
-      "pledge_name": "Obi-Wan",
+      "img": "618.jpg",
+      "name": "Nick Strauss",
+      "pin": "618",
+      "pledge_name": "Flo",
       "pledge_class": "Xi Gamma F'19",
-      "major": "Mechanical"
+      "major": "Biomedical"
     },
     {
       "img": "619.jpg",
@@ -3985,6 +3977,15 @@
       "pledge_name": "Wednesday Addams",
       "pledge_class": "Xi Gamma F'19",
       "major": "Civil"
+    },
+    {
+      "img": "630.jpg",
+      "name": "Youssef Elsherif",
+      "pin": "630",
+      "pledge_name": "Bully-Sevo",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Electrical",
+      "officer_letters": "0xDD1C"
     },
     {
       "img": "650.jpg",

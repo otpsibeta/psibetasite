@@ -7,7 +7,15 @@
       "pledge_name": "Bye Felicia",
       "pledge_class": "Lambda Gamma S'18",
       "major": "Mechanical",
-      "officer_letters": "UU! X!"
+      "officer_letters": "UU! XX!"
+    },
+    {
+      "img": "543.JPG",
+      "name": "Zachary Lopez",
+      "pin": "543",
+      "pledge_name": "Gillette",
+      "pledge_class": "Lambda Gamma S'18",
+      "major": "Mechanical"
     },
     {
       "img": "565.jpg",
@@ -43,7 +51,7 @@
       "pledge_name": "Metro Atlanta Rapid Transit Authority",
       "pledge_class": "Nu Gamma S'19",
       "major": "Environmental",
-      "officer_letters": "UU! YY! XX!"
+      "officer_letters": "UU! YY! XX! W!"
     },
     {
       "img": "593.jpg",
@@ -52,7 +60,7 @@
       "pledge_name": "BAKED",
       "pledge_class": "Nu Gamma S'19",
       "major": "Mechanical",
-      "officer_letters": "Y!"
+      "officer_letters": "YY!"
     },
     {
       "img": "595.jpg",
@@ -61,7 +69,7 @@
       "pledge_name": "Old Fashioned",
       "pledge_class": "Nu Gamma S'19",
       "major": "Electrical",
-      "officer_letters": "TT! 0x314E"
+      "officer_letters": "TT! 0x314E X!"
     },
     {
       "img": "597.jpg",
@@ -112,7 +120,7 @@
       "pledge_name": "Raisin Bran Crunch",
       "pledge_class": "Xi Gamma F'19",
       "major": "Biomedical",
-      "officer_letters": "VV! U!"
+      "officer_letters": "VV! UU!"
     },
     {
       "img": "614.jpg",
@@ -123,20 +131,20 @@
       "major": "Mechanical"
     },
     {
+      "img": "616.jpg",
+      "name": "Andrew Rutledge",
+      "pin": "616",
+      "pledge_name": "Obi-Wan",
+      "pledge_class": "Xi Gamma F'19",
+      "major": "Mechanical"
+    },
+    {
       "img": "617.jpg",
       "name": "Pulkit Mahajan",
       "pin": "617",
       "pledge_name": "Simba",
       "pledge_class": "Xi Gamma F'19",
       "major": "Electrical"
-    },
-    {
-      "img": "618.jpg",
-      "name": "Nick Strauss",
-      "pin": "618",
-      "pledge_name": "Flo",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Biomedical"
     },
     {
       "img": "623.jpg",
@@ -193,16 +201,7 @@
       "pledge_name": "Walk a Mile in These Louis Vuittons",
       "pledge_class": "Xi Gamma F'19",
       "major": "Mechanical",
-      "officer_letters": "T!"
-    },
-    {
-      "img": "630.jpg",
-      "name": "Youssef Elsherif",
-      "pin": "630",
-      "pledge_name": "Bully-Sevo",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Electrical",
-      "officer_letters": "0xDD1C"
+      "officer_letters": "TT! Y!"
     },
     {
       "img": "631.jpg",
@@ -210,7 +209,8 @@
       "pin": "631",
       "pledge_name": "L'eggo My Eggo",
       "pledge_class": "Omicron Gamma S'20",
-      "major": "Mechanical"
+      "major": "Mechanical",
+      "officer_letters": "U!"
     },
     {
       "img": "632.jpg",
@@ -244,7 +244,7 @@
       "pledge_name": "Rupert",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Chemical",
-      "officer_letters": "V!"
+      "officer_letters": "VV!"
     },
     {
       "img": "636.jpg",
@@ -268,7 +268,8 @@
       "pin": "638",
       "pledge_name": "Queen :b:",
       "pledge_class": "Omicron Gamma S'20",
-      "major": "Aerospace"
+      "major": "Aerospace",
+      "officer_letters": "T!"
     },
     {
       "img": "639.jpg",
@@ -284,7 +285,8 @@
       "pin": "640",
       "pledge_name": "Zest",
       "pledge_class": "Omicron Gamma S'20",
-      "major": "Biomedical"
+      "major": "Biomedical",
+      "officer_letters": "V!"
     },
     {
       "img": "641.jpg",
@@ -326,7 +328,7 @@
       "pledge_name": "Martini",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Biomedical",
-      "officer_letters": "R!"
+      "officer_letters": "RR!"
     },
     {
       "img": "646.jpg",
@@ -342,7 +344,8 @@
       "pin": "647",
       "pledge_name": "She-cago",
       "pledge_class": "Omicron Gamma S'20",
-      "major": "Electrical"
+      "major": "Electrical",
+      "officer_letters": "0x70AD"
     },
     {
       "img": "648.jpg",
@@ -374,7 +377,8 @@
       "pin": "652",
       "pledge_name": "🅱️ishop",
       "pledge_class": "Pi Gamma S'21",
-      "major": "Computational"
+      "major": "Computational",
+      "officer_letters": "R!"
     },
     {
       "img": "653.jpg",
