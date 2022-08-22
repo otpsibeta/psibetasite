@@ -62,7 +62,6 @@
       "pledge_class": "Xi Gamma F'19",
       "major": "Mechanical"
     },
-    
     {
       "img": "623.jpg",
       "name": "Eesha Nayak",
@@ -71,7 +70,6 @@
       "pledge_class": "Xi Gamma F'19",
       "major": "Computational"
     },
-    
     {
       "img": "628.jpg",
       "name": "Nathan Paull",
@@ -191,7 +189,6 @@
       "major": "Chemical",
       "officer_letters": "TT!"
     },
-    
     {
       "img": "644.jpg",
       "name": "Corey Karnei",
@@ -217,8 +214,7 @@
       "pledge_name": "Kool-aider",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Chemical"
-    },
-    
+    }, 
     {
       "img": "648.jpg",
       "name": "Tanten Jones",
@@ -398,7 +394,6 @@
       "pledge_class": "Rho Gamma F'21",
       "major": "Architectural"
     },
-   
     {
       "img": "673.jpg",
       "name": "Malvika Nangia",
@@ -515,5 +510,5 @@
       "major": "Civil"
     }
   ]
-    }
+    
 }
