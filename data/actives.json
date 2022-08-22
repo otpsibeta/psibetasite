@@ -1,22 +1,6 @@
 {
   "actives": [
-    {
-      "img": "541.JPG",
-      "name": "Cyana Chan",
-      "pin": "541",
-      "pledge_name": "Bye Felicia",
-      "pledge_class": "Lambda Gamma S'18",
-      "major": "Mechanical",
-      "officer_letters": "UU! XX!"
-    },
-    {
-      "img": "543.JPG",
-      "name": "Zachary Lopez",
-      "pin": "543",
-      "pledge_name": "Gillette",
-      "pledge_class": "Lambda Gamma S'18",
-      "major": "Mechanical"
-    },
+   
     {
       "img": "565.jpg",
       "name": "Jackson Lightfoot",
@@ -35,42 +19,7 @@
       "major": "Electrical",
       "officer_letters": "WW!"
     },
-    {
-      "img": "569.jpg",
-      "name": "Nicky Dahl",
-      "pin": "569",
-      "pledge_name": "Hashbrown",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Electrical", 
-      "officer_letters": "VV! YY!"
-    },
-    {
-      "img": "592.jpg",
-      "name": "Lindsey Nguyen",
-      "pin": "592",
-      "pledge_name": "Metro Atlanta Rapid Transit Authority",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Environmental",
-      "officer_letters": "UU! YY! XX! WW!"
-    },
-    {
-      "img": "593.jpg",
-      "name": "John Kelly",
-      "pin": "593",
-      "pledge_name": "BAKED",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Mechanical",
-      "officer_letters": "YY!"
-    },
-    {
-      "img": "595.jpg",
-      "name": "Pierce Nguyen",
-      "pin": "595",
-      "pledge_name": "Old Fashioned",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Electrical",
-      "officer_letters": "TT! 0x314E XX!"
-    },
+    
     {
       "img": "597.jpg",
       "name": "Elizabeth Martinez",
@@ -78,31 +27,6 @@
       "pledge_name": "S-Car-Go",
       "pledge_class": "Nu Gamma S'19",
       "major": "Aerospace"
-    },
-    {
-      "img": "599.jpg",
-      "name": "Alice Harvey",
-      "pin": "599",
-      "pledge_name": "I.M. Pei",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Mechanical",
-      "officer_letters": "RR!"
-    },
-    {
-      "img": "600.jpg",
-      "name": "Trevor Matteson",
-      "pin": "600",
-      "pledge_name": "Sweet Victory",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Mechanical"
-    },
-    {
-      "img": "611.jpg",
-      "name": "Dennis Fer",
-      "pin": "611",
-      "pledge_name": "George Herbert Kinsolving",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Biomedical"
     },
     {
       "img": "612.jpg",
@@ -138,14 +62,7 @@
       "pledge_class": "Xi Gamma F'19",
       "major": "Mechanical"
     },
-    {
-      "img": "617.jpg",
-      "name": "Pulkit Mahajan",
-      "pin": "617",
-      "pledge_name": "Simba",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Electrical"
-    },
+    
     {
       "img": "623.jpg",
       "name": "Eesha Nayak",
@@ -154,38 +71,7 @@
       "pledge_class": "Xi Gamma F'19",
       "major": "Computational"
     },
-    {
-      "img": "624.jpg",
-      "name": "Kobe Thomas",
-      "pin": "624",
-      "pledge_name": "Simon Didn't Say",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Mechanical"
-    },
-    {
-      "img": "625.jpg",
-      "name": "Khalid AlManqur",
-      "pin": "625",
-      "pledge_name": "Fists With Toes",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Petroleum"
-    },
-    {
-      "img": "626.jpg",
-      "name": "Ervey Quezada",
-      "pin": "626",
-      "pledge_name": "Schatzi",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Civil"
-    },
-    {
-      "img": "627.jpg",
-      "name": "Alghalia Al Khalifa",
-      "pin": "627",
-      "pledge_name": "Reese's Puffs",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Petroleum"
-    },
+    
     {
       "img": "628.jpg",
       "name": "Nathan Paull",
@@ -305,21 +191,14 @@
       "major": "Chemical",
       "officer_letters": "TT!"
     },
-    {
-      "img": "643.jpg",
-      "name": "Kristen Erlon",
-      "pin": "643",
-      "pledge_name": "Lightly Toasted",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Electrical"
-    },
+    
     {
       "img": "644.jpg",
       "name": "Corey Karnei",
       "pin": "644",
       "pledge_name": "Goofy",
       "pledge_class": "Omicron Gamma S'20",
-      "major": "Electrical"
+      "major": "Electrical",
       "officer_letters": "X!"
     },
     {
@@ -339,15 +218,7 @@
       "pledge_class": "Omicron Gamma S'20",
       "major": "Chemical"
     },
-    {
-      "img": "647.jpg",
-      "name": "Emily Steck",
-      "pin": "647",
-      "pledge_name": "She-cago",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Electrical",
-      "officer_letters": "0x70AD"
-    },
+    
     {
       "img": "648.jpg",
       "name": "Tanten Jones",
@@ -403,7 +274,7 @@
       "pin": "656",
       "pledge_name": "Pizza Nut",
       "pledge_class": "Pi Gamma S'21",
-      "major": "Aerospace"
+      "major": "Aerospace",
       "officer_letters": "T!"
     },
     {
@@ -500,7 +371,7 @@
       "pin": "668",
       "pledge_name": "Sid Thee Stallion",
       "pledge_class": "Rho Gamma F'21",
-      "major": "Electrical"
+      "major": "Electrical",
       "officer_letters": "0x2222"
     },
     {
@@ -527,14 +398,7 @@
       "pledge_class": "Rho Gamma F'21",
       "major": "Architectural"
     },
-    {
-      "img": "672.jpg",
-      "name": "Daniel Jahren",
-      "pin": "672",
-      "pledge_name": "Skadoosh",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Electrical"
-    },
+   
     {
       "img": "673.jpg",
       "name": "Malvika Nangia",
@@ -565,7 +429,7 @@
       "pin": "676",
       "pledge_name": "Dr Pepper Museum & Free Enterprise Institute",
       "pledge_class": "Rho Gamma F'21",
-      "major": "Aerospace"
+      "major": "Aerospace",
       "officer_letters": "R!"
     },
     {
@@ -590,7 +454,7 @@
       "pin": "679",
       "pledge_name": "Cheddar",
       "pledge_class": "Rho Gamma F'21",
-      "major": "Environmental"
+      "major": "Environmental",
       "officer_letters": "Z!"
     },
     {
