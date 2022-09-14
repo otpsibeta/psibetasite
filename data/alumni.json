@@ -3662,6 +3662,15 @@
       "officer_letters": "ZZ!"
     },
     {
+      "img": "566.jpg",
+      "name": "Eric Hayes",
+      "pin": "566",
+      "pledge_name": "Press F to Pay Respects",
+      "pledge_class": "Mu Gamma F'18",
+      "major": "Electrical",
+      "officer_letters": "WW!"
+    },
+    {
       "img": "567.jpg",
       "name": "Elise Betts",
       "pin": "567",
@@ -4010,6 +4019,14 @@
       "major": "Biomedical"
     },
     {
+      "img": "614.jpg",
+      "name": "Tayler Jasek",
+      "pin": "614",
+      "pledge_name": "Futon",
+      "pledge_class": "Xi Gamma F'19",
+      "major": "Mechanical"
+    },
+    {
       "img": "615.jpg",
       "name": "Alexa Seward",
       "pin": "615",
@@ -4065,13 +4082,14 @@
       "pledge_class": "Xi Gamma F'19",
       "major": "Civil"
     },
+    
     {
-      "img": "625.jpg",
-      "name": "Khalid AlManqur",
-      "pin": "625",
-      "pledge_name": "Fists With Toes",
+      "img": "628.jpg",
+      "name": "Nathan Paull",
+      "pin": "628",
+      "pledge_name": "Truther",
       "pledge_class": "Xi Gamma F'19",
-      "major": "Petroleum"
+      "major": "Mechanical"
     },
     {
       "img": "630.jpg",
@@ -4083,12 +4101,45 @@
       "officer_letters": "0xDD1C"
     },
     {
+      "img": "633.jpg",
+      "name": "Christian Kocian",
+      "pin": "633",
+      "pledge_name": "Zuko",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Biomedical"
+    },
+     {
+      "img": "636.jpg",
+      "name": "Daniel Clenney",
+      "pin": "636",
+      "pledge_name": "Bloom",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Architectural"
+    },
+    {
+      "img": "639.jpg",
+      "name": "Kara Marcantel",
+      "pin": "639",
+      "pledge_name": "Snow",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Biomedical"
+    },
+    {
       "img": "643.jpg",
       "name": "Kristen Erlon",
       "pin": "643",
       "pledge_name": "Lightly Toasted",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Electrical"
+    },
+    {
+      "img": "645.jpg",
+      "name": "Alaynah Murphy",
+      "pin": "645",
+      "pledge_name": "Martini",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Biomedical",
+      "officer_letters": "RR!"
     },
     {
       "img": "647.jpg",
@@ -4098,6 +4149,14 @@
       "pledge_class": "Omicron Gamma S'20",
       "major": "Electrical",
       "officer_letters": "0x70AD"
+    },
+    {
+      "img": "649.jpg",
+      "name": "Katherine Burnett",
+      "pin": "649",
+      "pledge_name": "Dundee",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Environmental"
     },
     {
       "img": "650.jpg",
@@ -4116,12 +4175,29 @@
       "major": "Biomedical"
     },
     {
+      "img": "663.jpg",
+      "name": "Pooja Vedam",
+      "pin": "663",
+      "pledge_name": "Mr.Moseby",
+      "pledge_class": "Pi Gamma S'21",
+      "major": "Chemical"
+    },
+    {
       "img": "672.jpg",
       "name": "Daniel Jahren",
       "pin": "672",
       "pledge_name": "Skadoosh",
       "pledge_class": "Rho Gamma F'21",
       "major": "Electrical"
+    },
+    
+    {
+      "img": "673.jpg",
+      "name": "Malvika Nangia",
+      "pin": "673",
+      "pledge_name": "My Chemical Engineering",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Environmental"
     }
   ]
 }
