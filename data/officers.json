@@ -1,7 +1,7 @@
 {
   "officers": [
     {
-      "img": "644.jpg",
+      "img": "644U.jpg",
       "name": "Corey Karnei",
       "pin": "644",
       "pledge_name": "Goofy",
@@ -13,7 +13,7 @@
       "position": "Regent"
     },
     {
-      "img": "640.jpg",
+      "img": "640U.jpg",
       "name": "Alex Grudzinksi",
       "pin": "640",
       "pledge_name": "Zest",
@@ -25,7 +25,7 @@
       "position": "Vice Regent"
     },
     {
-      "img": "682.jpg",
+      "img": "682U.jpg",
       "name": "Jasmine Pok",
       "pin": "682",
       "pledge_name": "Zest",
@@ -37,7 +37,7 @@
       "position": "Scribe"
     },
     {
-      "img": "679.jpg",
+      "img": "679U.jpg",
       "name": "Nick Nola",
       "pin": "679",
       "pledge_name": "Cheddar",
@@ -49,7 +49,7 @@
       "position": "Treasurer"
     },
     {
-      "img": "629.jpg",
+      "img": "629U.jpg",
       "name": "Alaina Tibbs",
       "pin": "629",
       "pledge_name": "Walk a Mile in These Louis Vuittons",
@@ -61,7 +61,7 @@
       "position": "Pledge Marshal"
     },
     {
-      "img": "676.jpg",
+      "img": "676U.jpg",
       "name": "Ashton Cole",
       "pin": "676",
       "pledge_name": "Dr Pepper Museum & Free Enterprise Institute",
@@ -73,7 +73,7 @@
       "position": "Corresponding Secretary"
     },
     {
-      "img": "652.jpg",
+      "img": "652U.jpg",
       "name": "Savannah Smith",
       "pin": "652",
       "pledge_name": "🅱️ishop",
@@ -85,7 +85,7 @@
       "position": "Outer Guard"
     },
     {
-      "img": "656.jpg",
+      "img": "656U.jpg",
       "name": "Harsh Rajesh",
       "pin": "656",
       "pledge_name": "Pizza Nut",
@@ -97,7 +97,7 @@
       "position": "Inner Guard"
     },
     {
-      "img": "668.jpg",
+      "img": "668U.jpg",
       "name": "Sachin Nair",
       "pin": "668",
       "pledge_name": "Sidd Thee Sloth",
@@ -111,7 +111,7 @@
   ],
   "comm_heads": [
     {
-      "img": "657.jpg",
+      "img": "657U.jpg",
       "name": "Layan Al Hasan",
       "pin": "657",
       "pledge_name": "Creme, Brute?",
@@ -122,7 +122,7 @@
       "position": "Academic"
     },
     {
-      "img": "631.jpg",
+      "img": "631U.jpg",
       "name": "Kruti Rachapudi",
       "pin": "631",
       "pledge_name": "Leggo my eggo",
@@ -133,7 +133,7 @@
       "position": "Brotherhood/Social"
     },
     {
-      "img": "671.jpg",
+      "img": "671U.jpg",
       "name": "Maddie McGinnis",
       "pin": "671",
       "pledge_name": "“I have the power of god AND chicken on my side”",
@@ -144,7 +144,7 @@
       "position": "Brotherhood/Social"
     },
     {
-      "img": "679.jpg",
+      "img": "679U.jpg",
       "name": "Nick Nola",
       "pin": "679",
       "pledge_name": "Cheddar",
@@ -155,40 +155,29 @@
       "position": "Cockrell Relations"
     },
     {
-      "img": "658.jpg",
-      "name": "Neel Patel",
-      "pin": "658",
-      "pledge_name": "$GME",
-      "pledge_class": "Pi Gamma S'21",
+      "img": "687.jpg",
+      "name": "Hanjing Chen",
+      "pin": "690",
+      "pledge_name": "Scholastic Book Fair",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Chemical",
       "email": "#",
       "email-name": "",
       "position": "Community Service"
     },
     {
-      "img": "644.jpg",
-      "name": "Corey Karnei",
-      "pin": "644",
-      "pledge_name": "Goofy",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Electrical",
-      "email": "#",
-      "email-name": "",
-      "position": "Community Service"
-    },
-    {
-      "img": "671.jpg",
-      "name": "Maddie McGinnis",
-      "pin": "671",
-      "pledge_name": "“I have the power of god AND chicken on my side”",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Architectural",
+      "img": "695.jpg",
+      "name": "Rylan Hanks",
+      "pin": "695",
+      "pledge_name": "Scooby Dooby doin' ur best",
+      "pledge_class": "Sigma Gamma S'22",
+      "major": "Electical",
       "email": "#",
       "email-name": "",
       "position": "Fundraising"
     },
     {
-      "img": "677.jpg",
+      "img": "677U.jpg",
       "name": "Pablo Sosa",
       "pin": "677",
       "pledge_name": "Hot Rod",
@@ -199,7 +188,7 @@
       "position": "Fundraising"
     },
     {
-      "img": "674.jpg",
+      "img": "674U.jpg",
       "name": "Mia Moore",
       "pin": "674",
       "pledge_name": "French Onion Soup",
@@ -221,17 +210,6 @@
       "position": "Housing"
     },
     {
-      "img": "643.jpg",
-      "name": "Kristen Erlon",
-      "pin": "643",
-      "pledge_name": "Lightly Toasted",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Electrical",
-      "email": "#",
-      "email-name": "",
-      "position": "Mental Health"
-    },
-    {
       "img": "683.jpg",
       "name": "Javier Diaz De Sandi Viramontes ",
       "pin": "683",
@@ -243,7 +221,7 @@
       "position": "Merchandise"
     },
     {
-      "img": "654.jpg",
+      "img": "654U.jpg",
       "name": "Sara Faulkner",
       "pin": "654",
       "pledge_name": "Tator Tot",
@@ -254,7 +232,7 @@
       "position": "Philanthropy"
     },
     {
-      "img": "638.jpg",
+      "img": "638U.jpg",
       "name": "Danny Young",
       "pin": "638",
       "pledge_name": "Queen B",
@@ -265,7 +243,7 @@
       "position": "Professional Development"
     },
     {
-      "img": "635.jpg",
+      "img": "635U.jpg",
       "name": "Ethan Helfman",
       "pin": "635",
       "pledge_name": "Rupert",
@@ -276,7 +254,7 @@
       "position": "Social Media"
     },
     {
-      "img": "675.jpg",
+      "img": "675U.jpg",
       "name": "Anaita Merchant",
       "pin": "675",
       "pledge_name": "Experiment 626",
