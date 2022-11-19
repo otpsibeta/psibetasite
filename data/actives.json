@@ -98,7 +98,7 @@
     },
     {
       "img": "635U.jpg",
-      "name": "Ethan Helfman", 
+      "name": "Helfman", 
       "pin": "635",
       "pledge_name": "Rupert",
       "pledge_class": "Omicron Gamma S'20",
@@ -431,10 +431,10 @@
     },
     {
       "img": "687.jpg",
-      "name": "Charles Bell",
+      "name": "Charles \"Chowder\" Bell",
       "pin": "687",
       "pledge_name": "h",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Aerospace"
     },
     {
@@ -442,7 +442,7 @@
       "name": "Kiki Morty",
       "pin": "687",
       "pledge_name": "🅱️romance",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Aerospace"
     },
     {
@@ -450,7 +450,7 @@
       "name": "Bel Soto",
       "pin": "689",
       "pledge_name": "Lizard",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Architectural"
     },
     {
@@ -458,7 +458,7 @@
       "name": "Hanjing Chen",
       "pin": "690",
       "pledge_name": "Scholastic Book Fair",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Chemical"
     },
     {
@@ -466,7 +466,7 @@
       "name": "Josh Joseph",
       "pin": "691",
       "pledge_name": "Gladiator",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Civil"
     },
     {
@@ -474,7 +474,7 @@
       "name": "Thaliah Cardenas",
       "pin": "692",
       "pledge_name": "Ostrich",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Architectural"
     },
     {
@@ -482,7 +482,7 @@
       "name": "Filip Busic",
       "pin": "693",
       "pledge_name": "Scrambled Eggs",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Mechanical/Electrical"
     },
     {
@@ -490,7 +490,7 @@
       "name": "Deven Patel",
       "pin": "694",
       "pledge_name": "Don’s Japanese Kitchen",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Mechanical"
     },
     {
@@ -498,7 +498,7 @@
       "name": "Rylan Hanks",
       "pin": "695",
       "pledge_name": "Scooby Dooby dooin’ ur mom",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Electrical"
     },
     {
@@ -506,7 +506,7 @@
       "name": "Mathew Tang",
       "pin": "696",
       "pledge_name": "ttylxox",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Mechanical"
     },
     {
@@ -514,7 +514,7 @@
       "name": "GianPaulo Garcia",
       "pin": "697",
       "pledge_name": "Twisted Tea",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": ""
     },
     {
@@ -522,7 +522,7 @@
       "name": "Chukwuka Madueke",
       "pin": "698",
       "pledge_name": "Chobani",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Mechanical"
     },
     
@@ -531,7 +531,7 @@
       "name": "Sanjana Chemuturi",
       "pin": "699",
       "pledge_name": "Ford F150 Lightning Edition",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Biomedical"
     },
     {
@@ -539,7 +539,7 @@
       "name": "Srikruti Vinnakota",
       "pin": "700",
       "pledge_name": "Rafiki",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Enviornmental"
     },
     {
@@ -547,7 +547,7 @@
       "name": "Noah Park",
       "pin": "701",
       "pledge_name": "Mary Poppins",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Chemical"
     },
     {
@@ -555,7 +555,7 @@
       "name": "Sam Miller",
       "pin": "702",
       "pledge_name": "Razzmatazz",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
       "major": "Civil"
     },
     {
@@ -563,8 +563,113 @@
       "name": "Kimberly Wang",
       "pin": "703",
       "pledge_name": "Bleh Bleh Bleh",
-      "pledge_class": "Sigma Gamma F'21",
+      "pledge_class": "Sigma Gamma S'22",
+      "major": "Chemical"
+    },
+    {
+      "img": "704.jpg",
+      "name": "Ben Parent",
+      "pin": "704",
+      "pledge_name": "Inertia is A Property of Matter",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+    {
+      "img": "705.jpg",
+      "name": "Leia Das",
+      "pin": "705",
+      "pledge_name": "September 20, 2019",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+    {
+      "img": "706.jpg",
+      "name": "Zoe Rose",
+      "pin": "706",
+      "pledge_name": "Muik & Sandy",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+    {
+      "img": "707.jpg",
+      "name": "Aaron Spicker",
+      "pin": "707",
+      "pledge_name": "Pinto XXIII",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+    {
+      "img": "708.jpg",
+      "name": "Ami Bhakta",
+      "pin": "708",
+      "pledge_name": "The Sistine Chapel",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+    {
+      "img": "709.jpg",
+      "name": "Andrew Cook",
+      "pin": "706",
+      "pledge_name": "🅱️ig Dipper",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+    {
+      "img": "710.jpg",
+      "name": "Faisal Aljehairan",
+      "pin": "706",
+      "pledge_name": "E = MC^2",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+     {
+      "img": "711.jpg",
+      "name": "Murtaza Jetpurwala",
+      "pin": "711",
+      "pledge_name": "28865 Birnham Woods Dr",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+     {
+      "img": "712.jpg",
+      "name": "Abdullah Alzahrani",
+      "pin": "712",
+      "pledge_name": "Howler Head Whiskey",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+     {
+      "img": "713.jpg",
+      "name": "Misty Dvorak",
+      "pin": "713",
+      "pledge_name": "Mr. Magorium's Wonder Emporium",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+     {
+      "img": "714.jpg",
+      "name": "Grant Robinett",
+      "pin": "714",
+      "pledge_name": "Alright, Alright, Alright...",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+     {
+      "img": "715.jpg",
+      "name": "Hank Broddie",
+      "pin": "715",
+      "pledge_name": "Four Score and 7 Years Ago",
+      "pledge_class": "Tau Gamma F'22",
+      "major": "Chemical"
+    },
+     {
+      "img": "716.jpg",
+      "name": "Caiden Campbell",
+      "pin": "716",
+      "pledge_name": "Eyebrows",
+      "pledge_class": "Tau Gamma F'22",
       "major": "Chemical"
     }
+    
   ]
     }
