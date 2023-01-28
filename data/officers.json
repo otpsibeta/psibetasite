@@ -1,7 +1,7 @@
 {
   "officers": [
     {
-      "img": "635U.jpg",
+      "img": "635_Small.jpg",
       "name": "Hazel Helfman",
       "pin": "635",
       "pledge_name": "Rupert",
@@ -61,7 +61,7 @@
       "position": "Pledge Marshal"
     },
     {
-      "img": "687.jpg",
+      "img": "687_Small.jpg",
       "name": "Charles \"Chowder\" Bell",
       "pin": "687",
       "pledge_name": "h",
@@ -73,7 +73,7 @@
       "position": "Corresponding Secretary"
     },
     {
-      "img": "669U.jpg",
+      "img": "669_Small.jpg",
       "name": "Courtney Kang",
       "pin": "669",
       "pledge_name": "Ammonium thioglycolate",
@@ -85,7 +85,7 @@
       "position": "Outer Guard"
     },
     {
-      "img": "670U.jpg",
+      "img": "670_Small.jpg",
       "name": "Alex Wong",
       "pin": "670",
       "pledge_name": "Historically Close Friends",
@@ -97,7 +97,7 @@
       "position": "Inner Guard"
     },
     {
-      "img": "680U.jpg",
+      "img": "680_Small.jpg",
       "name": "Chloe Posluszny",
       "pin": "680",
       "pledge_name": "Wow!",
@@ -111,7 +111,7 @@
   ],
   "comm_heads": [
     {
-      "img": "704.jpg",
+      "img": "704_Small.jpg",
       "name": "Ben Parent",
       "pin": "704",
       "pledge_name": "Inertia is A Property of Matter",
@@ -122,9 +122,9 @@
       "position": "Academic"
     },
     {
-      "img": "709.jpg",
+      "img": "709_Small.jpg",
       "name": "Andrew Cook",
-      "pin": "706",
+      "pin": "709",
       "pledge_name": "🅱️ig Dipper",
       "pledge_class": "Tau Gamma F'22",
       "major": "Aerospace",
@@ -133,7 +133,7 @@
       "position": "Brotherhood/Social"
     },
     {
-      "img": "688.jpg",
+      "img": "688_Small.jpg",
       "name": "Kiki Morty",
       "pin": "687",
       "pledge_name": "🅱️romance",
@@ -144,7 +144,7 @@
       "position": "Brotherhood/Social"
     },
     {
-      "img": "687.jpg",
+      "img": "687_Small.jpg",
       "name": "Charles \"Chowder\" Bell",
       "pin": "687",
       "pledge_name": "h",
@@ -155,7 +155,7 @@
       "position": "Cockrell Relations"
     },
     {
-      "img": "690.jpg",
+      "img": "690_Small.jpg",
       "name": "Hanjing Chen",
       "pin": "690",
       "pledge_name": "Scholastic Book Fair",
@@ -166,7 +166,7 @@
       "position": "Community Service"
     },
     {
-      "img": "712.jpg",
+      "img": "712_Small.jpg",
       "name": "Abdullah Alzahrani",
       "pin": "712",
       "pledge_name": "Howler Head Whiskey",
@@ -232,7 +232,7 @@
       "position": "Philanthropy"
     },
     {
-      "img": "705.jpg",
+      "img": "705_Small.jpg",
       "name": "Leia Das",
       "pin": "705",
       "pledge_name": "September 20, 2019",
@@ -243,7 +243,7 @@
       "position": "Professional Development"
     },
     {
-      "img": "635.jpg",
+      "img": "635_Small.jpg",
       "name": "Helfman",
       "pin": "635",
       "pledge_name": "Rupert",
