@@ -1,12 +1,12 @@
 {
   "officers": [
     {
-      "img": "652U.jpg",
-      "name": "Savannah Smith",
-      "pin": "652",
-      "pledge_name": "🅱️ishop",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Computational",
+      "img": "635_Small.jpg",
+      "name": "Helfman",
+      "pin": "635",
+      "pledge_name": "Rupert",
+      "pledge_class": "Omicron Gamma S'20",
+      "major": "Chemical",
       "officer_letters": "X!",
       "email": "psibeta.regent@gmail.com",
       "email-name": "psibeta.regent@gmail.com",
@@ -243,12 +243,12 @@
       "position": "Professional Development"
     },
     {
-      "img": "635_Small.jpg",
-      "name": "Helfman",
-      "pin": "635",
-      "pledge_name": "Rupert",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Chemical",
+      "img": "652.jpg",
+      "name": "Savannah Smith",
+      "pin": "652",
+      "pledge_name": "🅱️ishop",
+      "pledge_class": "Pi Gamma S'21",
+      "major": "Computational",
       "email": "#",
       "email-name": "",
       "position": "Social Media"
