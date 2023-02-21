@@ -1,23 +1,5 @@
 {
   "actives": [
-   
-    {
-      "img": "565U.jpg",
-      "name": "Jackson Lightfoot",
-      "pin": "565",
-      "pledge_name": "Little Arms",
-      "pledge_class": "Mu Gamma F'18",
-      "major": "Electrical",
-      "officer_letters": "VV!"
-    },
-    {
-      "img": "597U.jpg",
-      "name": "Elizabeth Martinez",
-      "pin": "597",
-      "pledge_name": "S-Car-Go",
-      "pledge_class": "Nu Gamma S'19",
-      "major": "Aerospace"
-    },
     {
       "img": "612U.jpg",
       "name": "Dominic Galiano",
@@ -44,7 +26,6 @@
       "pledge_class": "Xi Gamma F'19",
       "major": "Mechanical"
     },
-    
     {
       "img": "623U.jpg",
       "name": "Eesha Nayak",
@@ -52,14 +33,6 @@
       "pledge_name": "Onomatopoeia",
       "pledge_class": "Xi Gamma F'19",
       "major": "Computational"
-    },
-    {
-      "img": "625U.jpg",
-      "name": "Khalid AlManqur",
-      "pin": "625",
-      "pledge_name": "Fists With Toes",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Petroleum"
     },
     {
       "img": "629U.jpg",
@@ -87,14 +60,6 @@
       "pledge_class": "Omicron Gamma S'20",
       "major": "Biomedical",
       "officer_letters": "UU!"
-    },
-    {
-      "img": "634U.jpg",
-      "name": "Sabrina Aslam",
-      "pin": "634",
-      "pledge_name": "Mr. Peanut Butter",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Mechanical"
     },
     {
       "img": "635U.jpg",
@@ -147,26 +112,7 @@
       "pledge_class": "Omicron Gamma S'20",
       "major": "Chemical",
       "officer_letters": "TT!"
-    },
-    
-    {
-      "img": "644U.jpg",
-      "name": "Corey Karnei",
-      "pin": "644",
-      "pledge_name": "Goofy",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Electrical",
-      "officer_letters": "X!"
-    },
-    {
-      "img": "646U.jpg",
-      "name": "Christine Yan",
-      "pin": "646",
-      "pledge_name": "Kool-aider",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Chemical"
-    },
-    
+    },  
     {
       "img": "648U.jpg",
       "name": "Tanten Jones",
@@ -183,14 +129,6 @@
       "pledge_class": "Pi Gamma S'21",
       "major": "Computational",
       "officer_letters": "RR! U!"
-    },
-    {
-      "img": "653U.jpg",
-      "name": "Emma George",
-      "pin": "653",
-      "pledge_name": "Sandy Cheeks",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Civil"
     },
     {
       "img": "654U.jpg",
@@ -242,14 +180,6 @@
       "major": "Mechanical"
     },
     {
-      "img": "661U.jpg",
-      "name": "Selasie Tse",
-      "pin": "661",
-      "pledge_name": "Florida Man",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Mechanical"
-    },
-    {
       "img": "662U.jpg",
       "name": "Hannah Boucher",
       "pin": "662",
@@ -258,28 +188,12 @@
       "major": "Mechanical"
     },
     {
-      "img": "664U.jpg",
-      "name": "Ali Japhet",
-      "pin": "664",
-      "pledge_name": "B-Dawg",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Civil"
-    },
-    {
       "img": "665U.jpg",
       "name": "Chris An",
       "pin": "665",
       "pledge_name": "Is She Even Italian?",
       "pledge_class": "Pi Gamma S'21",
       "major": "Mechanical"
-    },
-    {
-      "img": "666U.jpg",
-      "name": "Helene Nguyen",
-      "pin": "666",
-      "pledge_name": "🎺🎺🎺",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Civil"
     },
     {
       "img": "667U.jpg",
@@ -378,15 +292,8 @@
       "pin": "680",
       "pledge_name": "Wow!",
       "pledge_class": "Rho Gamma F'21",
-      "major": "Electrical"
-    },
-    {
-      "img": "681U.jpg",
-      "name": "Jack Fishbaugh",
-      "pin": "681",
-      "pledge_name": "Joe’s Crab Shack",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Civil"
+      "major": "Electrical",
+      "officer_letters": "0x80085"
     },
     {
       "img": "682U.jpg",
@@ -418,14 +325,6 @@
       "name": "Alyssa Ishida",
       "pin": "685",
       "pledge_name": "Life uhh Finds a Way",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Civil"
-    },
-    {
-      "img": "686U.jpg",
-      "name": "Hannah Long",
-      "pin": "686",
-      "pledge_name": "The Hash Slinging Slasher",
       "pledge_class": "Rho Gamma F'21",
       "major": "Civil"
     },
@@ -478,22 +377,6 @@
       "major": "Architectural"
     },
     {
-      "img": "693.jpg",
-      "name": "Filip Busic",
-      "pin": "693",
-      "pledge_name": "Scrambled Eggs",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Mechanical/Electrical"
-    },
-    {
-      "img": "694.jpg",
-      "name": "Deven Patel",
-      "pin": "694",
-      "pledge_name": "Don’s Japanese Kitchen",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Mechanical"
-    },
-    {
       "img": "695.jpg",
       "name": "Rylan Hanks",
       "pin": "695",
@@ -543,28 +426,12 @@
       "major": "Enviornmental"
     },
     {
-      "img": "701.jpg",
-      "name": "Noah Park",
-      "pin": "701",
-      "pledge_name": "Mary Poppins",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Chemical"
-    },
-    {
       "img": "702.jpg",
       "name": "Sam Miller",
       "pin": "702",
       "pledge_name": "Razzmatazz",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Civil"
-    },
-    {
-      "img": "703.jpg",
-      "name": "Kimberly Wang",
-      "pin": "703",
-      "pledge_name": "Bleh Bleh Bleh",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Chemical"
     },
     {
       "img": "704.jpg",
