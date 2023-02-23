@@ -4183,14 +4183,6 @@
       "officer_letters": "RR!"
     },
     {
-      "img": "646U.jpg",
-      "name": "Christine Yan",
-      "pin": "646",
-      "pledge_name": "Kool-aider",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Chemical"
-    },
-    {
       "img": "647.jpg",
       "name": "Emily Steck",
       "pin": "647",
@@ -4225,14 +4217,6 @@
       "major": "Civil"
     },
     {
-      "img": "653U.jpg",
-      "name": "Emma George",
-      "pin": "653",
-      "pledge_name": "Sandy Cheeks",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Civil"
-    },
-    {
       "img": "655.jpg",
       "name": "Gaby Franco",
       "pin": "655",
@@ -4241,28 +4225,12 @@
       "major": "Biomedical"
     },
     {
-      "img": "661U.jpg",
-      "name": "Selasie Tse",
-      "pin": "661",
-      "pledge_name": "Florida Man",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Mechanical"
-    },
-    {
       "img": "663.jpg",
       "name": "Pooja Vedam",
       "pin": "663",
       "pledge_name": "Mr.Moseby",
       "pledge_class": "Pi Gamma S'21",
       "major": "Chemical"
-    },
-    {
-      "img": "666U.jpg",
-      "name": "Helene Nguyen",
-      "pin": "666",
-      "pledge_name": "🎺🎺🎺",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Civil"
     },
     {
       "img": "672.jpg",
@@ -4290,14 +4258,6 @@
       "major": "Civil"
     },
     {
-      "img": "686U.jpg",
-      "name": "Hannah Long",
-      "pin": "686",
-      "pledge_name": "The Hash Slinging Slasher",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Civil"
-    },
-    {
       "img": "693.jpg",
       "name": "Filip Busic",
       "pin": "693",
@@ -4306,26 +4266,10 @@
       "major": "Mechanical/Electrical"
     },
     {
-      "img": "694.jpg",
-      "name": "Deven Patel",
-      "pin": "694",
-      "pledge_name": "Don’s Japanese Kitchen",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Mechanical"
-    },
-    {
       "img": "701.jpg",
       "name": "Noah Park",
       "pin": "701",
       "pledge_name": "Mary Poppins",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Chemical"
-    },
-    {
-      "img": "703.jpg",
-      "name": "Kimberly Wang",
-      "pin": "703",
-      "pledge_name": "Bleh Bleh Bleh",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Chemical"
     }
