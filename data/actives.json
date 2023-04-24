@@ -128,7 +128,7 @@
       "pledge_name": "🅱️ishop",
       "pledge_class": "Pi Gamma S'21",
       "major": "Computational",
-      "officer_letters": "RR! U!"
+      "officer_letters": "RR! UU!"
     },
     {
       "img": "654U.jpg",
@@ -145,7 +145,7 @@
       "pledge_name": "Pizza Nut",
       "pledge_class": "Pi Gamma S'21",
       "major": "Aerospace",
-      "officer_letters": "TT!"
+      "officer_letters": "TT! R!"
     },
     {
       "img": "657U.jpg",
@@ -210,7 +210,7 @@
       "pledge_name": "The Webmaster Council",
       "pledge_class": "Rho Gamma F'21",
       "major": "Electrical",
-      "officer_letters": "0x2222"
+      "officer_letters": "0x2222 X!"
     },
     {
       "img": "669U.jpg",
@@ -218,7 +218,7 @@
       "pin": "669",
       "pledge_name": "Ammonium thioglycolate",
       "pledge_class": "Rho Gamma F'21",
-      "major": "Environmental"
+      "major": "Environmental",
       "officer_letters": "UU! W!"
     },
     {
@@ -227,7 +227,7 @@
       "pin": "670",
       "pledge_name": "Historically Close Friends",
       "pledge_class": "Rho Gamma F'21",
-      "major": "Civil"
+      "major": "Civil",
       "officer_letters": "TT!"
     },
     {
@@ -312,7 +312,8 @@
       "pin": "683",
       "pledge_name": "Put em up and knock em down",
       "pledge_class": "Rho Gamma F'21",
-      "major": "Mechanical"
+      "major": "Mechanical",
+      "officer_letters": "Z!"
     },
     {
       "img": "684U.jpg",
@@ -336,7 +337,7 @@
       "pin": "687",
       "pledge_name": "h",
       "pledge_class": "Sigma Gamma S'22",
-      "major": "Aerospace"
+      "major": "Aerospace",
       "officer_letters": "RR!"
     },
     {
@@ -442,7 +443,7 @@
       "pin": "704",
       "pledge_name": "Inertia is A Property of Matter",
       "pledge_class": "Tau Gamma F'22",
-      "major": "Mechanical"
+      "major": "Mechanical",
       "officer_letters": "0x5280"
     },
     {
@@ -459,8 +460,8 @@
       "pin": "706",
       "pledge_name": "Muik & Sandy",
       "pledge_class": "Tau Gamma F'22",
-      "major": "Chemical"
-      "officer_letters": "R!"
+      "major": "Chemical",
+      "officer_letters": "V!"
     },
     {
       "img": "707.jpg",
@@ -468,7 +469,7 @@
       "pin": "707",
       "pledge_name": "Pinto XXIII",
       "pledge_class": "Tau Gamma F'22",
-      "major": "Biomedical"
+      "major": "Biomedical",
       "officer_letters": "U!"
     },
     {
@@ -477,7 +478,7 @@
       "pin": "708",
       "pledge_name": "The Sistine Chapel",
       "pledge_class": "Tau Gamma F'22",
-      "major": "Civil"
+      "major": "Civil",
       "officer_letters": "T!"
     },
     {
@@ -549,8 +550,16 @@
       "name": "Nikunj Zamwar",
       "pin": "717",
       "pledge_name": "SuperSmashBros",
-      "pledge_class": "Upsilon Gamma Spring '23",
+      "pledge_class": "Upsilon Gamma S'23",
       "major": "Electrical"
-     }
+    },
+     {
+      "img": "718.jpg",
+      "name": "Tarun Kholay",
+      "pin": "718",
+      "pledge_name": "2 Fast 2 Furious",
+      "pledge_class": "Upsilon Gamma S'23",
+      "major": "Electrical"
+    }
   ]
     }
