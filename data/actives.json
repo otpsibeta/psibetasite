@@ -41,7 +41,7 @@
       "pledge_name": "Walk a Mile in These Louis Vuittons",
       "pledge_class": "Xi Gamma F'19",
       "major": "Mechanical",
-      "officer_letters": "TT! YY! W!"
+      "officer_letters": "TT! YY! WW!"
     },
     {
       "img": "631U.jpg",
@@ -94,7 +94,7 @@
       "pledge_name": "Zest",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Biomedical",
-      "officer_letters": "VV! Y!"
+      "officer_letters": "VV! YY!"
     },
     {
       "img": "641U.jpg",
@@ -145,7 +145,7 @@
       "pledge_name": "Pizza Nut",
       "pledge_class": "Pi Gamma S'21",
       "major": "Aerospace",
-      "officer_letters": "T!"
+      "officer_letters": "TT!"
     },
     {
       "img": "657U.jpg",
@@ -219,6 +219,7 @@
       "pledge_name": "Ammonium thioglycolate",
       "pledge_class": "Rho Gamma F'21",
       "major": "Environmental"
+      "officer_letters": "UU! W!"
     },
     {
       "img": "670U.jpg",
@@ -227,6 +228,7 @@
       "pledge_name": "Historically Close Friends",
       "pledge_class": "Rho Gamma F'21",
       "major": "Civil"
+      "officer_letters": "TT!"
     },
     {
       "img": "671U.jpg",
@@ -259,7 +261,7 @@
       "pledge_name": "Dr Pepper Museum & Free Enterprise Institute",
       "pledge_class": "Rho Gamma F'21",
       "major": "Aerospace",
-      "officer_letters": "R!"
+      "officer_letters": "RR! VV!"
     },
     {
       "img": "677U.jpg",
@@ -284,7 +286,7 @@
       "pledge_name": "Cheddar",
       "pledge_class": "Rho Gamma F'21",
       "major": "Environmental",
-      "officer_letters": "Z!"
+      "officer_letters": "ZZ!"
     },
     {
       "img": "680U.jpg",
@@ -302,7 +304,7 @@
       "pledge_name": "Farmersonly.com",
       "pledge_class": "Rho Gamma F'21",
       "major": "Biomedical",
-      "officer_letters": "V!"
+      "officer_letters": "VV!"
     },
     {
       "img": "683U.jpg",
@@ -335,6 +337,7 @@
       "pledge_name": "h",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Aerospace"
+      "officer_letters": "RR!"
     },
     {
       "img": "688.jpg",
@@ -398,7 +401,7 @@
       "pin": "697",
       "pledge_name": "Twisted Tea",
       "pledge_class": "Sigma Gamma S'22",
-      "major": ""
+      "major": "Architectural"
     },
     {
       "img": "698.jpg",
@@ -440,6 +443,7 @@
       "pledge_name": "Inertia is A Property of Matter",
       "pledge_class": "Tau Gamma F'22",
       "major": "Mechanical"
+      "officer_letters": "0x5280"
     },
     {
       "img": "705.jpg",
@@ -456,6 +460,7 @@
       "pledge_name": "Muik & Sandy",
       "pledge_class": "Tau Gamma F'22",
       "major": "Chemical"
+      "officer_letters": "R!"
     },
     {
       "img": "707.jpg",
@@ -464,6 +469,7 @@
       "pledge_name": "Pinto XXIII",
       "pledge_class": "Tau Gamma F'22",
       "major": "Biomedical"
+      "officer_letters": "U!"
     },
     {
       "img": "708.jpg",
@@ -472,6 +478,7 @@
       "pledge_name": "The Sistine Chapel",
       "pledge_class": "Tau Gamma F'22",
       "major": "Civil"
+      "officer_letters": "T!"
     },
     {
       "img": "709.jpg",
@@ -536,7 +543,14 @@
       "pledge_name": "Eyebrows",
       "pledge_class": "Tau Gamma F'22",
       "major": "Chemical"
-    }
-    
+    },
+     {
+      "img": "717.jpg",
+      "name": "Nikunj Zamwar",
+      "pin": "717",
+      "pledge_name": "SuperSmashBros",
+      "pledge_class": "Upsilon Gamma Spring '23",
+      "major": "Electrical"
+     },
   ]
     }
