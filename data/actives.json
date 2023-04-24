@@ -63,12 +63,12 @@
     },
     {
       "img": "635U.jpg",
-      "name": "Helfman", 
+      "name": "Hazel Helfman", 
       "pin": "635",
       "pledge_name": "Rupert",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Chemical",
-      "officer_letters": "VV!"
+      "officer_letters": "VV! XX!"
     },
     {
       "img": "637U.jpg",
@@ -153,7 +153,8 @@
       "pin": "657",
       "pledge_name": "Creme, Brute?",
       "pledge_class": "Pi Gamma S'21",
-      "major": "Chemical"
+      "major": "Chemical",
+      "officer_letters": "Y!"
     },
     {
       "img": "658U.jpg",
@@ -572,7 +573,7 @@
      {
       "img": "721.jpg",
       "name": "Haley Hernandez",
-      "pin": "720",
+      "pin": "721",
       "pledge_name": "Tequila Sunrise",
       "pledge_class": "Upsilon Gamma S'23",
       "major": "Architectural"
