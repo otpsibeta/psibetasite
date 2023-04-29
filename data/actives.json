@@ -1,67 +1,6 @@
 {
   "actives": [
     {
-      "img": "612U.jpg",
-      "name": "Dominic Galiano",
-      "pin": "612",
-      "pledge_name": "Poppin' Fresh",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Chemical",
-      "officer_letters": "ZZ!"
-    },
-    {
-      "img": "613U.jpg",
-      "name": "Hana Cole",
-      "pin": "613",
-      "pledge_name": "Raisin Bran Crunch",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Biomedical",
-      "officer_letters": "VV! UU!"
-    },
-    {
-      "img": "616U.jpg",
-      "name": "Andrew Rutledge",
-      "pin": "616",
-      "pledge_name": "Obi-Wan",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Mechanical"
-    },
-    {
-      "img": "623U.jpg",
-      "name": "Eesha Nayak",
-      "pin": "623",
-      "pledge_name": "Onomatopoeia",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Computational"
-    },
-    {
-      "img": "629U.jpg",
-      "name": "Alaina Tibbs",
-      "pin": "629",
-      "pledge_name": "Walk a Mile in These Louis Vuittons",
-      "pledge_class": "Xi Gamma F'19",
-      "major": "Mechanical",
-      "officer_letters": "TT! YY! WW!"
-    },
-    {
-      "img": "631U.jpg",
-      "name": "Kruti Rachapudi",
-      "pin": "631",
-      "pledge_name": "L'eggo My Eggo",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Mechanical",
-      "officer_letters": "UU!"
-    },
-    {
-      "img": "632U.jpg",
-      "name": "Mallika Sabhnani",
-      "pin": "632",
-      "pledge_name": "Bo Peep",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Biomedical",
-      "officer_letters": "UU!"
-    },
-    {
       "img": "635U.jpg",
       "name": "Hazel Helfman", 
       "pin": "635",
@@ -69,14 +8,6 @@
       "pledge_class": "Omicron Gamma S'20",
       "major": "Chemical",
       "officer_letters": "VV! XX!"
-    },
-    {
-      "img": "637U.jpg",
-      "name": "Shruthi Sundaranand",
-      "pin": "637",
-      "pledge_name": "Jello",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Computational"
     },
     {
       "img": "638U.jpg",
@@ -88,47 +19,12 @@
       "officer_letters": "TT!"
     },
     {
-      "img": "640U.jpg",
-      "name": "Alexandra Grudzinski",
-      "pin": "640",
-      "pledge_name": "Zest",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Biomedical",
-      "officer_letters": "VV! YY!"
-    },
-    {
-      "img": "641U.jpg",
-      "name": "Will Gasper",
-      "pin": "641",
-      "pledge_name": "Pizza Time",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Mechanical"
-    },
-    {
-      "img": "642U.jpg",
-      "name": "Diego Velaochaga",
-      "pin": "642",
-      "pledge_name": "Zazu",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Chemical",
-      "officer_letters": "TT!"
-    },  
-    {
       "img": "648U.jpg",
       "name": "Tanten Jones",
       "pin": "648",
       "pledge_name": "Ace Ventura",
       "pledge_class": "Omicron Gamma S'20",
       "major": "Mechanical"
-    },
-    {
-      "img": "652U.jpg",
-      "name": "Savannah Smith",
-      "pin": "652",
-      "pledge_name": "🅱️ishop",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Computational",
-      "officer_letters": "RR! UU!"
     },
     {
       "img": "654U.jpg",
@@ -232,14 +128,6 @@
       "major": "Architectural"
     },
     {
-      "img": "674U.jpg",
-      "name": "Mia Moore",
-      "pin": "674",
-      "pledge_name": "French Onion Soup",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Environmental"
-    },
-    {
       "img": "675U.jpg",
       "name": "Anaita Merchant",
       "pin": "675", 
@@ -291,15 +179,6 @@
       "officer_letters": "0x80085"
     },
     {
-      "img": "682U.jpg",
-      "name": "Jasmine Pok",
-      "pin": "682",
-      "pledge_name": "Farmersonly.com",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Biomedical",
-      "officer_letters": "VV!"
-    },
-    {
       "img": "683U.jpg",
       "name": "Javier Diaz De Sandi Viramontes",
       "pin": "683",
@@ -313,14 +192,6 @@
       "name": "Nathan Cervantes",
       "pin": "684",
       "pledge_name": "Yagoobian",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Civil"
-    },
-    {
-      "img": "685U.jpg",
-      "name": "Alyssa Ishida",
-      "pin": "685",
-      "pledge_name": "Life uhh Finds a Way",
       "pledge_class": "Rho Gamma F'21",
       "major": "Civil"
     },
@@ -364,14 +235,6 @@
       "pledge_name": "Gladiator",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Civil"
-    },
-    {
-      "img": "692.jpg",
-      "name": "Thaliah Cardenas",
-      "pin": "692",
-      "pledge_name": "Ostrich",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Architectural"
     },
     {
       "img": "695.jpg",
@@ -481,14 +344,6 @@
       "pledge_name": "🅱️ig Dipper",
       "pledge_class": "Tau Gamma F'22",
       "major": "Aerospace"
-    },
-    {
-      "img": "710.jpg",
-      "name": "Faisal Aljehairan",
-      "pin": "710",
-      "pledge_name": "E = MC^2",
-      "pledge_class": "Tau Gamma F'22",
-      "major": "Petroleum"
     },
      {
       "img": "711.jpg",
