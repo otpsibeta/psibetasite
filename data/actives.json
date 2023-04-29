@@ -1,7 +1,7 @@
 {
   "actives": [
     {
-      "img": "635U.jpg",
+      "img": "635.jpg",
       "name": "Hazel Helfman", 
       "pin": "635",
       "pledge_name": "Rupert",
@@ -10,7 +10,7 @@
       "officer_letters": "VV! XX!"
     },
     {
-      "img": "638U.jpg",
+      "img": "638.jpg",
       "name": "Daniel Young",
       "pin": "638",
       "pledge_name": "Queen :b:",
@@ -19,7 +19,7 @@
       "officer_letters": "TT!"
     },
     {
-      "img": "648U.jpg",
+      "img": "648.jpg",
       "name": "Tanten Jones",
       "pin": "648",
       "pledge_name": "Ace Ventura",
@@ -27,15 +27,16 @@
       "major": "Mechanical"
     },
     {
-      "img": "654U.jpg",
+      "img": "654.jpg",
       "name": "Sara Faulkner",
       "pin": "654",
       "pledge_name": "Tator Tot",
       "pledge_class": "Pi Gamma S'21",
-      "major": "Biomedical"
+      "major": "Biomedical",
+      "officer_letters": "YY!"
     },
     {
-      "img": "656U.jpg",
+      "img": "656.jpg",
       "name": "Harsha Rajesh",
       "pin": "656",
       "pledge_name": "Pizza Nut",
@@ -44,7 +45,7 @@
       "officer_letters": "TT! R!"
     },
     {
-      "img": "657U.jpg",
+      "img": "657.jpg",
       "name": "Layan \"Its Layan Time\" Al Hasan",
       "pin": "657",
       "pledge_name": "Creme, Brute?",
@@ -53,7 +54,7 @@
       "officer_letters": "Y!"
     },
     {
-      "img": "658U.jpg",
+      "img": "658.jpg",
       "name": "Neel Patel",
       "pin": "658",
       "pledge_name": "$GME",
@@ -69,7 +70,7 @@
       "major": "Aerospace"
     },
     {
-      "img": "662U.jpg",
+      "img": "662.jpg",
       "name": "Hannah Boucher",
       "pin": "662",
       "pledge_name": "GUMGUM",
@@ -77,7 +78,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "665U.jpg",
+      "img": "665.jpg",
       "name": "Chris An",
       "pin": "665",
       "pledge_name": "Is She Even Italian?",
@@ -85,7 +86,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "667U.jpg",
+      "img": "667.jpg",
       "name": "Caleb Domingue",
       "pin": "667",
       "pledge_name": "“That isn’t even a dinosaur” - Zachary Lopez",
@@ -93,7 +94,7 @@
       "major": "Electrical"
     },
     {
-      "img": "668U.jpg",
+      "img": "668.jpg",
       "name": "Sachin Nair",
       "pin": "668",
       "pledge_name": "The Webmaster Council",
@@ -102,7 +103,7 @@
       "officer_letters": "0x2222 X!"
     },
     {
-      "img": "669U.jpg",
+      "img": "669.jpg",
       "name": "Courtney Kang",
       "pin": "669",
       "pledge_name": "Ammonium thioglycolate",
@@ -111,7 +112,7 @@
       "officer_letters": "UU! W!"
     },
     {
-      "img": "670U.jpg",
+      "img": "670.jpg",
       "name": "Alex Wong",
       "pin": "670",
       "pledge_name": "Historically Close Friends",
@@ -120,15 +121,16 @@
       "officer_letters": "TT!"
     },
     {
-      "img": "671U.jpg",
+      "img": "671.jpg",
       "name": "Maddie McGinnis",
       "pin": "671",
       "pledge_name": "“I have the power of god AND chicken on my side”",
       "pledge_class": "Rho Gamma F'21",
-      "major": "Architectural"
+      "major": "Architectural",
+      "officer_letters": "WW!"
     },
     {
-      "img": "675U.jpg",
+      "img": "675.jpg",
       "name": "Anaita Merchant",
       "pin": "675", 
       "pledge_name": "Experiment 626",
@@ -136,7 +138,7 @@
       "major": "Mechanical"
     },
     {
-      "img": "676U.jpg",
+      "img": "676.jpg",
       "name": "Ashton Cole",
       "pin": "676",
       "pledge_name": "Dr Pepper Museum & Free Enterprise Institute",
@@ -145,7 +147,7 @@
       "officer_letters": "RR! VV!"
     },
     {
-      "img": "677U.jpg",
+      "img": "677.jpg",
       "name": "Pablo Sosa",
       "pin": "677",
       "pledge_name": "Hot Rod",
@@ -153,7 +155,7 @@
       "major": "Civil"
     },
     {
-      "img": "678U.jpg",
+      "img": "678.jpg",
       "name": "Purva Kantawala",
       "pin": "678",
       "pledge_name": "Peach Bellini",
@@ -161,7 +163,7 @@
       "major": "Electrical"
     },
     {
-      "img": "679U.jpg",
+      "img": "679.jpg",
       "name": "Nick Nola",
       "pin": "679",
       "pledge_name": "Cheddar",
@@ -170,7 +172,7 @@
       "officer_letters": "ZZ!"
     },
     {
-      "img": "680U.jpg",
+      "img": "680.jpg",
       "name": "Chloe Posluszny",
       "pin": "680",
       "pledge_name": "Wow!",
@@ -179,7 +181,7 @@
       "officer_letters": "0x80085"
     },
     {
-      "img": "683U.jpg",
+      "img": "683.jpg",
       "name": "Javier Diaz De Sandi Viramontes",
       "pin": "683",
       "pledge_name": "Put em up and knock em down",
@@ -188,7 +190,7 @@
       "officer_letters": "Z!"
     },
     {
-      "img": "684U.jpg",
+      "img": "684.jpg",
       "name": "Nathan Cervantes",
       "pin": "684",
       "pledge_name": "Yagoobian",
@@ -207,7 +209,7 @@
     {
       "img": "688.jpg",
       "name": "Kiki Morty",
-      "pin": "687",
+      "pin": "688",
       "pledge_name": "🅱️romance",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Aerospace"
