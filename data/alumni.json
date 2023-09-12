@@ -4312,6 +4312,14 @@
       "major": "Biomedical"
     },
     {
+      "img": "659.jpg",
+      "name": "Ethan Connett",
+      "pin": "659",
+      "pledge_name": "Funky Monkey",
+      "pledge_class": "Pi Gamma S'21",
+      "major": "Biomedical"
+    },
+    {
       "img": "663.jpg",
       "name": "Pooja Vedam",
       "pin": "663",
@@ -4340,6 +4348,14 @@
       "name": "Mia Moore",
       "pin": "674",
       "pledge_name": "French Onion Soup",
+      "pledge_class": "Rho Gamma F'21",
+      "major": "Environmental"
+    },
+    {
+      "img": "679.jpg",
+      "name": "Nick Nola",
+      "pin": "679",
+      "pledge_name": "Cheddar",
       "pledge_class": "Rho Gamma F'21",
       "major": "Environmental"
     },
@@ -4382,6 +4398,14 @@
       "pledge_name": "Scrambled Eggs",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Mechanical/Electrical"
+    },
+    {
+      "img": "698.jpg",
+      "name": "Chukwuka Madueke",
+      "pin": "698",
+      "pledge_name": "Chobani",
+      "pledge_class": "Sigma Gamma S'22",
+      "major": "Mechanical"
     },
     {
       "img": "701.jpg",
