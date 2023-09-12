@@ -54,14 +54,6 @@
       "major": "Chemical"
     },
     {
-      "img": "659.jpg",
-      "name": "Ethan Connett",
-      "pin": "659",
-      "pledge_name": "Funky Monkey",
-      "pledge_class": "Pi Gamma S'21",
-      "major": "Aerospace"
-    },
-    {
       "img": "662.jpg",
       "name": "Hannah Boucher",
       "pin": "662",
@@ -155,15 +147,6 @@
       "major": "Electrical"
     },
     {
-      "img": "679.jpg",
-      "name": "Nick Nola",
-      "pin": "679",
-      "pledge_name": "Cheddar",
-      "pledge_class": "Rho Gamma F'21",
-      "major": "Environmental",
-      "officer_letters": "ZZ!"
-    },
-    {
       "img": "680.jpg",
       "name": "Chloe Posluszny",
       "pin": "680",
@@ -197,14 +180,6 @@
       "pledge_class": "Sigma Gamma S'22",
       "major": "Aerospace",
       "officer_letters": "RR!"
-    },
-    {
-      "img": "688.jpg",
-      "name": "Kiki Morty",
-      "pin": "688",
-      "pledge_name": "🅱️romance",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Aerospace"
     },
     {
       "img": "689.jpg",
@@ -253,16 +228,7 @@
       "pledge_name": "Twisted Tea",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Architectural"
-    },
-    {
-      "img": "698.jpg",
-      "name": "Chukwuka Madueke",
-      "pin": "698",
-      "pledge_name": "Chobani",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Mechanical"
-    },
-    
+    },  
     {
       "img": "699.jpg",
       "name": "Sanjana Chemuturi",
@@ -270,14 +236,6 @@
       "pledge_name": "Ford F150 Lightning Edition",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Biomedical"
-    },
-    {
-      "img": "700.jpg",
-      "name": "Srikruti Vinnakota",
-      "pin": "700",
-      "pledge_name": "Rafiki",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Enviornmental"
     },
     {
       "img": "702.jpg",
