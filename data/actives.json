@@ -1,15 +1,6 @@
 {
   "actives": [
     {
-      "img": "635.jpg",
-      "name": "Hazel Helfman", 
-      "pin": "635",
-      "pledge_name": "Rupert",
-      "pledge_class": "Omicron Gamma S'20",
-      "major": "Chemical",
-      "officer_letters": "VV! XX!"
-    },
-    {
       "img": "638.jpg",
       "name": "Daniel Young",
       "pin": "638",
@@ -173,15 +164,6 @@
       "major": "Civil"
     },
     {
-      "img": "687.jpg",
-      "name": "Charles Chowder Bell",
-      "pin": "687",
-      "pledge_name": "h",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Aerospace",
-      "officer_letters": "RR!"
-    },
-    {
       "img": "689.jpg",
       "name": "Bel Soto",
       "pin": "689",
@@ -204,23 +186,7 @@
       "pledge_name": "Gladiator",
       "pledge_class": "Sigma Gamma S'22",
       "major": "Civil"
-    },
-    {
-      "img": "695.jpg",
-      "name": "Rylan Hanks",
-      "pin": "695",
-      "pledge_name": "Scooby Dooby dooin’ ur mom",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Electrical"
-    },
-    {
-      "img": "697.jpg",
-      "name": "GianPaulo Garcia",
-      "pin": "697",
-      "pledge_name": "Twisted Tea",
-      "pledge_class": "Sigma Gamma S'22",
-      "major": "Architectural"
-    },  
+    }, 
     {
       "img": "699.jpg",
       "name": "Sanjana Chemuturi",
