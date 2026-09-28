@@ -1,15 +1,6 @@
 {
   "actives": [
     {
-      "img": "707.jpg",
-      "name": "Aaron Spicker",
-      "pin": "707",
-      "pledge_name": "Pinto XXIII",
-      "pledge_class": "Tau Gamma F'22",
-      "major": "Biomedical",
-      "officer_letters": "UU! WW! XX!"
-    },
-    {
       "img": "734A.jpg",
       "name": "Nathan Hunt",
       "pin": "734",
@@ -78,16 +69,7 @@
       "pledge_class": "Psi Gamma F'24",
       "major": "Mechanical",
       "officer_letters":  "VV!"
-    },    
-    {
-      "img": "771.jpg",
-      "name":"Vivaan Rupani",
-      "pin": "771",
-      "pledge_name": ";",
-      "pledge_class": "Psi Gamma F'24",
-      "major": "Aerospace"
-    },
-    
+    },        
     {
       "img": "772.jpg",
       "name":"Brandon Gibson",
